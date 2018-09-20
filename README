@@ -1,0 +1,46 @@
+********************************************************************************
+*                                Idol Hakkenden                                *
+*                     English Translation Patch Materials                      *
+********************************************************************************
+
+This package contains the source materials (code/art/script) for the English
+translation project for the Famicom game Idol Hakkenden.
+
+                    ****************************************
+                    *          Build Instructions          *
+                    ****************************************
+                    
+The build system is only set up for Unix-like systems, though none of the code
+is fundamentally dependent on this and could be ported with a bit of effort.
+You'll need GCC.
+
+Get a ROM image of the original game. This should be the No-Intro verified dump
+("Idol Hakkenden (Japan).nes") with an iNES header; the MD5 sum should be
+c4fa4cc1d11e0f70e7db04a30e18ddbd. Rename it "idolhak.nes" and place it in the
+"idolhak" folder. Then:
+
+$ cd idolhak
+$ ./build.sh
+
+build.sh should then build all the necessary tools and output the translated
+ROM as idolhak_en.nes.
+
+If you want to modify the project, check build.sh to see where the resources
+that get inserted into the game are coming from.
+
+                    ****************************************
+                    *              Licensing               *
+                    ****************************************
+
+See COPYING. Basically, everything by me (Supper) is GPLv3, and everything else
+is under the terms of whoever wrote it.
+
+                    ****************************************
+                    *               Credits                *
+                    ****************************************
+
+                        TheMajinZenki -- Translation
+                               cccmar -- Editing & Testing
+                               Supper -- Hacking
+                               Filler -- Initial Work
+
