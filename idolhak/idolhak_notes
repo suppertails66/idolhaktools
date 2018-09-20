@@ -1,0 +1,83 @@
+
+
+data:
+  192: pointer table (0x3A entries?) for ending lyrics  
+  
+  3C42: pointer to pointer table of staff roll maps?
+  3C44: pointer table (0x22 entries) for staff roll maps?
+    format:
+      2b BE ppuaddr (lower line)
+  
+  206: intro screen tilemap
+    pointer: 0x28
+  
+  9A0: password tilemaps
+  
+  1AEF: pointer table (0x21 entries) for intro dialogue
+  51B1: pointer table (0xEE entries) for act 1? dialogue
+  90A4: pointer table (0xFD entries) for act 2? dialogue
+  CF9A: pointer table (0xF4 entries) for act 3? dialogue
+  1104C: pointer table (0xE4 entries) for act 4? dialogue
+  15449: pointer table (0xEF entries) for act 5? dialogue
+    
+  4A63: tilemap for Act 1 start screen
+    pointer = 40C4
+  8AB0: tilemap for Act 2 start screen (top/start only?)
+    pointers = 80B8, 80BA, 80BC, 80E8
+  1EC12: tilemap for Act 2 start screen (end?)
+    pointer = 80D0
+  CB37: tilemap for Act 3 start screen
+  10A1C: tilemap for Act 4 start screen
+  14DDE: tilemap for Act 5 start screen (top/start only?)
+  
+  1D8BF: menu action labels (7b each, 0xA0 total?)
+    * pointer to start of this data at 1D8BD
+  
+  51E: title screen tilemap 1 (blank = 6CE)
+  554: title screen tilemap 2 (blank = 704)
+  58A: title screen tilemap 3 (blank = 73A)
+
+17A55 = attribute index (from master table) for act 5 "pose" screen
+  
+
+routines:
+  1C187: jump based on table following stack ret addr
+  1C19D: add A to the 16-bit zero page value at $00XX
+  1C1B5: 16-bit multiplication of A by X to 003F?
+  ~1CE91: "master update routine" select based on value of 0038?
+  1D0BE: ???
+  1D4C8: set up PPU transfer queue address
+  ~1D800: copy selected menu item to RAM $0590
+  1DD55: write an MMC1 register: A = value, X = target reg
+
+note: reset vector points to BFD0 -- must have handler in all banks
+  * furthermore, the game's existing reset code requires the first byte
+    of every bank to be 80-FF (a value that can be INCed to reset the
+    MMC1 serial register)
+  1C049 = NMI
+  1C0DD = irq
+ 
+0A of every bank = pointer to function table?
+
+banks:
+  0004 = string table?
+  000A = entry point?
+  0026 = ?
+  
+memory:
+  0038: "program state" variable determining (some?) update routine
+        see 1CE91 -- high bit set = init needed?
+        * 01-06 == various "stages" of printing? all go to DC93
+  0052: used as target banknum
+  005F: current printing getpos
+  0061: position within current line?
+  0063: print delay counter?
+  0064: linenum
+  0065: print ppu putpos?
+  0067: string index?
+  0069: scene attribute map index?
+  00AD: current free bank num?
+  0412: ?
+  0590: PPU transfer queue
+  0690: ?
+  0700-07FF: OAM?

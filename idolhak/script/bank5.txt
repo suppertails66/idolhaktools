@@ -1,0 +1,3619 @@
+// Script 0x15449-0x0 (0x15627)
+<$00>
+// [br]
+// 　[br]
+// 　[br]
+// 　[end]
+[br]
+ [br]
+ [br]
+
+[end]
+
+#END()
+
+// Script 0x15449-0x1 (0x1562F)
+<$00>
+// ヤモリミユキに　あんないされた[br]
+// エリカは　あんこくイロモノじょう[br]
+// てんしゅかくで　イロモノだいおう[br]
+// と　むかいあった[end]
+Erika follows[br]
+Miyuki Yamori up[br]
+the tower of the[br]
+Kooky Kastle,[br]
+
+until she faces[br]
+the Kooky King.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x2 (0x1566B)
+<$0D>
+// 「やくそくよ　ホシミちゃんを[br]
+// かえして」[end]
+{Let Hoshimi go![br]
+You promised!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x3 (0x15681)
+<$47>
+// 「よかろう、ホシミは　つれていけ[br]
+// ただし　ほんにんが　なんという[br]
+// かな」[end]
+{Very well.[br]
+She's free to[br]
+go. But is it[br]
+really what SHE[br]
+
+wants?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x4 (0x156A7)
+<$05>
+// 「ホシミちゃん、かえりましょ」[end]
+{Let's go home,[br]
+Hoshimi.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x5 (0x156B8)
+<$13>
+// 「おこたえいたします　エリカさん[br]
+// わたくしは　いっしょにかえること[br]
+// が　できません」[end]
+{If I may speak[br]
+freely, I cannot[br]
+follow you, Eri-[br]
+ka.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x6 (0x156E4)
+<$0C>
+// 「えっ、どうして？」[end]
+{Huh? Why not??}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x7 (0x156F0)
+<$13>
+// 「おこたえいたします　エリカさん[br]
+// ごめんなさい　わたくしは…[br]
+// じつは　スパイだったのです」[end]
+{I am truly[br]
+sorry, Erika.[br]
+The truth is...I[br]
+am a spy.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x8 (0x1571F)
+<$0C>
+// 
+
+
+[fa]<$47>
+
+// 
+
+
+[fc]<$2F>
+
+// 「がーん」[end]
+(SHOCK)
+
+[end]
+
+#END()
+
+// Script 0x15449-0x9 (0x1572A)
+<$47>
+// 「ホシミは　おまえを　みはるため[br]
+// の　スパイだったのだ[wait]
+{Hoshimi was a[br]
+spy I sent to[br]
+watch you all[br]
+along.
+
+[wait]
+
+// かくいう　わがはいも[br]
+// }しんじつ　イチロウ}なる　なで[br]
+// おまえに　せっしょくしたことも[br]
+// あったがな…」[end]
+In fact, *Ichiro[br]
+Shinjitsu' was[br]
+me all along, an[br]
+identity I[br]
+
+created to get[br]
+in touch with[br]
+you.}
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA (0x1577B)
+<$00>
+// ＢＡＤ　ＥＮＤ[end]
+BAD END
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB (0x15784)
+<$47>
+// 「わしが　ホシミ・くわしを[br]
+// おまえのもとに　おくりこみ[br]
+// しゅぎょうの　てだすけを[br]
+// させたのは[wait]
+{Everything I've[br]
+done, sending[br]
+Hoshimi and Ku-[br]
+washi to guide[br]
+
+you through your[br]
+trials, was for[br]
+a single pur-[br]
+pose:
+
+[wait]
+
+// あんこくイロモノてんごくのらんに[br]
+// きょうりょく　させるためだ！」[end]
+giving you the[br]
+skills to help[br]
+me create a Koo-[br]
+ky Paradise!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC (0x157D5)
+<$0D>
+// 「そんなことかってにきめないで」[end]
+{Why are you so[br]
+obsessed with[br]
+me?!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD (0x157E7)
+<$47>
+// 「おまえには　すばらしい[br]
+// さいのうが　ある[wait]
+{Because of your[br]
+incredible po-[br]
+tential.
+
+[wait]
+
+// なぜなら　おまえはイロモノかいの[br]
+// サラブレッド、つまるところ[br]
+// わしの　まごじゃからだ！」[end]
+You are a Kooky[br]
+thoroughbred.[br]
+After all...[wait]
+
+You are my[br]
+granddaughter!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE (0x1582B)
+<$00>
+// うまくいくとは　おもえません[end]
+You doubt it'll[br]
+work well in[br]
+this situation.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xF (0x1583B)
+<$47>
+// 「なかまに　くわわれ、わがまごよ[br]
+// そして…[br]
+// ぐんだんの　じょおうとなるのだ」[end]
+{Join me, my[br]
+granddaughter.[br]
+Join my army...[wait]
+
+as the Kooky[br]
+Kueen!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x10 (0x15863)
+<$10>
+// 「えー、エリカわかんなーい」[end]
+{Huuh?? I don't[br]
+get iiit!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x11 (0x15873)
+<$47>
+// 「フフフフフ　とぼけかたが[br]
+// ずいぶん　イロモノっぽくなって[br]
+// きおったのお」[end]
+{Acting dumb?}[br]
+(chuckle)[br]
+{I like it.[wait]
+
+You're turning[br]
+Kookier by the[br]
+minute!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x12 (0x1589A)
+<$05>
+// 「いいわ　なかまになるわ」[end]
+{Okay, I'll[br]
+join.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x13 (0x158A9)
+<$05>
+// 「でも　それもたのしそうね[br]
+// いいわ　なかまになるわ」[end]
+{I guess that[br]
+sounds kinda[br]
+fun. Okay, I'll[br]
+join.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x14 (0x158C5)
+<$00>
+// こうして　あんこくイロモノ[br]
+// じょおうとなった　エリカは[br]
+// よのなかを　アホたれにするため[br]
+// かつやくしたということである[end]
+And so Erika be-[br]
+came the Kooky[br]
+Kueen, spreading[br]
+silliness and[br]
+
+idiocy all over[br]
+the world.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x15 (0x15901)
+<$0D>
+// 「いやよ　わたしはうたで、せかい[br]
+// じゅうを　かんどうさせるのよ」[end]
+{I told you, I[br]
+want to move the[br]
+hearts of people[br]
+from all over[br]
+
+the world with[br]
+my songs!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x16 (0x15923)
+<$47>
+// 「こむすめが　ざれごとを！[br]
+// くらえ、イロモノ[c2]こうせん！」[end]
+{Enough of that[br]
+nonsense! Take[br]
+this![wait]
+
+Kooky [c2] Beam!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x17 (0x15942)
+<$00>
+// だいおうの　ゆびさきから[br]
+// イロモノ[c2]こうせんが　ほとばしり[br]
+// エリカを　ちょくげきした[end]
+The King fires[br]
+the Kooky [c2] Beam[br]
+from his finger-[br]
+tip, hitting[br]
+
+Erika.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x18 (0x1596E)
+<$0C>
+// 「きゃあー！」[end]
+{EEEK!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x19 (0x15977)
+<$3A>
+// 「だいおうさまの　ひっさつワザ[br]
+// イロモノ[c2]こうせんよ　これを[br]
+// あびつづけると　せいじょうな[br]
+// しこうが　できなくなるの[wait]
+{That's the[br]
+King's super[br]
+skill, the Kooky[br]
+[c2] Beam! The[br]
+
+longer it hits[br]
+you, the crazier[br]
+you get!
+
+[wait]
+
+// はやくこうさんして　なかまに[br]
+// なりなさい」[end]
+You'd better[br]
+surrender and[br]
+join us quick-[br]
+ly!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x1A (0x159C9)
+<$0E>
+// 「おじいちゃん　たすけて！」[br]
+// しかし　こんなことで[br]
+// てをやすめる　だいおうではない[end]
+{D-Don't do[br]
+this, grandpa!}[wait]
+
+Unfortunately,[br]
+this plea has no[br]
+effect on the[br]
+King.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x1B (0x159F4)
+<$47>
+// 
+
+
+[fc]<$22>
+
+// 「ほーれ　ほーれ　おしおきじゃ！[br]
+// どうだ　なかまになるか」
+{Hahahahah! So?[br]
+Ready to join me[br]
+yet?}
+
+[fc]<$22>
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x1C (0x15A17)
+<$00>
+// エリカはごうじょうに　つっぱねた[end]
+Erika stubbornly[br]
+refuses.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x1D (0x15A29)
+<$47>
+// 「このまま　このこうせんを[br]
+// あびつづけると、おまえの　のうは[br]
+// かんぜんに　はかいされ、イロモノ[br]
+// じょおうどころか、たんなる[br]
+// イロモノばかに　なりさがるぞ[br]
+// それでも　いいのか！」[end]
+{Just a little[br]
+longer, and my[br]
+Beam will com-[br]
+pletely destroy[br]
+
+your brain. For-[br]
+get being the[br]
+Kueen, you'll be[br]
+a normal, dumb[br]
+
+Kooky. Is that[br]
+what you want?!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x1E (0x15A83)
+<$00>
+// こうして　かたくなに[br]
+// こばみつづけたエリカは、とうとう[br]
+// イロモノ[c2]こうせんに　せんのう[br]
+// されて　イロモノだいおうの[wait]
+And so, due to[br]
+her stubborn-[br]
+ness, Erika is[br]
+completely[br]
+
+brainwashed by[br]
+the Kooky [c2][br]
+Beam, and she[br]
+becomes one of
+
+[wait]
+
+// てしたとなってしまいました[end]
+the King's many[br]
+minions.
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x1F (0x15ACC)
+<$05>
+// （ここはひとつ　こうさんする[br]
+// ふりを　したほうが　よさそうね）[wait]
+(I should pre-[br]
+tend to surren-[br]
+der for now.)
+
+[wait]
+
+// 「わかったわ、わたし　イロモノ[br]
+// じょおうに　なりまーす」[end]
+{Okay. I'll be-[br]
+come the Kooky[br]
+Kueen.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x20 (0x15B0A)
+<$47>
+// 「おお　そうかそうか」[wait]
+{Ohh, that's[br]
+great!}
+
+[wait]
+
+// イロモノだいおうは　かんたんに[br]
+// だまされた[end]
+The Kooky King[br]
+was easily de-[br]
+ceived.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x21 (0x15B2D)
+<$05>
+// 「ところで　どうやって　せかい[br]
+// せいふく　なさるんですか？」[end]
+{How are you go-[br]
+ing to conquer[br]
+the world, any-[br]
+way?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x22 (0x15B4D)
+<$47>
+// 「まあ　ついてこい」[end]
+{Follow me. I'll[br]
+show you.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x23 (0x15B59)
+<$00>
+// だいおうは　エリカを　ＡＳＯさん[br]
+// ないぶの　ひみつのようさいに[br]
+// あんないした[end]
+The King guides[br]
+Erika to a se-[br]
+cret base inside[br]
+Mt. ASO.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x24 (0x15B81)
+<$0C>
+// 「こんなところに　ひみつようさい[br]
+// が…」[end]
+{I never expec-[br]
+ted a secret[br]
+base in here...}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x25 (0x15B97)
+<$47>
+// 「どうだ　すごいだろう」[end]
+{Cool, huh?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x26 (0x15BA5)
+<$00>
+// ＡＳＯさんないぶには　きょだいな[br]
+// パラベラ・アンテナが　けんぞう[br]
+// されていた[end]
+There is a giant[br]
+parabolic an-[br]
+tenna inside Mt.[br]
+ASO.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x27 (0x15BCD)
+<$05>
+// 「こんな　すごいせつび[br]
+// どうつかうんですか？」[end]
+{How does this[br]
+awesome device[br]
+work?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x28 (0x15BE6)
+<$47>
+// 「このアンテナで　うちゅうじゅう[br]
+// の　じんこうえいせいを、じゆうに[br]
+// あやつり[wait]
+{This antenna[br]
+will let me con-[br]
+trol every sate-[br]
+llite in orbit[br]
+
+as I see fit.
+
+[wait]
+
+// わがイロモノ[c2]こうせんを　せかい[br]
+// じゅうの　つうしんしせつや[br]
+// テレビじゅぞうきに[br]
+// おくりこむのだ」[end]
+Then I'll be[br]
+able to fire my[br]
+Kooky [c2] Beam[br]
+from every[br]
+
+communication[br]
+institution and[br]
+TV set all over[br]
+the world.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x29 (0x15C40)
+<$0F>
+// 「わー　おもしろそー」[end]
+{Wow, that's[br]
+awesome!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x2A (0x15C4D)
+<$47>
+// 「さすれば　せかいじゅうが　みな[br]
+// イロモノばかになり、たのしくも[br]
+// ばかばかしい　よのなかに[br]
+// なるのだ　フハハハハハ」[end]
+{Afterwards,[br]
+everyone will[br]
+turn into a Koo-[br]
+ky, and the[br]
+
+entire world[br]
+will be a very[br]
+silly place![br]
+Mwahahahah!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x2B (0x15C89)
+<$0B>
+// 「でも、よく　こんなものつくる[br]
+// おかねが　ありましたねえ」[end]
+{This must have[br]
+cost a lot of[br]
+money to build.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x2C (0x15CA8)
+<$47>
+// 「みるがよい」[wait]
+{Behold!}
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x2D (0x15CB2)
+<$00>
+// だいおうが　ゆびさした　さきには[br]
+// エリカのあねの　シズカとレイカが[br]
+// たっていた[end]
+The King points[br]
+towards Erika's[br]
+sisters, Shizuka[br]
+and Reika.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x2E (0x15CDB)
+<$00>
+// すっかり　イロモノのかっこうです[end]
+They went full[br]
+Kooky.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x2F (0x15CED)
+<$0C>
+// 「おねえさまたち　どっどうして[br]
+// ここに！」[end]
+{Shizuka?! Rei-[br]
+ka?! W-What are[br]
+you doing[br]
+here?!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x30 (0x15D04)
+<$00>
+// 「はー　イロモノ　イロモノ」[end]
+{Hah! Kooky![br]
+Kooky!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x31 (0x15D14)
+<$0D>
+// 「おねえさまたちに　なにを[br]
+// したの！」[end]
+{What have you[br]
+done to my sis-[br]
+ters?!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x32 (0x15D29)
+<$47>
+// 「おまえを　イロモノタレントに[br]
+// してくれと　のこのこ　たのみに[br]
+// きたのでな、わがまりょくで[br]
+// せんのうしてやったのよ　[wait]
+{Your dear sis-[br]
+ters asked me to[br]
+turn you into a[br]
+Kooky Komedian,[br]
+
+so I brainwashed[br]
+them as they de-[br]
+served.
+
+[wait]
+
+// せこいやつらだが　かねだけは[br]
+// もっとるようなのでな」[end]
+They may have[br]
+been small-[br]
+minded, but[br]
+their funds[br]
+
+proved useful to[br]
+my cause.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x33 (0x15D80)
+<$0A>
+// 「イロモノ　イロモノ　へい[br]
+// へいへい」[end]
+{Kooky, Kooky,[br]
+hey! Hey hey!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x34 (0x15D95)
+<$47>
+// 「いきなり　うたいだすとは[br]
+// あっぱれな　イロモノぶり　やんや[br]
+// やんや」[end]
+{You're already[br]
+singing for no[br]
+reason at all,[br]
+like a proper[br]
+
+Kooky! Splen-[br]
+did!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x35 (0x15DBA)
+<$00>
+// だいおうはすっかり　うかれて[br]
+// います[end]
+The King looks[br]
+very happy.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x36 (0x15DCE)
+<$05>
+// 「いまがチャンスだわ」[end]
+{It's now or ne-[br]
+ver!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x37 (0x15DDB)
+<$00>
+// エリカはスタンガンを　だいおうに[br]
+// おしつけた[end]
+Erika thrusts[br]
+the stun gun[br]
+towards the[br]
+King.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x38 (0x15DF3)
+<$4A>
+// 
+
+
+[fc]<$20>
+
+// 「ぎゃー」[end]
+{ARGH!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x39 (0x15DFC)
+<$00>
+// 
+
+
+[fa]<$53>
+
+// だいおうに　すきができた[end]
+The King lowers[br]
+his guard.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x3A (0x15E0C)
+<$00>
+// エリカは　ドアのそとにでた[end]
+Erika leaves[br]
+through the[br]
+door.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x3B (0x15E1B)
+<$00>
+// つうしんしつと　かいたドアと[br]
+// ひみつとかかれた　ドアがあります[end]
+There is a door[br]
+labeled {Commu-[br]
+nications Room},[br]
+and one labeled[br]
+
+{Secret Room}.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x3C (0x15E3C)
+<$00>
+// へやのなかには、きんにくモリモリ[br]
+// の　こくじんが　まちかまえており[br]
+// エリカを　たちまち　トリコにして[br]
+// しまった[end]
+Inside the room[br]
+is a musclebound[br]
+foreigner, who[br]
+immediately[br]
+
+captures Erika.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x3D (0x15E75)
+<$00>
+// こうして　つかまってしまった[br]
+// エリカは　せんのうされて[br]
+// あんこくイロモノだいおうのてした[br]
+// となり[wait]
+And so, Erika is[br]
+brainwashed and[br]
+becomes a minion[br]
+of the Kooky
+
+[wait]
+
+// よのなかを　アホたれに　するため[br]
+// はたらいた　ということである[end]
+King, spreading[br]
+silliness all[br]
+over the world.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x3E (0x15EC7)
+<$4B>
+// つうしんしつには　イロモノ[br]
+// ぞうひょうがひとり　はいちされて[br]
+// いた[end]
+Inside the comm-[br]
+unications room[br]
+is a Kooky goon.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x3F (0x15EEA)
+<$00>
+// 
+
+
+[fc]<$20>
+
+// エリカはスタンガンで　ぞうひょう[br]
+// を　きぜつさせた[end]
+Erika pushes the[br]
+stun gun on the[br]
+goon, and he[br]
+passes out.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x40 (0x15F07)
+<$00>
+// エリカは　つうしんきで　なかまと[br]
+// れんらくを　とった[end]
+Erika uses one[br]
+of the devices[br]
+to contact her[br]
+friends.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x41 (0x15F23)
+<$05>
+// 「おうとうねがいます」[end]
+{Do you copy?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x42 (0x15F30)
+<$00>
+// ミサオの　おうとうが　あった[wait]
+Misao answers[br]
+her call.
+
+[wait]
+
+// 
+[spkr]<$1D>
+// 「エリカちゃんやね　うちらいま[br]
+// ＡＳＯさんのふもとまで[br]
+// きとるんや」[end]
+{That you, Eri-[br]
+ka? We're right[br]
+at the bottom of[br]
+Mt. ASO.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x43 (0x15F65)
+<$05>
+// 「よかったわ　すぐに、ごうりゅう[br]
+// するから　まっててね」[end]
+{That's great![br]
+I'll be there[br]
+soon. Wait for[br]
+me.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x44 (0x15F83)
+<$00>
+// 
+
+
+[fc]<$1E>
+
+// 「バーン！」[end]
+(BANG)
+
+[end]
+
+#END()
+
+// Script 0x15449-0x45 (0x15F8D)
+<$00>
+// こしに　ピストルを　ぶらさげて[br]
+// います　つかえるかも　しれません[end]
+You notice he[br]
+has a gun hol-[br]
+stered. You may[br]
+need it...
+
+[end]
+
+#END()
+
+// Script 0x15449-0x46 (0x15FAF)
+<$00>
+// エリカは　ピストルを　てにいれた[end]
+Erika takes the[br]
+gun.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x47 (0x15FC1)
+<$00>
+// エリカは　つうしんしつの　そとへ[br]
+// でた　だが　そこには　イロモノ[br]
+// だいおうが　まちかまえていた[end]
+Erika leaves the[br]
+communications[br]
+room...But she[br]
+finds the Kooky[br]
+
+King waiting for[br]
+her.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x48 (0x15FF2)
+<$47>
+// 「よくも　だましてくれたな[br]
+// もう　ゆるしてはおけぬ　[wait]
+{You tricked me![br]
+You've forced my[br]
+hand.
+
+[wait]
+
+// いでよ　ドラッグやろう　ばくそう[br]
+// いちばんぼし、べン・べンソン」[wait]
+Now you face Ben[br]
+Benson, Drug &[br]
+Field champion!}
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x49 (0x16030)
+<$00>
+// いきなり　きんにくモリモリの[br]
+// こくじんが　しゅつげんした[end]
+A musclebound[br]
+foreigner[br]
+appears out of[br]
+nowhere.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x4A (0x1604E)
+<$47>
+// 「ソウル・オリンピックで[br]
+// ドーピングいはんになった[br]
+// べン・べンソンだ　[wait]
+{This is Ben[br]
+Benson. He was[br]
+disqualified[br]
+from the Seoul[br]
+
+Olympic Games[br]
+for doping.
+
+[wait]
+
+// ぐんだんの　ひみつへいきと　する[br]
+// ために　カナダから　よびよせた[br]
+// のだ　ゆけ　べン・べンソン」[end]
+I had him[br]
+brought from[br]
+Canada to become[br]
+my secret[br]
+
+weapon.[br]
+Go, Ben Benson!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x4B (0x160BA)
+<$00>
+// べン・べンソンが　エリカに[br]
+// せまってきた[end]
+Ben Benson is[br]
+running towards[br]
+Erika.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x4C (0x160D0)
+<$00>
+// エリカは　そくざに　にげた　だが[br]
+// べン・べンソンは　ものすごい[br]
+// スピードで　ぐんぐんせまってきた[end]
+Erika starts[br]
+running, but Ben[br]
+Benson is too[br]
+fast. He's[br]
+
+getting closer.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x4D (0x16102)
+<$00>
+// ついには　エリカは　がけっぷちに[br]
+// おいつめられてしまった[end]
+Finally, Erika[br]
+is cornered in[br]
+front of a[br]
+cliff.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x4E (0x16120)
+<$00>
+// したは　ふかいたにぞこです[br]
+// おちたら　ひとたまりもありません[end]
+It's a long way[br]
+down. You really[br]
+don't want to[br]
+fall.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x4F (0x16140)
+<$00>
+// べン・べンソンは　やすやすと[br]
+// かわしてしまった[end]
+Ben Benson dod-[br]
+ges with ease.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x50 (0x16159)
+<$00>
+// べン・べンソンにことばは　つうじ[br]
+// ません[end]
+Your words don't[br]
+seem to reach[br]
+Ben Benson.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x51 (0x1616F)
+<$00>
+// エリカは　ピストルを　とりだし[br]
+// おどしをかけた[end]
+Erika grips the[br]
+gun and points[br]
+it forward men-[br]
+acingly.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x52 (0x16188)
+<$0D>
+// 「これいじょう　ちかづいたら[br]
+// うっちゃうから」[end]
+{Don't come any[br]
+closer! I-I'll[br]
+shoot!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x53 (0x161A1)
+<$00>
+// しかし　べン・べンソンは[br]
+// かまわず　せまってきた[end]
+But Ben Benson[br]
+does not seem to[br]
+care, and draws[br]
+closer.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x54 (0x161BB)
+<$0B>
+// 「ほんとに　うつわけには[br]
+// いかないわ」[end]
+{I can't really[br]
+do it...I can't[br]
+shoot him.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x55 (0x161D0)
+<$00>
+// エリカは　おどすつもりで　そらに[br]
+// むけて　はっぽうした[end]
+Erika points the[br]
+gun upwards and[br]
+fires a warning[br]
+shot.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x56 (0x161ED)
+<$00>
+// そのおとを　きいたとたん[br]
+// べン・べンソンは　なぜか[br]
+// りくじょうきょうぎの[br]
+// スタート・ダッシュのまねをした[end]
+As he hears the[br]
+gunshot, Ben[br]
+Benson for some[br]
+reason assumes[br]
+
+the start posi-[br]
+tion of a track-[br]
+and-field event.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x57 (0x16223)
+<$00>
+// エリカは　そらにむけて　はっぽう[br]
+// した[end]
+Erika points the[br]
+gun upwards and[br]
+fires.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x58 (0x16238)
+<$05>
+// 「いまのが　うわさの[br]
+// ロケット・スタートね　[wait]
+{He's getting[br]
+ready for a[br]
+*flying start'!
+
+[wait]
+
+// このひと　れんしゅうの　しすぎで[br]
+// ピストルの　おとをきくと[br]
+// じょうけんはんしゃで[br]
+// とびだしちゃうんだわ」[end]
+
+He must have[br]
+trained so much[br]
+that a gunshot[br]
+makes him dash[br]
+
+as a conditioned[br]
+reflex!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x59 (0x16285)
+<$00>
+// そのおとを　きいたとたん[br]
+// べン・べンソンは[br]
+// ロケット・スタートで　とびだした[end]
+As soon as he[br]
+hears the gun-[br]
+shot, Ben Benson[br]
+goes for a[br]
+
+flying start.
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x5A (0x162AD)
+<$00>
+// エリカは　りょうてをあげて[br]
+// こうさんする　ふりをした[end]
+Erika raises[br]
+both hands and[br]
+pretends to[br]
+surrender.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x5B (0x162C9)
+<$10>
+// 「エリカ　こうさーんするわー[br]
+// つかまえにきてー」[end]
+{I surrender![br]
+Come get me!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x5C (0x162E3)
+<$00>
+// べン・べンソンが　ゆっくりと[br]
+// ちかづいてきた[end]
+Ben Benson app-[br]
+roaches slowly.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x5D (0x162FB)
+<$00>
+// そして　そのまま　がけしたへと[br]
+// おちていった[wait]
+He dashes[br]
+straight over[br]
+the edge of the[br]
+cliff.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x5E (0x16314)
+<$D2><$60>
+// 「ＡＨＨＨ　Ｉ　ＷＩＬＬ　ＢＥ[br]
+// ＢＡＣＫ！」[wait]
+{ＡＨＨＨ！ Ｉ'ＬＬ ＢＥ[br]
+ＢＡＣＫ！}
+
+[wait]
+
+// 
+[spkr]<$10>
+// 「オリンピックせんしゅ[br]
+// なんだから　このぐらいのガケから[br]
+// おちても　へいきよね……きっと」[wait]
+{He's an Olympic[br]
+athlete, so this[br]
+fall won't hurt[br]
+him...Yup.}
+
+[wait]
+
+// 
+[spkr]<$00>
+// こうして　べン・べンソンの[br]
+// こうげきを　かわしたエリカは[br]
+// モモミのいる　イロモノじょうない[br]
+// の　}かがみのま}へ　いどうした[c7][end]
+Having escaped[br]
+from Ben Benson,[br]
+Erika returns[br]
+to the mirror[br]
+
+room inside the[br]
+Kooky Kastle.
+
+[c7]
+[end]
+
+#END()
+
+// Script 0x15449-0x5F (0x1632E)
+<$10>
+// 「オリンピックせんしゅ[br]
+// なんだから　このぐらいのガケから[br]
+// おちても　へいきよね……きっと」[wait]
+{He's an Olympic[br]
+athlete, so this[br]
+fall won't hurt[br]
+him...Yup.}
+
+[wait]
+
+// 
+[spkr]<$00>
+// こうして　べン・べンソンの[br]
+// こうげきを　かわしたエリカは[br]
+// モモミのいる　イロモノじょうない[br]
+// の　}かがみのま}へ　いどうした[c7][end]
+Having escaped[br]
+from Ben Benson,[br]
+Erika returns[br]
+to the mirror[br]
+
+room inside the[br]
+Kooky Kastle.
+
+[c7]
+[end]
+
+#END()
+
+// Script 0x15449-0x60 (0x1635E)
+<$00>
+// こうして　べン・べンソンの[br]
+// こうげきを　かわしたエリカは[br]
+// モモミのいる　イロモノじょうない[br]
+// の　}かがみのま}へ　いどうした[c7][end]
+Having escaped[br]
+from Ben Benson,[br]
+Erika returns[br]
+to the mirror[br]
+
+room inside the[br]
+Kooky Kastle.
+
+[c7]
+[end]
+
+#END()
+
+// Script 0x15449-0x61 (0x1639F)
+<$05>
+// 「トオルさんの　ぐあいは？」[end]
+{How's Tooru do-[br]
+ing?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x62 (0x163AF)
+<$31>
+// 「うん　げんきに　なったみたい」[end]
+{He's doing be-[br]
+tter now.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x63 (0x163C1)
+<$05>
+// 「じゃあ　いどうしても[br]
+// だいじょうぶね　そとにでる[br]
+// ぬけみちを　あんないして[br]
+// ちょうだい」[end]
+{Then it should[br]
+be fine to move[br]
+him. Can you[br]
+guide us[br]
+
+outside?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x64 (0x163F0)
+<$00>
+// エリカは　モモミの　あんないを[br]
+// うけて　イロモノじょうの　そとに[br]
+// でた[end]
+Erika follows[br]
+Momomi outside[br]
+the Kooky Kast-[br]
+le.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x65 (0x16415)
+<$00>
+// むこうから　ヤチヨたちが　やって[br]
+// くるのが　みえます[end]
+Yachiyo and the[br]
+rest of your[br]
+friends are[br]
+here.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x66 (0x16431)
+<$00>
+// なかまに　さいかいした　エリカは[br]
+// イロモノだいおうの　たくらみを[br]
+// ヤチヨたちに　はなした[end]
+After reuniting[br]
+with her[br]
+friends, Erika[br]
+tells them about[br]
+
+the Kooky King's[br]
+plot.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x67 (0x1645F)
+<$22>
+// 「そんな　ふざけたやぼうを[br]
+// ゆるすわけには　いかないわね」[wait]
+{We can't let[br]
+him go through[br]
+with his mad[br]
+plan.}
+
+[wait]
+
+// 
+[spkr]<$1D>
+// 「そんなアホは　いっぺん[br]
+// どついたらな　あかんなー」[wait]
+{You said it.[br]
+He's totally[br]
+bonkers.}
+
+[wait]
+
+// エリカたち７にんは　あらたに[br]
+// だいおうの　やぼうを　うちくだく[br]
+// けついを　かためた[end]
+Now more than[br]
+ever, the seven[br]
+girls are firmly[br]
+determined to[br]
+
+stop the King's[br]
+ambition.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x68 (0x164C5)
+<$00>
+// エリカたち７にんは　ひみつ[br]
+// ようさいに　しんにゅうした[br]
+// そこでは　イロモノだいおうが[br]
+// まちかまえていた[end]
+Erika and her[br]
+friends enter[br]
+the secret base.[br]
+The Kooky King[br]
+
+was waiting for[br]
+them.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x69 (0x164FA)
+<$47>
+// 「こむすめどもが！みんなまとめて[br]
+// イロモノにしてくれるわ　かかれ[br]
+// ものども」[end]
+{You little[br]
+brats! I'll turn[br]
+you all into[br]
+Kookies![wait]
+
+Attack, my min-[br]
+ions!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x6A (0x16522)
+<$00>
+// ミユキとぞうひょうたちが[br]
+// エリカたちめがけて　おそい[br]
+// かかった[end]
+Miyuki and the[br]
+rest of the[br]
+goons attack[br]
+Erika and her[br]
+
+friends.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x6B (0x16543)
+<$00>
+// エリカは　ピストルを　かまえた[end]
+Erika readies[br]
+the gun.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x6C (0x16554)
+<$47>
+// 「エリカ、きさまにひとがうてる[br]
+// かな？」[end]
+{Do you have[br]
+what it takes to[br]
+shoot a real[br]
+person, Erika?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x6D (0x1656A)
+<$0B>
+// 「わたしには　やっぱりできない」[end]
+{No...I can't.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x6E (0x1657C)
+<$00>
+// もうしわけなさそうな　かおで[br]
+// こっちを　みています[end]
+She looks at[br]
+you apologeti-[br]
+cally.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x6F (0x16597)
+<$0C>
+// 「わー　どうしよう！」[end]
+{Waaah! W-What[br]
+do we do now?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x70 (0x165A4)
+<$31>
+// 「えっ、モモミ　わかんな〜い」[end]
+{I don't know[br]
+what to do!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x71 (0x165B5)
+<$18>
+// 「こういっては　なんだけど[br]
+// わたし　こわいわ」[end]
+{I'll say this[br]
+much: I'm terri-[br]
+fied.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x72 (0x165CE)
+<$1D>
+// 「うちは　コンピュータいがいは[br]
+// ちょっと……」[end]
+{I'm pretty much[br]
+only good with[br]
+computers...}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x73 (0x165E7)
+<$27>
+// 「ここはまかせな！あたいのかやく[br]
+// で　ふっとばしてやる」[end]
+{Leave it to me![br]
+I'll blow 'em[br]
+away with my[br]
+gunpowder!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x74 (0x16605)
+<$00>
+// 
+
+
+[fc]<$2A>
+
+// 「チュドーン！」[wait]
+(ka-BOOM)
+
+[wait]
+
+// ムラサキの　かやくが　さくれつし[br]
+// ぞうひょうどもは　ふっとんだ[wait]
+Murasaki's gun-[br]
+powder explodes,[br]]
+blowing the[br]
+goons away.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x75 (0x16632)
+<$47>
+// 「おのれー」[end]
+{Curse you!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x76 (0x1663A)
+<$47>
+// 「おのれー」[wait]
+{Curse you!}
+
+
+[wait]
+
+// 
+[spkr]<$00>
+// いかり　くるった　だいおうが[br]
+// つっこんできます[end]
+Enraged, the[br]
+King charges[br]
+ahead.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x77 (0x1665C)
+<$27>
+// 「いまので　かやく　つかいはたし[br]
+// ちまったい！」[end]
+{Sorry, that was[br]
+all the gunpow-[br]
+der I brought!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x78 (0x16676)
+<$2C>
+// 「よし　おれのカラテでだいおうを[br]
+// しとめてやる！かくご！」[end]
+{I'll kick the[br]
+King's butt with[br]
+my karate! Here[br]
+I come!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x79 (0x16695)
+<$47>
+// 「なんの、みなみのようこ[br]
+// こしゃくな！」[end]
+{Who do you[br]
+think you are,[br]
+the Karate[br]
+Kid?!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x7A (0x166AB)
+<$00>
+// 
+
+
+[fc]<$22>
+
+// だいおうの　ゆびさきから[br]
+// イロモノ[c2]こうせんが　ほとばしり[br]
+// ミドリを　ちょくげきした　[wait]
+The King fires[br]
+his Kooky [c2] Beam[br]
+at Midori.
+
+[wait]
+
+// ミドリはそのまま　イロモノ[br]
+// のひとに　なってしまった[wait]
+Midori immedi-[br]
+ately goes Koo-[br]
+ky!
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x7B (0x166F6)
+<$3F>
+// 「えへら　へら　へら」[end]
+{Eheheheheh...}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x7C (0x16703)
+<$18>
+// 「こういっては　なんだけど[br]
+// よくも　ミドリさんを！」[wait]
+{I'll say this[br]
+much: I'll make[br]
+you pay for what[br]
+you've done to[br]
+
+Midori!!}
+
+[wait]
+
+// いままでこわがっていた　ヤヨイが[br]
+// とつぜん　だいおうに[br]
+// とびかかった[wait]
+Even though she[br]
+was scared be-[br]
+fore, Yayoi[br]
+suddenly throws[br]
+
+herself at the[br]
+King.
+
+[wait]
+
+// 
+[spkr]<$47>
+// 「こむすめどもが　みんなまとめて[br]
+// イロモノにしてくれるわ」[wait]
+{Accursed girls![br]
+I'll turn you[br]
+all into Kook-[br]
+ies!}
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x7D (0x16763)
+<$47>
+// 
+
+
+[fc]<$22>
+
+// 「すぺしゃる　チェーイ！」[wait]
+{Special Pose![br]
+ACHOO!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// だいおうは　きゅうきょく[br]
+// イロモノ・ポーズを　とった[wait]
+The King assumes[br]
+his Ultimate[br]
+Kooky Pose.
+
+[wait]
+
+// あまりの　しょうもなさに[br]
+// エリカたち６にんは　まとめて[br]
+// へたりこんでしまった[wait]
+It's so idiotic[br]
+that Erika and[br]
+her friends sink[br]
+down to the[br]
+
+floor.
+
+[wait]
+
+// 
+[spkr]<$47>
+// 「イロモノ[c2]こうせんの[br]
+// いりょく　あじわうがよい！」[end]
+{And now, have a[br]
+taste of my Koo-[br]
+ky [c2] Beam!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x7E (0x167B9)
+<$47>
+// 「イロモノ[c2]こうせんの[br]
+// いりょく　あじわうがよい！」[end]
+{And now, have a[br]
+taste of my Koo-[br]
+ky [c2] Beam!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x7F (0x167D5)
+<$22>
+// 「エリカ、ピストルをかしなさい」[wait]
+{Erika, give me[br]
+the gun.}
+
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x80 (0x167E8)
+<$00>
+// エリカは　ピストルを　てわたした[end]
+Erika hands the[br]
+gun over.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x81 (0x167FA)
+<$00>
+// ヤチヨは　だいおうめがけて[br]
+// ピストルを　はっしゃした[br]
+// 
+Yachiyo points[br]
+the gun at the[br]
+King and fires.[wait]
+
+[fc]<$1E>
+
+// 「ダーン！」[wait]
+(BANG)
+
+[wait]
+
+// しかし　ねらいは　はずれ、うまの[br]
+// にんぎょうを　かすめたに[br]
+// とどまった[end]
+However, she[br]
+misses, grazing[br]
+the horse doll[br]
+instead.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x82 (0x16843)
+<$00>
+// しんじつイチロウが　めをさました[br]
+// ようです[end]
+Ichiro Shinjitsu[br]
+is waking up.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x83 (0x1685A)
+<$47>
+// 「おのれー　たいせつな[br]
+// イロモノギャロップを　ころす！」[wait]
+{Are you trying[br]
+to kill my dear[br]
+Kooky Gallop?!}
+
+[wait]
+
+// おおきな　かたなを　ぬきはなった[br]
+// だいおうが　けっそうをかえて[br]
+// おそいかかってきた[wait]
+The King is tru-[br]
+ly enraged now.[br]
+He unsheathes[br]
+his sword and[br]
+
+charges at you.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x84 (0x168A3)
+<$00>
+// めをさましたしんじつは[br]
+// おそるべき　あんこくイロモノ[br]
+// だいおうの　ひみつを[br]
+// かたりはじめた[wait]
+Having recovered[br]
+consciousness,[br]
+Shinjitsu tells[br]
+you the story of[br]
+
+the terrible[br]
+Kooky King.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x85 (0x168D3)
+<$00>
+// うごけません[end]
+Can't move.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x86 (0x168DB)
+<$13>
+// 「あぶなーい！」[wait]
+{Watch out!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// とつぜん　ホシミがかけより[br]
+// エリカたちの　たてとなった[end]
+Suddenly, Hoshi-[br]
+mi jumps to co-[br]
+ver Erika.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x87 (0x16903)
+<$13>
+// 
+
+
+[fc]<$04>
+
+// 「きゃー！」[wait]
+{Aaah!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// だいおうの　いちげきを　うけた　[br]
+// ホシミは　ひめいを　あげた　この[br]
+// ひめいが　エリカのじゅばくを[br]
+// やぶった　　　　　　　　　　　　
+The King hits[br]
+Hoshimi. Her[br]
+shriek of pain[br]
+is enough to[br]
+
+break Erika free[br]
+from the curse.
+
+[fc]<$79>
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x88 (0x16953)
+<$00>
+// とっさに　おきあがった　エリカは[br]
+// スタンガンを　だいおうに[br]
+// おしつけた[end]
+As soon as she[br]
+stands, Erika[br]
+thrusts the stun[br]
+gun towards the[br]
+
+King.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x89 (0x16978)
+<$4A>
+// 
+
+
+[fc]<$20>
+
+// 「ぐわああ　おのれ　ホシミ[br]
+// いままで　そだててきた　おんを[br]
+// わすれおって……」[end]
+{AARGH! C-Curse[br]
+you, Hoshimi![br]
+Have you for-[br]
+gotten who[br]
+
+raised you...?!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x8A (0x169A3)
+<$00>
+// だいおうは　さいだいげんの[br]
+// でんげきを　うけて　よろめいた[end]
+The King can[br]
+barely stand af-[br]
+ter receiving[br]
+that electric[br]
+
+shock.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x8B (0x169C2)
+<$0E>
+// 「しっかりして　ホシミちゃん」[end]
+{Hoshimi! Hang[br]
+in there!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x8C (0x169D3)
+<$44>
+// 「おこたえいたします　エリカさん[br]
+// だましていて　ごめんなさい[br]
+// ほんとは　あなたたちと　ずっと[br]
+// いっしょに　いたかった……」[end]
+{I-If I may[br]
+speak freely...[br]
+I'm sorry I de-[br]
+ceived you,[br]
+
+Erika...I really[br]
+wanted to be[br]
+friends with all[br]
+of you...}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x8D (0x16A12)
+<$0E>
+// 「きずは　あさいわ！[br]
+// しっかりして！」[end]
+{I-It's only a[br]
+scratch! You'll[br]
+be fine!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x8E (0x16A27)
+<$44>
+// 「おこたえいたします　このきずは[br]
+// ちめいしょうです[br]
+// もうたすかりません……ガクッ」[end]
+{If I may speak[br]
+freely...I know[br]
+this is a mortal[br]
+wound. My end is[br]
+
+nigh...}[br]
+(cough)
+
+[end]
+
+#END()
+
+// Script 0x15449-0x8F (0x16A52)
+<$00>
+// エリカは　トオルのあせを　ホシミ[br]
+// のきずに　ぬりこんだ[end]
+Erika pours Too-[br]
+ru's sweat over[br]
+Hoshimi's in-[br]
+jury.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x90 (0x16A6F)
+<$00>
+// どうようしています[end]
+Trembling.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x91 (0x16A7A)
+<$44>
+// 「おこたえいたします　きぶんが[br]
+// らくに　なりました　たすかるかも[br]
+// しれません」[end]
+{If I may speak[br]
+freely...I actu-[br]
+ally feel bett-[br]
+er. I may yet[br]
+
+survive.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x92 (0x16AA3)
+<$05>
+// 「ホシミちゃん、だいおうの[br]
+// じゃくてんを　おしえて」[end]
+{Hoshimi,[br]
+please. Tell me[br]
+his weakness.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x93 (0x16ABF)
+<$44>
+// 「おこたえいたします　だいおうの[br]
+// じゃくてんは　あのウマの[br]
+// ヌイグルミ、イロモノ・ギャロップ[br]
+// です　あれを　とるのです」
+{If I may speak[br]
+freely, the[br]
+King's weakness[br]
+is that horse[br]
+
+plush, Kooky[br]
+Gallop. You must[br]
+take it off of[br]
+him.}
+
+[fa]<$53>
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0x94 (0x16AFF)
+<$00>
+// エリカは　ギャロップを　とろうと[br]
+// だいおうに　とびかかった[end]
+Erika leaps[br]
+towards the[br]
+King, attempting[br]
+to take Gallop[br]
+
+off.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x95 (0x16B1E)
+<$47>
+// 
+
+
+[fc]<$22>
+
+// 「あまいわ、イロモノ[c2]こうせん」[end]
+{You fool! Be-[br]
+hold! Kooky [c2][br]
+Beam!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x96 (0x16B32)
+<$00>
+// ゆかに　たおれこむエリカ[br]
+// だいおうは　そのあたまを　あしで[br]
+// グリグリと　ふみつけた[end]
+Erika collapses[br]
+on the floor.[br]
+The King stamps[br]
+his foot on her[br]
+
+head and grinds[br]
+against it.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x97 (0x16B5D)
+<$47>
+// 「ゆっくりとせんのうしてくれる」[end]
+{I'll take my[br]
+time brainwash-[br]
+ing you...}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x98 (0x16B6F)
+<$47>
+// 「なんども　おなじてに[br]
+// やられるか！」[end]
+{I'm not falling[br]
+for that again!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x99 (0x16B84)
+<$00>
+// だいおうは　スタンガンをもった[br]
+// エリカのみぎうでを　ふみつけた[end]
+The King tram-[br]
+ples Erika's[br]
+right arm.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x9A (0x16BA5)
+<$00>
+// エリカは　あせのビンをとりだした[end]
+Erika takes out[br]
+the bottle of[br]
+sweat.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x9B (0x16BB7)
+<$47>
+// 「ほう、[br]
+// それを　どうつかうのかな？」[end]
+{Hmmm. And what[br]
+exactly are you[br]
+planning to do[br]
+with that?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x9C (0x16BCC)
+<$00>
+// あざわらうかのように　だいおうが[br]
+// のぞきこむ[end]
+The King looks[br]
+at you mocking-[br]
+ly.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x9D (0x16BE4)
+<$0D>
+// 「こう　つかうのよ！」[wait]
+{I'm doing...[br]
+this!}
+
+[wait]
+
+// 
+
+
+[fc]<$03>
+
+// エリカは　トオルのあせを[br]
+// だいおうのめに　ひっかけた[end]
+Erika splashes[br]
+the King's eyes[br]
+with Tooru's[br]
+sweat.
+
+[end]
+
+#END()
+
+// Script 0x15449-0x9E (0x16C0E)
+<$4A>
+// 「おおおー　これは　たまらん！」[end]
+{ARGGH! It[br]
+stings!!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0x9F (0x16C20)
+<$00>
+// だいおうは　めを　おさえて[br]
+// のたうちまわった[end]
+The King covers[br]
+his eyes, yell-[br]
+ing in pain.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA0 (0x16C38)
+<$00>
+// もうひとおし　ほしいところですね[end]
+You only need a[br]
+bit more...
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA1 (0x16C4A)
+<$00>
+// エリカは　スタンガンを　イロモノ[br]
+// だいおうの　こかんに　おしつけた[end]
+Erika pushes the[br]
+stun gun into[br]
+the King's...ne-[br]
+ther regions.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA2 (0x16C6D)
+<$13>
+// 「おこたえいたします　りっぱです[br]
+// エリカさん」[end]
+{If I may speak[br]
+freely, that was[br]
+splendid, Eri-[br]
+ka.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA3 (0x16C86)
+<$00>
+// だいおうは　さらに　のたうち[br]
+// まわった[end]
+The King writhes[br]
+in pain.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA4 (0x16C9B)
+<$05>
+// 「いまが　チャンスだわ！」[end]
+{Now's my[br]
+chance!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA5 (0x16CAA)
+<$00>
+// エリカは　だいおうに　とびつき[br]
+// イロモノ・ギャロップを　むしり[br]
+// とった[end]
+Erika jumps on[br]
+the King and[br]
+tears off Kooky[br]
+Gallop.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA6 (0x16CCF)
+<$00>
+// だいおうはすさまじい　さけびごえ[br]
+// をあげ、そのまま　しっしんした　
+The King lets[br]
+out a terrible[br]
+scream and fi-[br]
+nally falls to[br]
+
+the ground.
+
+[fa]<$75>
+
+// 
+
+
+[fc]<$75>
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA7 (0x16CF6)
+<$05>
+// 「このギャロップが　イロモノ[br]
+// だいおうの　じゃくてんだなんて[br]
+// ……」[end]
+{So Gallop was[br]
+the King's weak-[br]
+ness, huh...?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA8 (0x16D1A)
+<$00>
+// エリカは　なんのきなしに[br]
+// イロモノ・ギャロップに[br]
+// またがってみた　そのしゅんかん…[end]
+Erika inadver-[br]
+tantly sits as-[br]
+tride Kooky Ga-[br]
+llop. A few[br]
+
+seconds later...
+
+[end]
+
+#END()
+
+// Script 0x15449-0xA9 (0x16D45)
+<$00>
+// 
+
+
+[fc]<$22>
+
+// エリカの　ひめいが　あがった[end]
+Erika lets out a[br]
+shriek.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xAA (0x16D57)
+<$22>
+// 「どうしたの　エリカ！」[end]
+{What's wrong,[br]
+Erika?!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xAB (0x16D65)
+<$10>
+// 「ほほほほ　わたしは　あんこく[br]
+// イロモノじょおうよ！[wait]
+{Erika? Wrong. I[br]
+am the Kooky[br]
+Kueen!
+
+[wait]
+
+// つぎはかならず　あんこくイロモノ[br]
+// てんごくのらんを　せいこう[br]
+// させるわ！」[wait]
+I won't fail[br]
+this time. I[br]
+will create the[br]
+Kooky Paradise!}
+
+[wait]
+
+// そういうなり　エリカ、いや[br]
+// あんこくイロモノじょおうは[br]
+// いずこへともなく　きえさった[end]
+With that said,[br]
+Erika -- no, the[br]
+Kooky Kueen re-[br]
+treated to an[br]
+
+unknown destina-[br]
+tion.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xAC (0x16DD2)
+<$00>
+// じつは　イロモノだいおうの[br]
+// ほんたいは　イロモノ・ギャロップ[br]
+// であり、これを　そうちゃくして[br]
+// しまったものは[wait]
+As a matter of[br]
+fact, Kooky Ga-[br]
+llop was the[br]
+King's true[br]
+
+identity all[br]
+along.
+
+[wait]
+
+// そのじんかくを　のっとられ[br]
+// あんこくイロモノだいおう[br]
+// （もしくはじょおう）と　かして[br]
+// しまうのである[end]
+By mounting it,[br]
+you lose your[br]
+true self and[br]
+become the new[br]
+
+Kooky King (or[br]
+Kueen).
+
+[end]
+
+#END()
+
+// Script 0x15449-0xAD (0x16E3D)
+<$56>
+// エリカは　しんけんしらはどりで[br]
+// とめようとした[wait]
+Erika attempts[br]
+to stop the[br]
+blade between[br]
+her bare hands[br]
+
+like in a samu-[br]
+rai movie.
+
+[wait]
+
+// しかし、そんなわざは　できるわけ[br]
+// ないので、あたまをわられて[br]
+// のうかいぞう　されてしまった[end]
+Of course, she's[br]
+no samurai, and[br]
+the blade hits[br]
+her right in the[br]
+
+head, brainwash-[br]
+ing her.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xAE (0x16E84)
+<$00>
+// だいおうのすがたは　きえさり[br]
+// かわりに　しんじつイチロウが[br]
+// たおれています[end]
+The King is no[br]
+more. In his[br]
+place, Ichiro[br]
+Shinjitsu lies[br]
+
+on the floor.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xAF (0x16EAB)
+<$00>
+// おきません[end]
+//He won't wake[br]
+//up.
+
+// this message also applies to Hoshimi
+
+Not waking up...
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB0 (0x16EB2)
+<$13>
+// 「おこたえいたします　どうやら[br]
+// だいおうは　ほろびさったようです[br]
+// あんしんしてください」[end]
+{If I may speak[br]
+freely, it[br]
+appears you have[br]
+destroyed the[br]
+
+King. You may[br]
+relax now.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB1 (0x16EE0)
+<$22>
+// 「とにかく　おちつかなくちゃ」[end]
+{First of all,[br]
+you must calm[br]
+down.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB2 (0x16EF1)
+<$00>
+// こうして　エリカの　はたらきで[br]
+// せかいは　のーてんきにも[br]
+// すくわれたのである[end]
+And so, Erika[br]
+managed to pro-[br]
+tect the world's[br]
+status quo.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB3 (0x16F19)
+<$00>
+// だいおうは　かるがると　かわした[end]
+The King dodges[br]
+with ease.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB4 (0x16F2B)
+<$00>
+// とくに　とるものは　ありません[end]
+There is nothing[br]
+to pick up here.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB5 (0x16F3C)
+<$00>
+// いまは　つかわないほうが　いいで[br]
+// しょう[end]
+You shouldn't[br]
+use that here.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB6 (0x16F52)
+<$00>
+// ここで　つかうのは　かんがえもの[br]
+// ですね[end]
+The problem is[br]
+HOW to use it.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB7 (0x16F68)
+<$00>
+// ここでは　やくにたちません[end]
+That won't be[br]
+useful here.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB8 (0x16F77)
+<$00>
+// だれもいません[end]
+There is nobody[br]
+here.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xB9 (0x16F80)
+<$00>
+// しかし　なにも　おこらなかった[end]
+But nothing[br]
+happened.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xBA (0x16F91)
+<$00>
+// どこへいこうと　いうのですか[end]
+Where are you[br]
+trying to go?
+
+[end]
+
+#END()
+
+// Script 0x15449-0xBB (0x16FA1)
+<$00>
+// いまは　いどうしないほうが　いい[br]
+// でしょう[end]
+You'd better[br]
+stay where you[br]
+are for now.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xBC (0x16FB8)
+<$00>
+// エリカは　ひとりぼっちです[end]
+Erika is alone.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xBD (0x16FC7)
+<$00>
+// もうすこし　いましょうよ[end]
+Let's stay here[br]
+a bit longer.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xBE (0x16FD5)
+<$00>
+// そんなよゆうは　ありません[end]
+This isn't ex-[br]
+actly a good mo-[br]
+ment.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xBF (0x16FE4)
+<$00>
+// ここで　とぼけても[br]
+// しかたありません[end]
+There's not much[br]
+point in acting[br]
+dumb now, you[br]
+know.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC0 (0x16FF8)
+<$0A>
+// エリカの　ミラクルベイスが[br]
+// はつどうした[end]
+Erika displays[br]
+her Miracle[br]
+Voice.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC1 (0x1700E)
+<$11>
+// エリカは　すばらしいステップを[br]
+// ふんだ[end]
+Erika starts[br]
+dancing with[br]
+grace and ele-[br]
+gance.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC2 (0x17023)
+<$10>
+// なにをとぼけようと　いうのですか[end]
+Why are you act-[br]
+ing dumb?
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC3 (0x17035)
+<$31>
+// 「みんなでいけば、なんとか[br]
+// なるわ」[end]
+{It'll be fine[br]
+if we all do it[br]
+together.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC4 (0x17049)
+<$00>
+// イロモノじょうが　そびえたって[br]
+// います[end]
+The Kooky Kastle[br]
+towers over the[br]
+area.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC5 (0x1705E)
+<$22>
+// 「てきのかずが　おおすぎるわ」[end]
+{There's too ma-[br]
+ny of them...}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC6 (0x1706F)
+<$00>
+// かいふくしたようです[end]
+//Successfully[br]
+//recovered.
+Fully recovered.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC7 (0x1707B)
+<$27>
+// 「おもしろくなって　きたぜ」[end]
+{This is getting[br]
+interesting!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC8 (0x1708B)
+<$2C>
+// 「うでが　なるぜ」[end]
+{I'm itching for[br]
+a good fight!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xC9 (0x17096)
+<$00>
+// だいおうとホシミ、そしてミユキが[br]
+// います[end]
+The King, Hoshi-[br]
+mi and Miyuki[br]
+are here.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xCA (0x170AC)
+<$00>
+// ちょうイロモノてき　そんざいです[end]
+He's the kooki-[br]
+est creature of[br]
+all.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xCB (0x170BE)
+<$00>
+// ヤモリのヌイグルミを　きています[end]
+She's wearing a[br]
+gecko suit.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xCC (0x170D0)
+<$3A>
+// 「なかまに　なりなさい」[end]
+{Join us!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xCD (0x170DE)
+<$47>
+// 「どうした　いつものパワーが[br]
+// ないぞ」[end]
+{What's wrong?[br]
+Where's your[br]
+usual pep?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xCE (0x170F3)
+<$47>
+// 「よしよし　かわいいのお」[end]
+{Oh, how cute.}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xCF (0x17102)
+<$00>
+// みみせんを　しているようです[end]
+They're all[br]
+wearing ear-[br]
+plugs.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD0 (0x17112)
+<$3A>
+// 「これで　せかいはイロモノ[br]
+// てんごくですわ」[end]
+{Now the entire[br]
+world will be-[br]
+come a Kooky[br]
+Paradise!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD1 (0x1712A)
+<$00>
+// つうしんきが　ならんでいます[end]
+There are many[br]
+communication[br]
+devices.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD2 (0x1713A)
+<$00>
+// マヌケな　かっこうです[end]
+What a stupid[br]
+outfit.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD3 (0x17147)
+<$00>
+// チーターのヌイグルミを[br]
+// きています[end]
+He's wearing a[br]
+cheetah suit.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD4 (0x1715A)
+<$00>
+// だいおうが　います[end]
+It's the King.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD5 (0x17165)
+<$00>
+// トオルが　たおれています[end]
+Tooru is lying[br]
+on the floor.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD6 (0x17173)
+<$00>
+// ねています[end]
+He's sleeping.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD7 (0x1717A)
+<$0C>
+// 
+
+
+[fc]<$19>
+
+// 「おおっとー！[br]
+// こっこれは　いがいなてんかいだ！[br]
+// まさに　これは[br]
+// アイドルはっけんでん　のおー」[fb]
+{WHOA! T-This is[br]
+it, right? This[br]
+is Idol Hakken-[br]
+den's...}
+
+[fb]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD8 (0x171AF)
+<$0E>
+// 
+
+
+[fa]<$01>
+
+// 
+
+
+[fc]<$2F>
+
+// 「だあーい！」[end]
+{Big!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xD9 (0x171BC)
+<$0F>
+// 
+
+
+[fc]<$2F>
+
+// 「どーんでーん」[end]
+{Plot!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xDA (0x171C8)
+<$10>
+// 
+
+
+[fa]<$3B>
+
+// 
+
+
+[fc]<$2F>
+
+// 「がえしっ！」[end]
+{TWIIIIIST!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xDB (0x171D5)
+<$31>
+// 「わかったわ　わたしに[br]
+// ついてきて」[wait]
+{Sure thing.[br]
+Follow me!}
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0xDC (0x171EA)
+<$31>
+// 「ホシミちゃんは　みつかった？」[end]
+{Did you find[br]
+Hoshimi?}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xDD (0x171FC)
+<$31>
+// 「あのホシミちゃんが……」[end]
+{Hoshimi...[br]
+She's...}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xDE (0x1720B)
+<$0C>
+// 
+
+
+[fc]<$22>
+
+// 「きゃあー！」[end]
+{Eeek!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xDF (0x17216)
+<$00>
+// Ａ　ベタンで　コンティニュー[end]
+Press A to con-[br]
+tinue.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE0 (0x17226)
+<$00>
+// まわりの　けらいどもは[br]
+// あっけに　とられています[end]
+The goons are[br]
+all taken aback.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE1 (0x17240)
+<$00>
+// とっさの　できごとに[br]
+// あわてふためいています[end]
+They seem to be[br]
+all in a panic.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE2 (0x17258)
+<$00>
+// ゆっくりと　せまってきます[end]
+He's getting[br]
+closer.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE3 (0x17267)
+<$52>
+// 「ＷＨＡＴ？」[wait]
+{ＷＨＡＴ?}
+
+[wait]
+
+// 
+[spkr]<$00>
+// にほんの　うたは　わからない[br]
+// ようです[end]
+He can't under-[br]
+stand Japanese[br]
+lyrics.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE4 (0x17286)
+<$00>
+// いま　ピストルを　うつと[br]
+// あたまを　つかった　いみが[br]
+// ないでしょう[end]
+If you shoot[br]
+now, your plan[br]
+won't work.
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE5 (0x172A9)
+<$22>
+// 「はやく　かしなさいってば！」[end]
+{Give me the[br]
+gun. Hurry!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE6 (0x172BA)
+<$4A>
+// 
+
+
+[fc]<$04>
+
+// 
+
+
+[fc]<$02>
+
+// 「ギャオォォォォォォォォォォ！」[end]
+{AAAAAAAARGH!!!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE7 (0x172D0)
+<$4A>
+// 「ホッ…ホシッ…ホシミ……」[end]
+{H-Hoshimi...}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE8 (0x172E0)
+<$47>
+// 「フフフ…」[end]
+{Hm-hm-hm...}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xE9 (0x172E8)
+<$3A>
+// 「わたしに　きいて　どーすんのよ[br]
+// ホシミに　ききなさいよ！」[end]
+{Why are you[br]
+talking to me?[br]
+Talk to Hoshi-[br]
+mi!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xEA (0x17308)
+<$0D>
+// 「よくも…よくもホシミちゃんを！[br]
+// エリカ　ゆるさない！」[end]
+{How could[br]
+you...How could[br]
+you do this to[br]
+Hoshimi?![wait]
+
+I'll never for-[br]
+give you!!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xEB (0x17326)
+<$47>
+// 「こうなれば　ホシミとて[br]
+// ようしゃは　せん！[br]
+// エリカもろとも[br]
+// せんのう　してくれる」[end]
+{I'll show mercy[br]
+for neither you[br]
+NOR Hoshimi![br]
+I'll brainwash[br]
+
+both of you!!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xEC (0x17352)
+<$47>
+// 「どうだ　エリカ[br]
+// おまえには　このふたりが[br]
+// だれなのか　わかるであろう[br]
+// フハハハハハハ」[end]
+{Tell me, Eri-[br]
+ka. Do you rec-[br]
+ognize these[br]
+ladies?[wait]
+
+Mwahahahahaha!}
+
+[end]
+
+#END()
+
+// Script 0x15449-0xED (0x17380)
+<$00>
+// エリカは　そくざに　にげた　だが[br]
+// べン・べンソンは　ものすごい[br]
+// スピードで　ぐんぐんせまってきた[wait]
+Erika starts[br]
+running, but Ben[br]
+Benson is too[br]
+fast. He's[br]
+
+getting closer.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x15449-0xEE (0x173B3)
+<$0F>
+// 「エリカちゃんの　ほほえみ〜！」[wait]
+{Erika Smile!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// しかし　なにも　おこらなかった[end]
+It had no[br]
+effect.
+
+[end]
+
+#END()
+

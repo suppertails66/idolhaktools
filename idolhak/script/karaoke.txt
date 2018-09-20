@@ -1,0 +1,585 @@
+// Script 0x192-0x0 (0x193F)
+// おねだりしちゃう[end]
+Oh please, I'm begging you
+[end]
+[end]
+       Onedarishichau
+[end]
+
+#END()
+
+// Script 0x192-0x1 (0x1948)
+// つれてって[end]
+Take me with you
+[end]
+[end]
+           Tsuretette
+[end]
+
+#END()
+
+// Script 0x192-0x2 (0x194E)
+// ホエホエって[end]
+Don't drive me crazy
+[end]
+[end]
+            Hoehoette
+[end]
+
+#END()
+
+// Script 0x192-0x3 (0x1955)
+// ほしの　イリュージョン[end]
+Why are you so mischievous?
+[end]
+[end]
+    Hoshi no iryuujon
+[end]
+
+#END()
+
+// Script 0x192-0x4 (0x1961)
+// オチャメな　ムスメ[end]
+Every time I'm with you
+[end]
+[end]
+      Ochamena musume
+[end]
+
+#END()
+
+// Script 0x192-0x5 (0x196B)
+// べルマーク[end]
+I can see the stars
+[end]
+[end]
+            Berumaaku
+[end]
+
+#END()
+
+// Script 0x192-0x6 (0x1971)
+// でもでも[end]
+I know, I know
+[end]
+[end]
+            Demo demo
+[end]
+
+#END()
+
+// Script 0x192-0x7 (0x1976)
+// つぶらな　こころが[end]
+There are times you get
+[end]
+cute with me
+[end]
+  Tsuburana kokoro ga
+[end]
+
+#END()
+
+// Script 0x192-0x8 (0x1980)
+// ポイント　ミリョク[end]
+When I see you like that
+[end]
+[end]
+       Pointo miryoku
+[end]
+
+#END()
+
+// Script 0x192-0x9 (0x198A)
+// わたしとて[end]
+I can't help but blush
+[end]
+[end]
+         Watashi tote
+[end]
+
+#END()
+
+// Script 0x192-0xA (0x1990)
+// ヒューヒュー[end]
+Lovey Dovey
+[end]
+[end]
+            Hyuu hyuu
+[end]
+
+#END()
+
+// Script 0x192-0xB (0x1997)
+// たに　に[end]
+Take my hand
+[end]
+[end]
+              Tani ni
+[end]
+
+#END()
+
+// Script 0x192-0xC (0x199C)
+// むかって[end]
+and I'll take yours
+[end]
+[end]
+              Mukatte
+[end]
+
+#END()
+
+// Script 0x192-0xD (0x19A1)
+// ホエホエむすめなの[end]
+You are such a derpy girl
+[end]
+[end]
+  Hoehoe musume na no
+[end]
+
+#END()
+
+// Script 0x192-0xE (0x19AB)
+// １の[end]
+Watch your step
+[end]
+[end]
+              Ichi no
+[end]
+
+#END()
+
+// Script 0x192-0xF (0x19AE)
+// つぎは２[end]
+or you'll fall down
+[end]
+[end]
+          Tsugi wa ni
+[end]
+
+#END()
+
+// Script 0x192-0x10 (0x19B3)
+// ３は　パス[end]
+Derp, too late for that
+[end]
+[end]
+          San wa pasu
+[end]
+
+#END()
+
+// Script 0x192-0x11 (0x19B9)
+// ダメなのよさー[end]
+Please don't get mad at me!
+[end]
+[end]
+     Dame na no yo sa
+[end]
+
+#END()
+
+// Script 0x192-0x12 (0x19C1)
+// おねがいよねえ[end]
+Don't look at me like that
+[end]
+[end]
+        Onegai yo nee
+[end]
+
+#END()
+
+// Script 0x192-0x13 (0x19C9)
+// シュークリーム[end]
+I'll buy you a cream puff
+[end]
+[end]
+          Shuukuriimu
+[end]
+
+#END()
+
+// Script 0x192-0x14 (0x19D1)
+// シュガーべイブ[end]
+Here, have some more sweets
+[end]
+[end]
+         Shugaa beibu
+[end]
+
+#END()
+
+// Script 0x192-0x15 (0x19D9)
+// ねこのインビテーション[end]
+There are times you act
+[end]
+like a cat
+[end]
+  Neko no inbiteeshon
+[end]
+
+#END()
+
+// Script 0x192-0x16 (0x19E5)
+// ぎゃふんと　わたし[end]
+When you brush against me
+[end]
+[end]
+    Gyafun to watashi
+[end]
+
+#END()
+
+// Script 0x192-0x17 (0x19EF)
+// うちょうてん[end]
+My heart skips a beat
+[end]
+[end]
+             Uchouten
+[end]
+
+#END()
+
+// Script 0x192-0x18 (0x19F6)
+// ロリロリ[heart][end]
+Lovey Dovey
+[end]
+[end]
+             Rorirori
+[end]
+
+#END()
+
+// Script 0x192-0x19 (0x19FC)
+// かわに　みをまかせ[end]
+I wonder what makes her so
+[end]
+sweet
+[end]
+  Kawa ni mi o makase
+[end]
+
+#END()
+
+// Script 0x192-0x1A (0x1A06)
+// ドーナツ　アンパン[end]
+Must be those cakes she eats
+[end]
+[end]
+       Doonatsu anpan
+[end]
+
+#END()
+
+// Script 0x192-0x1B (0x1A10)
+// ダイエット[end]
+She's eating one now
+[end]
+[end]
+              Daietto
+[end]
+
+#END()
+
+// Script 0x192-0x1C (0x1A16)
+// モグモグ[end]
+(nom nom)
+[end]
+[end]
+             Mogumogu
+[end]
+
+#END()
+
+// Script 0x192-0x1D (0x1A1B)
+// さきに[end]
+You act first
+[end]
+[end]
+              Saki ni
+[end]
+
+#END()
+
+// Script 0x192-0x1E (0x1A1F)
+// てをうつ[end]
+And think later
+[end]
+[end]
+            Te o utsu
+[end]
+
+#END()
+
+// Script 0x192-0x1F (0x1A24)
+// ホエホエむすめです[end]
+You are such a derpy girl
+[end]
+[end]
+   Hoehoe musume desu
+[end]
+
+#END()
+
+// Script 0x192-0x20 (0x1A2E)
+// みのる[end]
+May your dreams
+[end]
+[end]
+               Minoru
+[end]
+
+#END()
+
+// Script 0x192-0x21 (0x1A32)
+// ゆめかつ[end]
+Always come true
+[end]
+[end]
+           Yume katsu
+[end]
+
+#END()
+
+// Script 0x192-0x22 (0x1A37)
+// うちゅう　１[end]
+I will cheer you on
+[end]
+[end]
+           Uchuu ichi
+[end]
+
+#END()
+
+// Script 0x192-0x23 (0x1A3E)
+// しげき　てきよー[end]
+You're the best in the world
+[end]
+[end]
+       Shigekiteki yo
+[end]
+
+#END()
+
+// Script 0x192-0x24 (0x1A47)
+// まぶしいわ　きみ[end]
+You are so bright, so
+[end]
+radiant
+[end]
+     Mabushii wa kimi
+[end]
+
+#END()
+
+// Script 0x192-0x25 (0x1A50)
+// いきが　できない[end]
+That I can't even breathe
+[end]
+[end]
+       Iki ga dekinai
+[end]
+
+#END()
+
+// Script 0x192-0x26 (0x1A59)
+// きみの　めが[end]
+Could it be your eyes?
+[end]
+[end]
+        Kimi no me ga
+[end]
+
+#END()
+
+// Script 0x192-0x27 (0x1A60)
+// たってられない[end]
+I can barely bear it
+[end]
+[end]
+         Tatterarenai
+[end]
+
+#END()
+
+// Script 0x192-0x28 (0x1A68)
+// きみのゆめ[end]
+Could it be your dreams?
+[end]
+[end]
+         Kimi no yume
+[end]
+
+#END()
+
+// Script 0x192-0x29 (0x1A6E)
+// とくしゅ　ソラリゼーション[end]
+It's like looking straight
+[end]
+at the sun
+[end]
+Tokushu sorarizeeshon
+[end]
+
+#END()
+
+// Script 0x192-0x2A (0x1A7C)
+// ズゲッと　きたワ[end]
+Even though I closed my
+[end]
+eyes
+[end]
+      Zugetto kita wa
+[end]
+
+#END()
+
+// Script 0x192-0x2B (0x1A85)
+// ためらうの[end]
+I can still see you
+[end]
+[end]
+           Tamerau no
+[end]
+
+#END()
+
+// Script 0x192-0x2C (0x1A8B)
+// キュンキュン[end]
+Lovey Dovey
+[end]
+[end]
+             Kyunkyun
+[end]
+
+#END()
+
+// Script 0x192-0x2D (0x1A92)
+// なりは　キラリなの[end]
+Your smile always brightens
+[end]
+my day
+[end]
+ Nari wa kirari na no
+[end]
+
+#END()
+
+// Script 0x192-0x2E (0x1A9C)
+// いてざで　Ｂがた[end]
+And that is why I cannot
+[end]
+[end]
+     Iteza de biigata
+[end]
+
+#END()
+
+// Script 0x192-0x2F (0x1AA5)
+// ホロリだわ[end]
+Live without you
+[end]
+[end]
+         Horori da wa
+[end]
+
+#END()
+
+// Script 0x192-0x30 (0x1AAB)
+// まあまあ[end]
+So please listen
+[end]
+[end]
+              Maa maa
+[end]
+
+#END()
+
+// Script 0x192-0x31 (0x1AB0)
+// たまに[end]
+When you want
+[end]
+[end]
+              Tama ni
+[end]
+
+#END()
+
+// Script 0x192-0x32 (0x1AB4)
+// ＴＥＬして[end]
+Give me a call
+[end]
+[end]
+           Teru shite
+[end]
+
+#END()
+
+// Script 0x192-0x33 (0x1ABA)
+// ホエホエむすめＧＯ！[end]
+You are my sweet derpy girl
+[end]
+[end]
+    Hoehoe musume go!
+[end]
+
+#END()
+
+// Script 0x192-0x34 (0x1AC5)
+// とおる[end]
+Before you
+[end]
+[end]
+                Tooru
+[end]
+
+#END()
+
+// Script 0x192-0x35 (0x1AC9)
+// みちあけ[end]
+even hang up
+[end]
+[end]
+             Michiake
+[end]
+
+#END()
+
+// Script 0x192-0x36 (0x1ACE)
+// そこ　のけよー[end]
+I'll be there for you
+[end]
+[end]
+         Soko noke yo
+[end]
+
+#END()
+
+// Script 0x192-0x37 (0x1AD6)
+// とんちがきくー[end]
+'Cause I'm madly in love
+[end]
+[end]
+       Tonchi ga kiku
+[end]
+
+#END()
+
+// Script 0x192-0x38 (0x193D)
+// 　[end]
+ 
+[end]
+[end]
+[end]
+
+#END()
+
+// Script 0x192-0x39 (0x1ADE)
+// [heart]　おしまい　[heart][end]
+[end]
+[heart] END [heart]
+[end]
+[end]
+
+#END()
+

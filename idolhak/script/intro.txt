@@ -1,0 +1,13 @@
+// Tilemap 0x206
+// <$21><$29>[copyright]トーワチキ　ＰＲＥＳＥＮＴＳ
+<$21><$26>[copyright]TOWA CHIKI PRESENTS
+<$FE>
+// <$21><$69>ＩＤＯＬ　ＨＡＫＫＥＮＤＥＮ
+<$21><$69>IDOL HAKKENDEN
+<$FE>
+// <$21><$E4>ＰＲＯＤＵＣＥＤ　ＢＹ　[copyright]ＮＡＴＳＵＭＥ　１９８９
+<$21><$E4>PRODUCED BY [copyright]NATSUME 1989
+<$FF>
+
+#END()
+

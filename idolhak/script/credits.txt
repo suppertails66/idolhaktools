@@ -1,0 +1,359 @@
+// Credits entry 0x0 (0x3C88)
+// <$21><$2C>フロテューサー
+<$21><$2C>Producer
+//<$FE>
+// <$21><$0C>゜　゛
+<$FF>
+
+#END()
+
+// Credits entry 0x1 (0x3C98)
+// <$21><$4D>ウルトラ　かんさい
+<$21><$4D>Ultra Kansai
+<$FF>
+
+#END()
+
+// Credits entry 0x2 (0x3CA4)
+// <$21><$4D>ＫＹＯＨＥＩ　ＳＡＤＡ
+<$21><$4D>KYOHEI SADA
+<$FF>
+
+#END()
+
+// Credits entry 0x3 (0x3CB2)
+// <$21><$2C>けんあん・シナリオ
+<$21><$2C>Original Scenario
+<$FF>
+// <$21><$0C>゛
+
+#END()
+
+// Credits entry 0x4 (0x3CC2)
+// <$21><$4D>アントウ・オニキリ・ナオヒコ
+<$21><$4D>Ando Onigiri Nao-
+<$FE>
+<$21><$6F>hiko
+<$FF>
+// <$21><$2F>゛　　　　゛
+
+#END()
+
+// Credits entry 0x5 (0x3CDC)
+// <$21><$2C>シナリオきょうりょく
+//<$21><$2C>Scenario Cooperation
+//<$FF>
+<$21><$2C>Scenario
+<$FE>
+<$21><$4E>Cooperation
+<$FF>
+
+#END()
+
+// Credits entry 0x6 (0x3CE9)
+// <$21><$4D>はたひこさま
+<$21><$4D>Hatahiko-sama
+<$FF>
+
+#END()
+
+// Credits entry 0x7 (0x3CF2)
+// <$21><$4D>もりわき　こうへいか
+<$21><$4D>Koheika Moriwaki
+<$FF>
+
+#END()
+
+// Credits entry 0x8 (0x3CFF)
+// <$21><$2C>フロタラム
+<$21><$2C>Program
+<$FF>
+// <$21><$0C>゜　゛
+
+#END()
+
+// Credits entry 0x9 (0x3D0D)
+// <$21><$4D>うたけセット　おおひら
+<$21><$4D>Party Set Oohira
+<$FF>
+// <$21><$2F>゛
+
+#END()
+
+// Credits entry 0xA (0x3D1F)
+// <$21><$4D>キャフテン　つほはち
+<$21><$4D>Captain Tsubo-
+<$FE>
+// <$21><$2F>゜　　　　゛
+<$21><$6F>hachi
+<$FF>
+
+#END()
+
+// Credits entry 0xB (0x3D35)
+// <$21><$4D>よゆうの　よっちゃん
+<$21><$4D>Easygoing Yocchan
+<$FF>
+
+#END()
+
+// Credits entry 0xC (0x3D42)
+// <$21><$2C>キャラタター・テサイン
+<$21><$2C>Character Design
+<$FF>
+// <$21><$13>゛゛
+
+#END()
+
+// Credits entry 0xD (0x3D55)
+// <$21><$4D>こんとうさえもんのすけゆたかまる
+<$21><$4D>Kondozaemonnosu-
+<$FE>
+<$21><$6F>keyutakamaru
+<$FF>
+// <$21><$2F>゛　゛
+
+#END()
+
+// Credits entry 0xE (0x3D6E)
+// <$21><$2C>おんかく
+<$21><$2C>Music
+<$FF>
+// <$21><$0E>゛
+
+#END()
+
+// Credits entry 0xF (0x3D79)
+// <$21><$4D>ＫＹＯＨＥＩ　ＳＡＤＡ
+<$21><$4D>KYOHEI SADA
+<$FF>
+
+#END()
+
+// Credits entry 0x10 (0x3D87)
+// <$21><$4D>ＴＯＭＯＯ　ＰＳＧ　ＭＩＳＡＴＯ
+<$21><$4D>TOMOO PSG MISATO
+<$FF>
+
+#END()
+
+// Credits entry 0x11 (0x3D9A)
+// <$21><$2C>さくしきょうりょく
+<$21><$2C>Lyrics Cooperation
+<$FF>
+
+#END()
+
+// Credits entry 0x12 (0x3DA6)
+// <$21><$4D>リハートッフ／かわさき　みのる
+<$21><$4D>Rivertop/
+<$FE>
+<$21><$6F>Minoru Kawasaki
+<$FF>
+// <$21><$2E>゛　　　゜
+
+#END()
+
+// Credits entry 0x13 (0x3DC0)
+// <$21><$2C>アイテアきょうりょく
+<$21><$2C>Idea Cooperation
+<$FF>
+// <$21><$0E>゛
+
+#END()
+
+// Credits entry 0x14 (0x3DD1)
+// <$21><$4D>ＮＡＭＥＣＯ　ＳＯＵＰ
+<$21><$4D>NAMECO SOUP
+<$FF>
+
+#END()
+
+// Credits entry 0x15 (0x3DDF)
+// <$21><$4D>カスーたきさわ
+<$21><$4D>Kazoo Takizawa
+<$FF>
+// <$21><$2E>゛　　　゛
+
+#END()
+
+// Credits entry 0x16 (0x3DF1)
+// <$21><$2C>スタシオ・ハート・スタッフ
+<$21><$2C>Studio Hard Staff
+<$FF>
+// <$21><$0E>゛　　　　゛
+
+#END()
+
+// Credits entry 0x17 (0x3E0A)
+// <$21><$4D>セサール・まつもと
+<$21><$4D>Caesar Matsumoto
+<$FF>
+// <$21><$2E>゛
+
+#END()
+
+// Credits entry 0x18 (0x3E1A)
+// <$21><$4D>アンテット・かつた
+<$21><$4D>Undead Katsuta
+<$FF>
+// <$21><$2F>゛　゛
+
+#END()
+
+// Credits entry 0x19 (0x3E2C)
+// <$21><$4D>エヒナ・フミノスキー
+<$21><$4D>Ebina Fuminosky
+<$FF>
+// <$21><$2E>゛
+
+#END()
+
+// Credits entry 0x1A (0x3E3D)
+// <$21><$2C>スヘシャル　サンクス
+<$21><$2C>Special Thanks
+<$FF>
+// <$21><$0D>゜
+
+#END()
+
+// Credits entry 0x1B (0x3E4E)
+// <$21><$4D>ＦＲＯＭＡ　おはやし
+<$21><$4D>FROMA Ohayashi
+<$FF>
+
+#END()
+
+// Credits entry 0x1C (0x3E5B)
+// <$21><$4D>ＧＲＩＦＦＩＮ
+<$21><$4D>GRIFFIN
+<$FF>
+
+#END()
+
+// Credits entry 0x1D (0x3E65)
+// <$21><$4D>ロッキー　おかもと
+<$21><$4D>Rocky Okamoto
+<$FF>
+
+#END()
+
+// Credits entry 0x1E (0x3E71)
+// <$21><$4D>フリフリくん　かわくち
+<$21><$4D>Puripuri-kun Ka-
+<$FE>
+<$21><$6F>waguchi
+<$FF>
+// <$21><$2D>゜　゜　　　　　　゛
+
+#END()
+
+// Credits entry 0x1F (0x3E8C)
+// <$21><$4D>おおみなみ五たん
+<$21><$4D>Oominami Godan
+<$FF>
+// <$21><$33>゛
+
+#END()
+
+
+
+
+// Credits entry 0x20
+<$21><$2C> 
+<$FF>
+
+#END()
+
+// Credits entry 0x21
+<$21><$2C>English Conversion
+<$FF>
+
+#END()
+
+// Credits entry 0x22
+<$21><$2C>Translation
+<$FF>
+
+#END()
+
+// Credits entry 0x23
+<$21><$4D>TheMajinZenki
+<$FF>
+
+#END()
+
+// Credits entry 0x24
+<$21><$2C>Editing & Testing
+<$FF>
+
+#END()
+
+// Credits entry 0x25
+<$21><$4D>cccmar
+<$FF>
+
+#END()
+
+// Credits entry 0x26
+<$21><$2C>Hacking
+<$FF>
+
+#END()
+
+// Credits entry 0x27
+<$21><$4D>Supper
+<$FF>
+
+#END()
+
+// Credits entry 0x28
+<$21><$2C>Initial Work
+<$FF>
+
+#END()
+
+// Credits entry 0x29
+<$21><$4D>Filler
+<$FF>
+
+#END()
+
+
+// Credits entry 0x2A
+<$21><$2C> 
+<$FF>
+
+#END()
+
+// Credits entry 0x2B
+// <$21><$AE>お　わ　り
+<$21><$AE>T H E   E N D
+<$FF>
+
+#END()
+
+
+
+
+
+
+
+
+
+// blank entry used to clear other text (must be last)
+
+// Credits entry 0x2C (0x3EA3)
+// <$21><$4D>　　　　　　　　　　　　　　　　
+// <$21><$2C>　　　　　　　　　　　　　　　　　
+// <$21><$0C>　　　　　　　　　　　　　　　　
+//<$21><$0C>                
+//<$FF>
+<$21><$2C>                    
+<$FE>
+<$21><$4D>                 
+<$FE>
+<$21><$6F>               
+<$FF>
+
+#END()

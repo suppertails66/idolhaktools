@@ -1,0 +1,10 @@
+ＡＣＴ４　　　　($C3)[LINE]
+Act 4　　　　($C3)[LINE]
+($B0)　　　　　　　　　　　　($C3)($FF)
+
+みゼ($B0)「イロモノ　してんのう」($C3)[LINE]
+みゼ($B0)"The Kooky Kuartet"($C3)[LINE]
+($B0)　　　(64)　　　(63)　おわり($C3)[LINE]
+($B0)　　　(64)　　　(63)　The End($C3)[LINE]
+($B0)　　　ハスワート　　　　($C3)($FF)
+($B0)　　　Password　　　　($C3)($FF)

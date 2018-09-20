@@ -1,0 +1,1139 @@
+// Menu 0x0 (0x1D8BF)
+// 　　　　　　　
+       
+       
+
+#END()
+
+// Menu 0x1 (0x1D8C6)
+// みる　　　　　
+Look   
+       
+
+#END()
+
+// Menu 0x2 (0x1D8CD)
+// はなす　　　　
+Talk   
+       
+
+#END()
+
+// Menu 0x3 (0x1D8D4)
+// とる　　　　　
+Take   
+       
+
+#END()
+
+// Menu 0x4 (0x1D8DB)
+// つかう　　　　
+Use    
+       
+
+#END()
+
+// Menu 0x5 (0x1D8E2)
+// エリカ　　　　
+Erika  
+       
+
+#END()
+
+// Menu 0x6 (0x1D8E9)
+// なかま　　　　
+Friends
+       
+
+#END()
+
+// Menu 0x7 (0x1D8F0)
+// いどう　　　　
+Move   
+       
+
+#END()
+
+// Menu 0x8 (0x1D8F7)
+// うたう　　　　
+Sing   
+       
+
+#END()
+
+// Menu 0x9 (0x1D8FE)
+// おどる　　　　
+Dance  
+       
+
+#END()
+
+// Menu 0xA (0x1D905)
+// ほほえむ　　　
+Smile  
+       
+
+#END()
+
+// Menu 0xB (0x1D90C)
+// とぼける　　　
+Act    
+  Dumb 
+
+#END()
+
+// Menu 0xC (0x1D913)
+// あたり　　　　
+Vicin- 
+  ity  
+
+#END()
+
+// Menu 0xD (0x1D91A)
+// ミホ　　　　　
+Miho   
+       
+
+#END()
+
+// Menu 0xE (0x1D921)
+// しんじつ　　　
+Shinji-
+  tsu  
+
+#END()
+
+// Menu 0xF (0x1D928)
+// ホシミ　　　　
+Hoshimi
+       
+
+#END()
+
+// Menu 0x10 (0x1D92F)
+// かんばん　　　
+Sign   
+       
+
+#END()
+
+// Menu 0x11 (0x1D936)
+// じょうない　　
+Hall   
+       
+
+#END()
+
+// Menu 0x12 (0x1D93D)
+// けいびいん　　
+Guard  
+       
+
+#END()
+
+// Menu 0x13 (0x1D944)
+// ばいてん　　　
+Kiosk  
+       
+
+#END()
+
+// Menu 0x14 (0x1D94B)
+// おばさん　　　
+Lady   
+       
+
+#END()
+
+// Menu 0x15 (0x1D952)
+// てんぼうだい　
+Lookout
+       
+
+#END()
+
+// Menu 0x16 (0x1D959)
+// おかし　　　　
+Candy  
+       
+
+#END()
+
+// Menu 0x17 (0x1D960)
+// しゅうかんし　
+// Weekly Newspaper
+News-  
+  paper
+
+#END()
+
+// Menu 0x18 (0x1D967)
+// きじ　　　　　
+Article
+       
+
+#END()
+
+// Menu 0x19 (0x1D96E)
+// マスター　　　
+Owner  
+       
+
+#END()
+
+// Menu 0x1A (0x1D975)
+// きゃく　　　　
+Patron 
+       
+
+#END()
+
+// Menu 0x1B (0x1D97C)
+// コーヒー　　　
+Coffee 
+       
+
+#END()
+
+// Menu 0x1C (0x1D983)
+// ザンシャイン　
+Zan-   
+  shine
+
+#END()
+
+// Menu 0x1D (0x1D98A)
+// はいざら　　　
+Ashtray
+       
+
+#END()
+
+// Menu 0x1E (0x1D991)
+// べらんめえ　　
+// The Bloody Fool
+Bloody 
+  Fool 
+
+#END()
+
+// Menu 0x1F (0x1D998)
+// すいがら　　　
+Cigar. 
+  Butts
+
+#END()
+
+// Menu 0x20 (0x1D99F)
+// すいぞくかん　
+Aqua-  
+  rium 
+
+#END()
+
+// Menu 0x21 (0x1D9A6)
+// プラネタリウム
+Planet-
+  arium
+
+#END()
+
+// Menu 0x22 (0x1D9AD)
+// まわりのひと　
+People 
+ Around
+
+#END()
+
+// Menu 0x23 (0x1D9B4)
+// ロビー　　　　
+Lobby  
+       
+
+#END()
+
+// Menu 0x24 (0x1D9BB)
+// クルミ　　　　
+Nut    
+       
+
+#END()
+
+// Menu 0x25 (0x1D9C2)
+// おみくじ　　　
+Fortune
+  Slip 
+
+#END()
+
+// Menu 0x26 (0x1D9C9)
+// えずけショー　
+Feeding
+  Show 
+
+#END()
+
+// Menu 0x27 (0x1D9D0)
+// ラッコ　　　　
+Sea    
+  Otter
+
+#END()
+
+// Menu 0x28 (0x1D9D7)
+// でんきウナギ　
+Elect- 
+ric Eel
+
+#END()
+
+// Menu 0x29 (0x1D9DE)
+// どうぞう　　　
+Bronze 
+ Statue
+
+#END()
+
+// Menu 0x2A (0x1D9E5)
+// おんなのひと　
+Woman  
+       
+
+#END()
+
+// Menu 0x2B (0x1D9EC)
+// おとこ　　　　
+Man    
+       
+
+#END()
+
+// Menu 0x2C (0x1D9F3)
+// くわし　　　　
+Kuwashi
+       
+
+#END()
+
+// Menu 0x2D (0x1D9FA)
+// たましかや　　
+Tama-  
+shikaya
+
+#END()
+
+// Menu 0x2E (0x1DA01)
+// おみせのひと　
+Shop-  
+ keeper
+
+#END()
+
+// Menu 0x2F (0x1DA08)
+// ヤヨイ　　　　
+Yayoi  
+       
+
+#END()
+
+// Menu 0x30 (0x1DA0F)
+// おまんじゅう　
+Manju  
+       
+
+#END()
+
+// Menu 0x31 (0x1DA16)
+// モヒカン　　　
+Mohawk 
+       
+
+#END()
+
+// Menu 0x32 (0x1DA1D)
+// ミサオ　　　　
+Misao  
+       
+
+#END()
+
+// Menu 0x33 (0x1DA24)
+// チケット　　　
+Ticket 
+       
+
+#END()
+
+// Menu 0x34 (0x1DA2B)
+// ダイナマイト　
+Dyna-  
+  mite 
+
+#END()
+
+// Menu 0x35 (0x1DA32)
+// ヤチヨ　　　　
+Yachiyo
+       
+
+#END()
+
+// Menu 0x36 (0x1DA39)
+// ハード　　　　
+Hard   
+       
+
+#END()
+
+// Menu 0x37 (0x1DA40)
+// はなや　　　　
+Flor-  
+  ist's
+
+#END()
+
+// Menu 0x38 (0x1DA47)
+// おばあさん　　
+Madame 
+       
+
+#END()
+
+// Menu 0x39 (0x1DA4E)
+// おじさん　　　
+Mister 
+       
+
+#END()
+
+// Menu 0x3A (0x1DA55)
+// せいねん　　　
+// Young Man
+Young  
+  Man  
+
+
+#END()
+
+// Menu 0x3B (0x1DA5C)
+// はなやさん　　
+Florist
+       
+
+#END()
+
+// Menu 0x3C (0x1DA63)
+// はな　　　　　
+Flower 
+       
+
+#END()
+
+// Menu 0x3D (0x1DA6A)
+// かわら　　　　
+River  
+       
+
+#END()
+
+// Menu 0x3E (0x1DA71)
+// しょくにん　　
+Workers
+       
+
+#END()
+
+// Menu 0x3F (0x1DA78)
+// はなび　　　　
+Fire-  
+  works
+
+#END()
+
+// Menu 0x40 (0x1DA7F)
+// ぼうそうぞく　
+Biker  
+  Gang 
+
+#END()
+
+// Menu 0x41 (0x1DA86)
+// ムラ サキ　　　
+Mura-  
+  saki 
+
+#END()
+
+// Menu 0x42 (0x1DA8D)
+// スーパー　　　
+Super- 
+ market
+
+#END()
+
+// Menu 0x43 (0x1DA94)
+// おんなのこ　　
+Girl   
+       
+
+#END()
+
+// Menu 0x44 (0x1DA9B)
+// てまり　　　　
+Temari 
+       
+
+#END()
+
+// Menu 0x45 (0x1DAA2)
+// アマリリス　　
+Ama-   
+ ryllis
+
+#END()
+
+// Menu 0x46 (0x1DAA9)
+// ふもとのむら　
+Village
+       
+
+#END()
+
+// Menu 0x47 (0x1DAB0)
+// やぎ　　　　　
+Goat   
+       
+
+#END()
+
+// Menu 0x48 (0x1DAB7)
+// おどう　　　　
+Shrine 
+       
+
+#END()
+
+// Menu 0x49 (0x1DABE)
+// じーさま　　　
+Old Man
+       
+
+#END()
+
+// Menu 0x4A (0x1DAC5)
+// くさむら　　　
+Thicket
+       
+
+#END()
+
+// Menu 0x4B (0x1DACC)
+// カキナべやま　
+Mt. Ka-
+ kinabe
+
+#END()
+
+// Menu 0x4C (0x1DAD3)
+// おじぞうさん　
+Buddha 
+ Statue
+
+#END()
+
+// Menu 0x4D (0x1DADA)
+// はりがみ　　　
+Poster 
+       
+
+#END()
+
+// Menu 0x4E (0x1DAE1)
+// ほうき　　　　
+Broom  
+       
+
+#END()
+
+// Menu 0x4F (0x1DAE8)
+// みずうみ　　　
+Lake   
+       
+
+#END()
+
+// Menu 0x50 (0x1DAEF)
+// いえのなか　　
+// Inside the House
+Inside 
+  House
+
+#END()
+
+// Menu 0x51 (0x1DAF6)
+// えきまえ　　　
+// In Front of Station
+Station
+  Front
+
+#END()
+
+// Menu 0x52 (0x1DAFD)
+// カルミ　　　　
+Karumi 
+       
+
+#END()
+
+// Menu 0x53 (0x1DB04)
+// かわツナギ　　
+// River Connection
+River  
+Connec.
+
+#END()
+
+// Menu 0x54 (0x1DB0B)
+// おんな　　　　
+Woman  
+       
+
+#END()
+
+// Menu 0x55 (0x1DB12)
+// みせのそと　　
+Outside
+  Shop 
+
+#END()
+
+// Menu 0x56 (0x1DB19)
+// ハード・ちか　
+//Hard Basement
+Base-  
+  ment 
+
+#END()
+
+// Menu 0x57 (0x1DB20)
+// ちじょう　　　
+Above- 
+ ground
+
+#END()
+
+// Menu 0x58 (0x1DB27)
+// ひしょ　　　　
+Secre- 
+  tary 
+
+#END()
+
+// Menu 0x59 (0x1DB2E)
+// めいし　　　　
+Busine-
+ss Card
+
+#END()
+
+// Menu 0x5A (0x1DB35)
+// おとこたち　　
+Men    
+       
+
+#END()
+
+// Menu 0x5B (0x1DB3C)
+// ミドリ　　　　
+Midori 
+       
+
+#END()
+
+// Menu 0x5C (0x1DB43)
+// おくのへや　　
+Inside 
+       
+
+#END()
+
+// Menu 0x5D (0x1DB4A)
+// しゃちょう　　
+Presi- 
+  dent 
+
+#END()
+
+// Menu 0x5E (0x1DB51)
+// へやのそと　　
+Outside
+       
+
+#END()
+
+// Menu 0x5F (0x1DB58)
+// かけじく　　　
+Hanging
+ Scroll
+
+#END()
+
+// Menu 0x60 (0x1DB5F)
+// ルイ　　　　　
+Rui    
+       
+
+#END()
+
+// Menu 0x61 (0x1DB66)
+// きんこ　　　　
+Safe   
+       
+
+#END()
+
+// Menu 0x62 (0x1DB6D)
+// なかのもの　　
+Con-   
+ tents 
+
+#END()
+
+// Menu 0x63 (0x1DB74)
+// ノート　　　　
+Note-  
+  book 
+
+#END()
+
+// Menu 0x64 (0x1DB7B)
+// ちかロビー　　
+Undergr
+  Lobby
+
+#END()
+
+// Menu 0x65 (0x1DB82)
+// だいおう　　　
+King   
+       
+
+#END()
+
+// Menu 0x66 (0x1DB89)
+// ちかロビー　　
+Undergr
+  Lobby
+
+#END()
+
+// Menu 0x67 (0x1DB90)
+// １スタ　　　　
+Studio 
+  1    
+
+#END()
+
+// Menu 0x68 (0x1DB97)
+// もとアイドル　
+Former 
+  Idol 
+
+#END()
+
+// Menu 0x69 (0x1DB9E)
+// さんそベンべ　
+Oxygen 
+Cylind.
+
+#END()
+
+// Menu 0x6A (0x1DBA5)
+// モモミ　　　　
+Momomi 
+       
+
+#END()
+
+// Menu 0x6B (0x1DBAC)
+// サキコ　　　　
+Sakiko 
+       
+
+#END()
+
+// Menu 0x6C (0x1DBB3)
+// ２スタ　　　　
+Studio 
+  2    
+
+#END()
+
+// Menu 0x6D (0x1DBBA)
+// せんしゅ　　　
+Player 
+       
+
+#END()
+
+// Menu 0x6E (0x1DBC1)
+// ガガワ　　　　
+Gagawa 
+       
+
+#END()
+
+// Menu 0x6F (0x1DBC8)
+// ３スタ　　　　
+Studio 
+  3    
+
+#END()
+
+// Menu 0x70 (0x1DBCF)
+// バット　　　　
+Bat    
+       
+
+#END()
+
+// Menu 0x71 (0x1DBD6)
+// すもうとり　　
+//Sumo Wrestlers
+Wrest- 
+  lers 
+
+#END()
+
+// Menu 0x72 (0x1DBDD)
+// すもう　　　　
+Sumo   
+       
+
+#END()
+
+// Menu 0x73 (0x1DBE4)
+// ４スタ　　　　
+Studio 
+  4    
+
+#END()
+
+// Menu 0x74 (0x1DBEB)
+// さくしか　　　
+Song-  
+ writer
+
+#END()
+
+// Menu 0x75 (0x1DBF2)
+// ぺン　　　　　
+Pen    
+       
+
+#END()
+
+// Menu 0x76 (0x1DBF9)
+// メモ　　　　　
+Notes  
+       
+
+#END()
+
+// Menu 0x77 (0x1DC00)
+// ミユキ　　　　
+Miyuki 
+       
+
+#END()
+
+// Menu 0x78 (0x1DC07)
+// ミユキのあと　
+After  
+ Miyuki
+
+#END()
+
+// Menu 0x79 (0x1DC0E)
+// タジロ　　　　
+Tajiro 
+       
+
+#END()
+
+// Menu 0x7A (0x1DC15)
+// トオル　　　　
+Tooru  
+       
+
+#END()
+
+// Menu 0x7B (0x1DC1C)
+// すざくのま　　
+Bird   
+  Lair 
+
+#END()
+
+// Menu 0x7C (0x1DC23)
+// げんぶのま　　
+// Tortoise's Lair
+Tortoi-
+se Lair
+
+#END()
+
+// Menu 0x7D (0x1DC2A)
+// せいりゅうのま
+Dragon 
+  Lair 
+
+#END()
+
+// Menu 0x7E (0x1DC31)
+// ほうおうのま　
+Phoenix
+  Lair 
+
+#END()
+
+// Menu 0x7F (0x1DC38)
+// びゃっこのま　
+Tiger  
+  Lair 
+
+#END()
+
+// Menu 0x80 (0x1DC3F)
+// ひみつのへや　
+Secret 
+  Room 
+
+#END()
+
+// Menu 0x81 (0x1DC46)
+// いしどうろう　
+Stone  
+Lantern
+
+#END()
+
+// Menu 0x82 (0x1DC4D)
+// かべ　　　　　
+Wall   
+       
+
+#END()
+
+// Menu 0x83 (0x1DC54)
+// サングラス　　
+Sun-   
+glasses
+
+#END()
+
+// Menu 0x84 (0x1DC5B)
+// あかり　　　　
+Light  
+       
+
+#END()
+
+// Menu 0x85 (0x1DC62)
+// シャンデリア　
+Chande-
+  lier 
+
+#END()
+
+// Menu 0x86 (0x1DC69)
+// あたま　　　　
+//Head   
+//       
+Your   
+  Head 
+
+#END()
+
+// Menu 0x87 (0x1DC70)
+// スイッチ　　　
+Switch 
+       
+
+#END()
+
+// Menu 0x88 (0x1DC77)
+// スタンガン　　
+Stun   
+  Gun  
+
+#END()
+
+// Menu 0x89 (0x1DC7E)
+// むすびめ　　　
+Knot   
+       
+
+#END()
+
+// Menu 0x8A (0x1DC85)
+// あげあし　　　
+Time to
+Correct
+
+#END()
+
+// Menu 0x8B (0x1DC8C)
+// ナイフ　　　　
+Knife  
+       
+
+#END()
+
+// Menu 0x8C (0x1DC93)
+// あせ　　　　　
+Sweat  
+       
+
+#END()
+
+// Menu 0x8D (0x1DC9A)
+// ビン　　　　　
+Bottle 
+       
+
+#END()
+
+// Menu 0x8E (0x1DCA1)
+// あせのビン　　
+Sweat  
+ Bottle
+
+#END()
+
+// Menu 0x8F (0x1DCA8)
+// ＹＥＳ　　　　
+YES    
+       
+
+#END()
+
+// Menu 0x90 (0x1DCAF)
+// ＮＯ　　　　　
+NO     
+       
+
+#END()
+
+// Menu 0x91 (0x1DCB6)
+// あねふたり　　
+Erika's
+Sisters
+
+#END()
+
+// Menu 0x92 (0x1DCBD)
+// ドアのそと　　
+// Outside the Door
+Outside
+  Door 
+
+#END()
+
+// Menu 0x93 (0x1DCC4)
+// つうしんしつ　
+// Communications Room
+Comm.  
+  Room 
+
+#END()
+
+// Menu 0x94 (0x1DCCB)
+// ぞうひょう　　
+Goon   
+       
+
+#END()
+
+// Menu 0x95 (0x1DCD2)
+// つうしんき　　
+Commun-
+ icator
+
+#END()
+
+// Menu 0x96 (0x1DCD9)
+// ピストル　　　
+Pistol 
+       
+
+#END()
+
+// Menu 0x97 (0x1DCE0)
+// べンソン　　　
+Benson 
+       
+
+#END()
+
+// Menu 0x98 (0x1DCE7)
+// にげる　　　　
+Run    
+       
+
+#END()
+
+// Menu 0x99 (0x1DCEE)
+// しろのそと　　
+// Outside the Castle
+Outside
+ Castle
+
+#END()
+
+// Menu 0x9A (0x1DCF5)
+// ようさいない　
+// Inside the Base
+Inside 
+  Base 
+
+#END()
+
+// Menu 0x9B (0x1DCFC)
+// ギャロップ　　
+Gallop 
+       
+
+#END()
+
+// Menu 0x9C (0x1DD03)
+// しらはどり　　
+// Barehanded Sword Block
+//Barehnd
+//  Block
+Sword  
+       
+
+#END()
+
+// Menu 0x9D (0x1DD0A)
+// すいそう　　　
+Water  
+  Tank 
+
+#END()
+
+// Menu 0x9E (0x1DD11)
+// ごきげん　　　
+Plea-  
+  sant 
+
+#END()
+
+// Menu 0x9F (0x1DD18)
+// Ｆテレビ　　　
+F-TV   
+       
+
+#END()
+

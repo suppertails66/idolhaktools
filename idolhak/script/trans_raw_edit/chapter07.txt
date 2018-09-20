@@ -1,0 +1,10 @@
+ＡＣＴ２　　　　($C3)[LINE]
+Act 2　　　　($C3)[LINE]
+($B0)　　　　　　　(63)　　　　($C3)($FF)
+
+みゼ($B0)　「ミラクル　ホイス」　($C3)[LINE]
+みゼ($B0)　"Miracle Voice"　($C3)[LINE]
+($B0)　　　(64)　　　(63)　おわり($C3)[LINE]
+($B0)　　　(64)　　　(63)　The End ($C3)[LINE]
+($B0)　　　ハスワート　　　　($C3)($FF)
+($B0)　　　Password　　　　($C3)($FF)

@@ -1,0 +1,716 @@
+// Script 0x1AEF-0x0 (0x1B31)
+<$00>
+// [br]
+// 　[br]
+// 　[br]
+// 　　　[end]
+[br]
+ [br]
+ [br]
+   [end]
+
+#END()
+
+// Script 0x1AEF-0x1 (0x1B3B)
+<$00>
+// にほんゆうすうの　だいざいばつ[br]
+// さいおんじけの　ちょうろう[br]
+// トミコにも　じゅみょうが[br]
+// きたようだ[wait]
+Tomiko, head of[br]
+one of the most[br]
+prominent finan-[br]
+cial conglomer-[br]
+
+ates in Japan,[br]
+was on her[br]
+deathbed.
+
+[wait]
+
+// そこで　あととりと　もくされる[br]
+// さんにんの　むすめたち…………[end]
+She had to[br]
+choose an heir[br]
+from among her[br]
+three[br]
+
+daughters...
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x2 (0x1B8D)
+<$00>
+// わかくして　すうじゅうの[br]
+// かいしゃを　たばねる　てんさい[br]
+// じつぎょうかの　ちょうじょ[br]
+// シズカ[end]
+The eldest[br]
+daughter, a[br]
+brilliant bus-[br]
+inesswoman who,[br]
+
+despite her[br]
+young age, man-[br]
+aged dozens of[br]
+companies:[wait]
+
+Shizuka.
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x3 (0x1BBD)
+<$00>
+// かずかずの　とっきょと[br]
+// はかせごうをもち　テンサイのなを[br]
+// ほしいままにする　じじょ[br]
+// レイカ[end]
+The second[br]
+daughter, a gen-[br]
+ius scholar with[br]
+numerous patents[br]
+
+and doctorates[br]
+to her name:[wait]
+Reika.
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x4 (0x1BEC)
+<$00>
+// そして………………[br]
+// なーーーーーんにも　できない[br]
+// ミソッカスの　エリカちゃん[br]
+// である[end]
+And then, the[br]
+youngest daugh-[br]
+ter, who...[wait]
+
+well, who was an[br]
+immature girl[br]
+with no special[br]
+talents:[wait]
+
+Erika.
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x5 (0x1C18)
+<$00>
+// 「おお　おまえたち　よくきた[br]
+// わしもそろそろ　じゅみょうじゃ[br]
+// ついては　これから　さんかげつの[br]
+// あいだ　ぜんりょくを　あげて[wait]
+{Ah, my dears, I[br]
+am not long for[br]
+this world. I[br]
+want you to give[br]
+
+it your all for[br]
+the next three[br]
+months and in-[br]
+crease your[br]
+
+reputations in[br]
+your fields.
+
+[wait]
+
+// じぶんのなを　あげる　しごとを[br]
+// してみせよ　わしは　それによって[br]
+// おまえたちの　きりょうを　はかり[br]
+// あとつぎを　きめる」[end]
+
+The heir to my[br]
+fortune will be[br]
+the most talent-[br]
+ed one among[br]
+
+you.}
+
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x6 (0x1C95)
+<$B1><$40>
+// 「オホホホホ　このしょうぶ[br]
+// わたしと　レイカとの　あらそいに[br]
+// なりそうね　エリカなんかに[br]
+// なにが　できるっていうの」[wait]
+{Ohohohohoh! In[br]
+other words,[br]
+this is a match[br]
+between me and[br]
+
+Reika. After[br]
+all, Erika has[br]
+NO talent!}
+
+[wait]
+
+// 
+[f9]<$00>
+// 　[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x7 (0x1CD6)
+<$B6><$80>
+// 「あーらとうぜんよ　わたしなんか[br]
+// エリカのこと　さいっしょっから[br]
+// かんじょうに　いれてないわ　[br]
+// オーホッホッホッ　さいおんじけの[wait]
+{But of course.[wait]
+
+I never consid-[br]
+ered Erika part[br]
+of this chall-[br]
+enge.
+
+[wait]
+
+// じきとうしゅは　わたしよ」[wait]
+Hoh hoh hoh hoh![br]
+The heir of the[br]
+Saionji fortune[br]
+will be me!}
+
+
+[wait]
+
+// 
+[f9]<$00>
+// 　[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x8 (0x1D2B)
+<$8C><$68>
+// そして　われらが　エリカちゃんは[br]
+// ……………[wait]
+Meanwhile, our[br]
+Erika...
+
+[wait]
+
+// 
+[f9]<$00>
+// 　[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x9 (0x1D48)
+<$8B><$68>
+// 「わたしには　おねえさんのような[br]
+// さいのうは　ないわ[br]
+// わたしに　できることといえば[br]
+// うたうことぐらい………」[wait]
+{I'm not talent-[br]
+ed like my sis-[br]
+ters...The only[br]
+thing I'm good[br]
+
+at is sing-[br]
+ing...}
+
+[wait]
+
+// 
+[f9]<$00>
+// 　[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0xA (0x1D85)
+<$B9><$68>
+// 「そうですわ　おじょうさま！[br]
+// うたで　せかいに　とどろく[br]
+// スーパーアイドルを[br]
+// めざすのです」[wait]
+{That's it, Miss[br]
+Erika! You[br]
+should try to[br]
+move the world[br]
+
+with your[br]
+songs...[br]
+You shall become[br]
+a Super Idol!}
+
+[wait]
+
+// 
+[f9]<$00>
+// 　[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0xB (0x1DBA)
+<$8A><$68>
+// 「うた………………[br]
+// スーパーアイドル？」[wait]
+{Move the world[br]
+with songs...[br]
+A Super Idol?}
+
+[wait]
+
+// 
+[f9]<$8C><$68>
+// 　[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0xC (0x1DD6)
+<$2E>
+// 「そのむかし　うれっこげいのう[br]
+// じんだったわしは　おまえと[br]
+// おなじように　あんこくイロモノ[br]
+// ぐんだんと　たたかい[wait]
+{A long time[br]
+ago, I was a[br]
+popular enter-[br]
+tainer.[wait]
+
+Just like you, I[br]
+had to fight[br]
+against the Koo-[br]
+ky Kompany.
+
+[wait]
+
+// これを　かいめつさせた[br]
+// だが、だいおうを　たおし[br]
+// イロモノギャロップを[br]
+// てにした　しゅんかん[wait]
+I was able to[br]
+defeat them...[br]
+But the moment I[br]
+touched the[br]
+
+Kooky Gallop, I[br]
+fell under its[br]
+influence.
+
+[wait]
+
+// わしは　そのまりょくに[br]
+// とりこまれ、みも　こころも[br]
+// イロモノだいおうと　かして[br]
+// しまったのじゃ」[end]
+I became the new[br]
+Kooky King.}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0xD (0x1E70)
+<$05>
+// 「じゃあ　イロモノ　ギャロップが[br]
+// だいおうの　しょうたい[br]
+// だったのね」[end]
+{So basically,[br]
+Kooky Gallop was[br]
+the true[br]
+King...}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0xE (0x1E95)
+<$00>
+// ふたりが　もんどう　してるときに[br]
+// ヤチヨたちが　かえってきました[end]
+While they're[br]
+talking, Yachiyo[br]
+and the others[br]
+come back.
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0xF (0x1EB7)
+<$1C>
+// 「エリカちゃん　わたしたち[br]
+// ここで　デビュー　イべント[br]
+// やることに　きめたわよ！」[end]
+{Erika, we've[br]
+decided to have[br]
+your debut show[br]
+right here!}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x10 (0x1EE2)
+<$17>
+// 「ここのシステムは　こっちの[br]
+// いいように　かえたさかい、[br]
+// せかいじゅうの　つうしんもうは[wait]
+{We can use the[br]
+devices here to[br]
+control the[br]
+communications
+
+[wait]
+
+// うちらの　すきなように[br]
+// あやつれるんや」[end]
+network of the[br]
+entire planet.}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x11 (0x1F25)
+<$26>
+// 「だから　ここで　イべントを[br]
+// やって、その　もようを[wait]
+{In other words,[br]
+we can force the[br]
+whole planet to[br]
+watch your show.
+
+[wait]
+
+// せかいじゅうに　きょうせい[br]
+// ほうそう　しちまおうって[br]
+// わけなんだ」[end]
+Pretty cool,[br]
+huh?}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x12 (0x1F63)
+<$00>
+// だいおうが　ほろびた　ために[br]
+// ミドリも　しょうきに[br]
+// もどったようです[end]
+It seems that[br]
+defeating the[br]
+King brought Mi-[br]
+dori back to her[br]
+
+senses.
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x13 (0x1F87)
+<$05>
+// 「わー　それ　おもしろそー！[br]
+// さっそく　みんなで　じゅんび[br]
+// しましょう」[end]
+{That does sound[br]
+cool! Okay,[br]
+let's get ready[br]
+for it!}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x14 (0x1FAD)
+<$00>
+// あっ　と　いうまに　イべントの[br]
+// はじまりです[end]
+You get ready[br]
+for the show in[br]
+a few minutes.
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x15 (0x1FC5)
+<$00>
+// 「みなさーん　おげんきですかあー[br]
+// さいおんじ　エリカ　でえーす！[br]
+// どうか　わたしの　うたを[br]
+// きいてくださーい！！」[wait]
+{Hiiii! I'm Eri-[br]
+ka Saionji! How[br]
+are you doing?[br]
+Please, listen[br]
+
+to my song!}
+
+[wait]
+
+// まったく　とつぜん　せかいじゅう[br]
+// の　テレビに　エリカが　うつし[br]
+// だされた　いまだかつて[br]
+// これほど　だいたんな[wait]
+Hijacking the[br]
+entire planet's[br]
+television net-[br]
+work is a very
+
+[wait]
+
+// でんぱジャックが　あったで[br]
+// あろうか？[br]
+// だが　エリカのミラクルベイスの[br]
+// いりょくの　まえには[wait]
+
+daring move even[br]
+for Erika, woul-[br]
+dn't you say?[wait]
+
+But once she[br]
+displays her[br]
+Miracle Voice,
+
+
+[wait]
+
+// でんぱジャックなど　ささいな[br]
+// もんだいである　せかいは[br]
+// またたくまに　ねっきょうの[br]
+// うずに　つつみこまれた[end]
+this criminal[br]
+act becomes a[br]
+trivial matter[br]
+as the people go[br]
+
+wild with enthu-[br]
+siasm.
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x16 (0x209D)
+<$00>
+// 「せかいのみなさん　ありがとー[br]
+// わたしの　デビューきょく[br]
+// }きみは　ホエホエむすめ}を[br]
+// うたいまーす[wait]
+{Thank you, eve-[br]
+ryone! I'm going[br]
+to sing my debut[br]
+song,[wait]
+
+*You Are the[br]
+Derpy Girl'!}
+
+[wait]
+
+// おうえん　してくださーい」[end]
+Please cheer for[br]
+me!}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x17 (0x20DF)
+<$05>
+// 「おねえさまたち　みてる？[br]
+// わたしに　とって　たいせつな[br]
+// ものは、うたと　すばらしい[br]
+// なかまたち　ほかの　ものなんか[wait]
+{Shizuka, Reika,[br]
+do you see now?[br]
+To me, there is[br]
+nothing more[br]
+
+precious than my[br]
+song and my[br]
+friends.
+
+[wait]
+
+// なんにも　ほしくないの　だから[br]
+// さいおんじけの　ざいさんは[br]
+// おねえさまたちに　みーんな[br]
+// あげちゃいます」[end]
+I don't need[br]
+anything else,[br]
+so you can have[br]
+the Saionji[br]
+
+inheritance all[br]
+for yourselves.}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x18 (0x2150)
+<$36>
+// 「まけたわ」[end]
+{...We lost.}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x19 (0x2158)
+<$31>
+// 「わたしたちなど　およびも[br]
+// つかない　そんざいね」[end]
+{Yes...In the[br]
+end, we were no[br]
+match for her.}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x1A (0x2173)
+<$8D><$60>
+// 「おこたえします[br]
+// エリカちゃんが　せかいてき[br]
+// アイドルに　なるのは　じかんてき[br]
+// もんだいです！！」[end]
+{If I may speak[br]
+freely, it is[br]
+only a matter of[br]
+time until Erika[br]
+
+becomes the[br]
+world's greatest[br]
+idol!}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x1B (0x21A7)
+<$92><$60>
+// 「こういっては　なんだけど[br]
+// うちの　みせで　エリカまんじゅう[br]
+// を　つくって　みようかしら」[end]
+{I'll say this[br]
+much: I'm al-[br]
+ready consider-[br]
+ing selling[br]
+
+Erika Manju at[br]
+my shop.}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x1C (0x21D7)
+<$A1><$60>
+// 「よっ　いいぞー　エリカー[br]
+// たまやー　にっぽんいち！」[end]
+{You're great,[br]
+Erika! If you[br]
+were a firework,[br]
+you'd be the[br]
+
+brightest one in[br]
+Japan!}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x1D (0x21F5)
+<$AB><$60>
+// 「ねー　みんなー　わたしが[br]
+// エリカちゃんのファン　１ごうよ！[br]
+// ぜったい　ファンクラブ　つくって[br]
+// かいちょうに　なるからあ！」[end]
+{Just so you[br]
+know, I'm to-[br]
+tally making an[br]
+Erika Fan Club![br]
+
+Nobody's taking[br]
+the No.1 Fan[br]
+spot from me!}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x1E (0x2236)
+<$97><$60>
+// 「エリカちゃんの　ゲーム[br]
+// つくったら　おもしろいかなー？」[end]
+{Hmm...Maybe I[br]
+oughta make a[br]
+game about her?}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x1F (0x2256)
+<$A6><$60>
+// 「エリカ　！　コンサートの[br]
+// ときは　うちのぐんだん　みんなで[br]
+// おうえん　しにいくぜ」[end]
+{You better make[br]
+some extra space[br]
+at your next[br]
+concerts, 'cause[br]
+
+I'm bringing my[br]
+gang to cheer[br]
+you on!}
+
+[end]
+
+#END()
+
+// Script 0x1AEF-0x20 (0x2283)
+<$9C><$60>
+// 「やはり　すばらしい　そしつを[br]
+// もった　こ　だったわ[br]
+// うんうん　しあわせよね[br]
+// しあわせよねってば！」[end]
+{I knew you had[br]
+all the right[br]
+qualities when I[br]
+first met you.[br]
+
+This turned out[br]
+perfectly, just[br]
+like I thought!}
+
+[end]
+
+#END()
+

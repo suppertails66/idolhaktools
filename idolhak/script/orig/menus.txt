@@ -1,0 +1,960 @@
+// Menu 0x0 (0x1D8BF)
+// 　　　　　　　
+
+
+#END()
+
+// Menu 0x1 (0x1D8C6)
+// みる　　　　　
+
+
+#END()
+
+// Menu 0x2 (0x1D8CD)
+// はなす　　　　
+
+
+#END()
+
+// Menu 0x3 (0x1D8D4)
+// とる　　　　　
+
+
+#END()
+
+// Menu 0x4 (0x1D8DB)
+// つかう　　　　
+
+
+#END()
+
+// Menu 0x5 (0x1D8E2)
+// エリカ　　　　
+
+
+#END()
+
+// Menu 0x6 (0x1D8E9)
+// なかま　　　　
+
+
+#END()
+
+// Menu 0x7 (0x1D8F0)
+// いどう　　　　
+
+
+#END()
+
+// Menu 0x8 (0x1D8F7)
+// うたう　　　　
+
+
+#END()
+
+// Menu 0x9 (0x1D8FE)
+// おどる　　　　
+
+
+#END()
+
+// Menu 0xA (0x1D905)
+// ほほえむ　　　
+
+
+#END()
+
+// Menu 0xB (0x1D90C)
+// とぼける　　　
+
+
+#END()
+
+// Menu 0xC (0x1D913)
+// あたり　　　　
+
+
+#END()
+
+// Menu 0xD (0x1D91A)
+// ミホ　　　　　
+
+
+#END()
+
+// Menu 0xE (0x1D921)
+// しんじつ　　　
+
+
+#END()
+
+// Menu 0xF (0x1D928)
+// ホシミ　　　　
+
+
+#END()
+
+// Menu 0x10 (0x1D92F)
+// かんばん　　　
+
+
+#END()
+
+// Menu 0x11 (0x1D936)
+// じょうない　　
+
+
+#END()
+
+// Menu 0x12 (0x1D93D)
+// けいびいん　　
+
+
+#END()
+
+// Menu 0x13 (0x1D944)
+// ばいてん　　　
+
+
+#END()
+
+// Menu 0x14 (0x1D94B)
+// おばさん　　　
+
+
+#END()
+
+// Menu 0x15 (0x1D952)
+// てんぼうだい　
+
+
+#END()
+
+// Menu 0x16 (0x1D959)
+// おかし　　　　
+
+
+#END()
+
+// Menu 0x17 (0x1D960)
+// しゅうかんし　
+
+
+#END()
+
+// Menu 0x18 (0x1D967)
+// きじ　　　　　
+
+
+#END()
+
+// Menu 0x19 (0x1D96E)
+// マスター　　　
+
+
+#END()
+
+// Menu 0x1A (0x1D975)
+// きゃく　　　　
+
+
+#END()
+
+// Menu 0x1B (0x1D97C)
+// コーヒー　　　
+
+
+#END()
+
+// Menu 0x1C (0x1D983)
+// ザンシャイン　
+
+
+#END()
+
+// Menu 0x1D (0x1D98A)
+// はいざら　　　
+
+
+#END()
+
+// Menu 0x1E (0x1D991)
+// べらんめえ　　
+
+
+#END()
+
+// Menu 0x1F (0x1D998)
+// すいがら　　　
+
+
+#END()
+
+// Menu 0x20 (0x1D99F)
+// すいぞくかん　
+
+
+#END()
+
+// Menu 0x21 (0x1D9A6)
+// プラネタリウム
+
+
+#END()
+
+// Menu 0x22 (0x1D9AD)
+// まわりのひと　
+
+
+#END()
+
+// Menu 0x23 (0x1D9B4)
+// ロビー　　　　
+
+
+#END()
+
+// Menu 0x24 (0x1D9BB)
+// クルミ　　　　
+
+
+#END()
+
+// Menu 0x25 (0x1D9C2)
+// おみくじ　　　
+
+
+#END()
+
+// Menu 0x26 (0x1D9C9)
+// えずけショー　
+
+
+#END()
+
+// Menu 0x27 (0x1D9D0)
+// ラッコ　　　　
+
+
+#END()
+
+// Menu 0x28 (0x1D9D7)
+// でんきウナギ　
+
+
+#END()
+
+// Menu 0x29 (0x1D9DE)
+// どうぞう　　　
+
+
+#END()
+
+// Menu 0x2A (0x1D9E5)
+// おんなのひと　
+
+
+#END()
+
+// Menu 0x2B (0x1D9EC)
+// おとこ　　　　
+
+
+#END()
+
+// Menu 0x2C (0x1D9F3)
+// くわし　　　　
+
+
+#END()
+
+// Menu 0x2D (0x1D9FA)
+// たましかや　　
+
+
+#END()
+
+// Menu 0x2E (0x1DA01)
+// おみせのひと　
+
+
+#END()
+
+// Menu 0x2F (0x1DA08)
+// ヤヨイ　　　　
+
+
+#END()
+
+// Menu 0x30 (0x1DA0F)
+// おまんじゅう　
+
+
+#END()
+
+// Menu 0x31 (0x1DA16)
+// モヒカン　　　
+
+
+#END()
+
+// Menu 0x32 (0x1DA1D)
+// ミサオ　　　　
+
+
+#END()
+
+// Menu 0x33 (0x1DA24)
+// チケット　　　
+
+
+#END()
+
+// Menu 0x34 (0x1DA2B)
+// ダイナマイト　
+
+
+#END()
+
+// Menu 0x35 (0x1DA32)
+// ヤチヨ　　　　
+
+
+#END()
+
+// Menu 0x36 (0x1DA39)
+// ハード　　　　
+
+
+#END()
+
+// Menu 0x37 (0x1DA40)
+// はなや　　　　
+
+
+#END()
+
+// Menu 0x38 (0x1DA47)
+// おばあさん　　
+
+
+#END()
+
+// Menu 0x39 (0x1DA4E)
+// おじさん　　　
+
+
+#END()
+
+// Menu 0x3A (0x1DA55)
+// せいねん　　　
+
+
+#END()
+
+// Menu 0x3B (0x1DA5C)
+// はなやさん　　
+
+
+#END()
+
+// Menu 0x3C (0x1DA63)
+// はな　　　　　
+
+
+#END()
+
+// Menu 0x3D (0x1DA6A)
+// かわら　　　　
+
+
+#END()
+
+// Menu 0x3E (0x1DA71)
+// しょくにん　　
+
+
+#END()
+
+// Menu 0x3F (0x1DA78)
+// はなび　　　　
+
+
+#END()
+
+// Menu 0x40 (0x1DA7F)
+// ぼうそうぞく　
+
+
+#END()
+
+// Menu 0x41 (0x1DA86)
+// ムラサキ　　　
+
+
+#END()
+
+// Menu 0x42 (0x1DA8D)
+// スーパー　　　
+
+
+#END()
+
+// Menu 0x43 (0x1DA94)
+// おんなのこ　　
+
+
+#END()
+
+// Menu 0x44 (0x1DA9B)
+// てまり　　　　
+
+
+#END()
+
+// Menu 0x45 (0x1DAA2)
+// アマリリス　　
+
+
+#END()
+
+// Menu 0x46 (0x1DAA9)
+// ふもとのむら　
+
+
+#END()
+
+// Menu 0x47 (0x1DAB0)
+// やぎ　　　　　
+
+
+#END()
+
+// Menu 0x48 (0x1DAB7)
+// おどう　　　　
+
+
+#END()
+
+// Menu 0x49 (0x1DABE)
+// じーさま　　　
+
+
+#END()
+
+// Menu 0x4A (0x1DAC5)
+// くさむら　　　
+
+
+#END()
+
+// Menu 0x4B (0x1DACC)
+// カキナべやま　
+
+
+#END()
+
+// Menu 0x4C (0x1DAD3)
+// おじぞうさん　
+
+
+#END()
+
+// Menu 0x4D (0x1DADA)
+// はりがみ　　　
+
+
+#END()
+
+// Menu 0x4E (0x1DAE1)
+// ほうき　　　　
+
+
+#END()
+
+// Menu 0x4F (0x1DAE8)
+// みずうみ　　　
+
+
+#END()
+
+// Menu 0x50 (0x1DAEF)
+// いえのなか　　
+
+
+#END()
+
+// Menu 0x51 (0x1DAF6)
+// えきまえ　　　
+
+
+#END()
+
+// Menu 0x52 (0x1DAFD)
+// カルミ　　　　
+
+
+#END()
+
+// Menu 0x53 (0x1DB04)
+// かわツナギ　　
+
+
+#END()
+
+// Menu 0x54 (0x1DB0B)
+// おんな　　　　
+
+
+#END()
+
+// Menu 0x55 (0x1DB12)
+// みせのそと　　
+
+
+#END()
+
+// Menu 0x56 (0x1DB19)
+// ハード・ちか　
+
+
+#END()
+
+// Menu 0x57 (0x1DB20)
+// ちじょう　　　
+
+
+#END()
+
+// Menu 0x58 (0x1DB27)
+// ひしょ　　　　
+
+
+#END()
+
+// Menu 0x59 (0x1DB2E)
+// めいし　　　　
+
+
+#END()
+
+// Menu 0x5A (0x1DB35)
+// おとこたち　　
+
+
+#END()
+
+// Menu 0x5B (0x1DB3C)
+// ミドリ　　　　
+
+
+#END()
+
+// Menu 0x5C (0x1DB43)
+// おくのへや　　
+
+
+#END()
+
+// Menu 0x5D (0x1DB4A)
+// しゃちょう　　
+
+
+#END()
+
+// Menu 0x5E (0x1DB51)
+// へやのそと　　
+
+
+#END()
+
+// Menu 0x5F (0x1DB58)
+// かけじく　　　
+
+
+#END()
+
+// Menu 0x60 (0x1DB5F)
+// ルイ　　　　　
+
+
+#END()
+
+// Menu 0x61 (0x1DB66)
+// きんこ　　　　
+
+
+#END()
+
+// Menu 0x62 (0x1DB6D)
+// なかのもの　　
+
+
+#END()
+
+// Menu 0x63 (0x1DB74)
+// ノート　　　　
+
+
+#END()
+
+// Menu 0x64 (0x1DB7B)
+// ちかロビー　　
+
+
+#END()
+
+// Menu 0x65 (0x1DB82)
+// だいおう　　　
+
+
+#END()
+
+// Menu 0x66 (0x1DB89)
+// ちかロビー　　
+
+
+#END()
+
+// Menu 0x67 (0x1DB90)
+// １スタ　　　　
+
+
+#END()
+
+// Menu 0x68 (0x1DB97)
+// もとアイドル　
+
+
+#END()
+
+// Menu 0x69 (0x1DB9E)
+// さんそベンべ　
+
+
+#END()
+
+// Menu 0x6A (0x1DBA5)
+// モモミ　　　　
+
+
+#END()
+
+// Menu 0x6B (0x1DBAC)
+// サキコ　　　　
+
+
+#END()
+
+// Menu 0x6C (0x1DBB3)
+// ２スタ　　　　
+
+
+#END()
+
+// Menu 0x6D (0x1DBBA)
+// せんしゅ　　　
+
+
+#END()
+
+// Menu 0x6E (0x1DBC1)
+// ガガワ　　　　
+
+
+#END()
+
+// Menu 0x6F (0x1DBC8)
+// ３スタ　　　　
+
+
+#END()
+
+// Menu 0x70 (0x1DBCF)
+// バット　　　　
+
+
+#END()
+
+// Menu 0x71 (0x1DBD6)
+// すもうとり　　
+
+
+#END()
+
+// Menu 0x72 (0x1DBDD)
+// すもう　　　　
+
+
+#END()
+
+// Menu 0x73 (0x1DBE4)
+// ４スタ　　　　
+
+
+#END()
+
+// Menu 0x74 (0x1DBEB)
+// さくしか　　　
+
+
+#END()
+
+// Menu 0x75 (0x1DBF2)
+// ぺン　　　　　
+
+
+#END()
+
+// Menu 0x76 (0x1DBF9)
+// メモ　　　　　
+
+
+#END()
+
+// Menu 0x77 (0x1DC00)
+// ミユキ　　　　
+
+
+#END()
+
+// Menu 0x78 (0x1DC07)
+// ミユキのあと　
+
+
+#END()
+
+// Menu 0x79 (0x1DC0E)
+// タジロ　　　　
+
+
+#END()
+
+// Menu 0x7A (0x1DC15)
+// トオル　　　　
+
+
+#END()
+
+// Menu 0x7B (0x1DC1C)
+// すざくのま　　
+
+
+#END()
+
+// Menu 0x7C (0x1DC23)
+// げんぶのま　　
+
+
+#END()
+
+// Menu 0x7D (0x1DC2A)
+// せいりゅうのま
+
+
+#END()
+
+// Menu 0x7E (0x1DC31)
+// ほうおうのま　
+
+
+#END()
+
+// Menu 0x7F (0x1DC38)
+// びゃっこのま　
+
+
+#END()
+
+// Menu 0x80 (0x1DC3F)
+// ひみつのへや　
+
+
+#END()
+
+// Menu 0x81 (0x1DC46)
+// いしどうろう　
+
+
+#END()
+
+// Menu 0x82 (0x1DC4D)
+// かべ　　　　　
+
+
+#END()
+
+// Menu 0x83 (0x1DC54)
+// サングラス　　
+
+
+#END()
+
+// Menu 0x84 (0x1DC5B)
+// あかり　　　　
+
+
+#END()
+
+// Menu 0x85 (0x1DC62)
+// シャンデリア　
+
+
+#END()
+
+// Menu 0x86 (0x1DC69)
+// あたま　　　　
+
+
+#END()
+
+// Menu 0x87 (0x1DC70)
+// スイッチ　　　
+
+
+#END()
+
+// Menu 0x88 (0x1DC77)
+// スタンガン　　
+
+
+#END()
+
+// Menu 0x89 (0x1DC7E)
+// むすびめ　　　
+
+
+#END()
+
+// Menu 0x8A (0x1DC85)
+// あげあし　　　
+
+
+#END()
+
+// Menu 0x8B (0x1DC8C)
+// ナイフ　　　　
+
+
+#END()
+
+// Menu 0x8C (0x1DC93)
+// あせ　　　　　
+
+
+#END()
+
+// Menu 0x8D (0x1DC9A)
+// ビン　　　　　
+
+
+#END()
+
+// Menu 0x8E (0x1DCA1)
+// あせのビン　　
+
+
+#END()
+
+// Menu 0x8F (0x1DCA8)
+// ＹＥＳ　　　　
+
+
+#END()
+
+// Menu 0x90 (0x1DCAF)
+// ＮＯ　　　　　
+
+
+#END()
+
+// Menu 0x91 (0x1DCB6)
+// あねふたり　　
+
+
+#END()
+
+// Menu 0x92 (0x1DCBD)
+// ドアのそと　　
+
+
+#END()
+
+// Menu 0x93 (0x1DCC4)
+// つうしんしつ　
+
+
+#END()
+
+// Menu 0x94 (0x1DCCB)
+// ぞうひょう　　
+
+
+#END()
+
+// Menu 0x95 (0x1DCD2)
+// つうしんき　　
+
+
+#END()
+
+// Menu 0x96 (0x1DCD9)
+// ピストル　　　
+
+
+#END()
+
+// Menu 0x97 (0x1DCE0)
+// べンソン　　　
+
+
+#END()
+
+// Menu 0x98 (0x1DCE7)
+// にげる　　　　
+
+
+#END()
+
+// Menu 0x99 (0x1DCEE)
+// しろのそと　　
+
+
+#END()
+
+// Menu 0x9A (0x1DCF5)
+// ようさいない　
+
+
+#END()
+
+// Menu 0x9B (0x1DCFC)
+// ギャロップ　　
+
+
+#END()
+
+// Menu 0x9C (0x1DD03)
+// しらはどり　　
+
+
+#END()
+
+// Menu 0x9D (0x1DD0A)
+// すいそう　　　
+
+
+#END()
+
+// Menu 0x9E (0x1DD11)
+// ごきげん　　　
+
+
+#END()
+
+// Menu 0x9F (0x1DD18)
+// Ｆテレビ　　　
+
+
+#END()
+

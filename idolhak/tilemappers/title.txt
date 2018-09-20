@@ -1,0 +1,33 @@
+#******************************************************************************
+# Title screen tilemap generator script
+#******************************************************************************
+
+[Properties]
+#palette=pal/grayscale.pal
+colormode=grayscale
+dest=out/grp/title_grp.bin
+loadAddr=0x00
+maxTiles=0x80
+# blacklist all original tiles
+#blacklist=0x40-0xC8
+# whitelist title logo components
+whitelist=0x01-0x5B,0xD9-0xE7
+
+[Include00]
+source=out/grp/font_0x1000.bin
+loadaddr=0x00
+
+[Background00]
+source=out/grp/font_0x1000.bin
+loadaddr=0x00
+
+#******************************************************************************
+# Main layout
+#******************************************************************************
+
+[Tilemap00]
+source=rsrc/title/title.png
+dest=out/maps_raw/title.bin
+#priority=0
+#palette=0
+

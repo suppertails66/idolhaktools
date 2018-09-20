@@ -1,0 +1,318 @@
+みる
+View
+はなす
+Speak
+とる
+Take
+つかう
+Use
+エリカ
+Erika
+なかま
+Friends
+いどう
+Move
+うたう
+Sing
+おどる
+Dance
+ほほえむ
+Smile
+とぼける
+Play Dumb
+あたり
+Vicinity
+ミホ
+Miho
+しんじつ
+Shinjitsu
+ホシミ
+Hoshimi
+かんばん
+Sign
+じょうない
+Hall
+けいびいん
+Guard
+ばいてん
+Kiosk
+おばさん
+Lady
+てんぼうだい
+Lookout
+おかし
+Candy
+しゅうかんし
+Weekly Newspaper
+きじ
+Article
+マスター
+Owner
+きゃく
+Patron
+コーヒー
+Coffee
+ザンシャイン
+Zanshine
+はいざら
+Ashtray
+べらんめえ
+The Bloody Fool
+すいがら
+Cigarette Butts
+すいぞくかん
+Aquarium
+プラネタリウム
+Planetarium
+まわりのひと
+People Around
+ロビー
+Lobby
+クルミ
+Nut
+おみくじ
+Fortune Slip
+えずけショー
+Feeding Show
+ラッコ
+Sea Otter
+でんきウナギ
+Electric Eel
+どうぞう
+Bronze statue
+おんなのひと
+Woman
+おとこ
+Man
+くわし
+Kuwashi
+たましかや
+Tamashikaya
+おみせのひと
+Shopkeeper
+ヤヨイ
+Yayoi
+おまんじゅう
+Manju
+モヒカン
+Mohawk
+ミサオ
+Misao
+チケット
+Ticket
+ダイナマイト
+Dynamite
+ヤチヨ
+Yachiyo
+ハード
+Hard
+はなや
+Florist's
+おばあさん
+Madame
+おじさん
+Mister
+せいねん
+Young man
+はなやさん
+Florist
+はな
+Flower
+かわら
+River
+しょくにん
+Worker
+はなび
+Fireworks
+ぼうそうぞく
+Biker Gang
+ムラサキ
+Murasaki
+スーパー
+Supermarket
+おんなのこ
+Girl
+てまり
+Temari
+アマリリス
+Amaryllis
+ふもとのむら
+Village
+やぎ
+Goat
+おどう
+Shrine
+じーさま
+Old Man
+くさむら
+Thicket
+カキナべやま
+Mt. Kakinabe
+おじぞうさん
+Buddha Statue
+はりがみ
+Poster
+ほうき
+Broom
+みずうみ
+Lake
+いえのなか
+Inside the House
+えきまえ
+In Front of Station
+カルミ
+Karumi
+かわツナギ
+River Connection
+おんな
+Woman
+みせのそと
+Outside Shop
+ハード・ちか
+Hard Basement
+ちじょう
+Above Ground
+ひしょ
+Secretary
+めいし
+Business Card
+おとこたち
+Men
+ミドリ
+Midori
+おくのへや
+Inside
+しゃちょう
+President
+へやのそと
+Outside
+かけじく
+Hanging Scroll
+ルイ
+Rui
+きんこ
+Safe
+なかのもの
+Contents
+ノート
+Notebook
+ちかロビー
+Underground Lobby
+だいおう
+Emperor
+ちかロビー
+Underground Lobby
+１スタ
+Studio 1
+もとアイドル
+Former Idol
+さんそボンべ
+Oxygen Cylinder
+モモミ
+Momomi
+サキコ
+Sakiko
+２スタ
+Studio 2
+せんしゅ
+Player
+ガガワ
+Gagawa
+３スタ
+Studio 3
+バット
+Bat
+すもうとり
+Sumo Wrestlers
+すもう
+Sumo
+４スタ
+Studio 4
+さくしか
+Songwriter
+ぺン
+Pen
+メモ
+Note
+ミユキ
+Miyuki
+ミユキのあと
+After Miyuki
+タジロ
+Tajiro
+トオル
+Tooru
+すざくのま
+Bird's Lair
+げんぶのま
+Tortoise's Lair
+せいりゅうのま
+Dragon's Lair
+ほうおうのま
+Phoenix's Lair
+びゃっこのま
+Tiger's Lair
+ひみつのへや
+Secret Room
+いしどうろう
+Stone Lantern
+かべ
+Wall
+サングラス
+Sunglasses
+あかり
+Light
+シャンデリア
+Chandelier
+あたま
+Head
+スイッチ
+Switch
+スタンガン
+Stun Gun
+むすびめ
+Knot
+あげあし
+Time to Correct
+ナイフ
+Knife
+あせ
+Sweat
+ビン
+Bottle
+あせのビン
+Sweat Bottle
+ＹＥＳ
+YES
+ＮＯ
+NO
+あねふたり
+Erika's Sisters
+ドアのそと
+Outside the Door
+つうしんしつ
+Communications Room
+ぞうひょう
+Goon
+つうしんき
+Communicator
+ピストル
+Gun
+べンソン
+Benson
+にげる
+Run
+しろのそと
+Outside the Castle
+ようさいない
+Inside the Base
+ギャロップ
+Gallop
+しらはどり
+Barehanded Sword Block
+すいそう
+Water Tank
+ごきげん
+Pleasant
+Ｆテレビ
+F-TV

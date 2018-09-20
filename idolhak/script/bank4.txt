@@ -1,0 +1,3893 @@
+// Script 0x1104C-0x0 (0x11214)
+<$00>
+// [br]
+// 　[br]
+// 　[br]
+// 　[end]
+[br]
+ [br]
+ [br]
+ [end]
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x1 (0x1121C)
+<$00>
+// エリカは　ぶじ、ヤチヨたちの[br]
+// もとへ　もどった[wait]
+Erika returned[br]
+safely to Yachi-[br]
+yo and her[br]
+friends.
+
+[wait]
+
+// 
+[spkr]<$1D>
+// 「これから[br]
+// エリカ・プロジェクトの[br]
+// ぜんぼうを　はっぴょうするわ[br]
+// わたしたちは　ヤヨイちゃんの[wait]
+{Allow me to[br]
+give you all the[br]
+details about[br]
+the Erika[br]
+
+Project.
+
+[wait]
+
+// マネー・ゲームに　よって[br]
+// ありあまる　しきんを[br]
+// てにいれたわ」[wait]
+Thanks to Ya-[br]
+yoi's money-[br]
+making in-[br]
+stincts, we have[br]
+
+more funds than[br]
+we ever hoped[br]
+for.}
+
+[wait]
+
+// 
+[spkr]<$13>
+// 「こういっては　なんだけど[br]
+// ちいさなくにの　ひとつやふたつ[br]
+// かえるくらいのおかねは　あるわ」[wait]
+{I'll say this[br]
+much: we could[br]
+probably buy a[br]
+small country or[br]
+
+two.}
+
+[wait]
+
+// 
+[spkr]<$1D>
+// 「そこでＴＶきょくを　つくろうと[br]
+// おもうの　エリカのことをうりだす[br]
+// ためだけの　えいせいほうそう[wait]
+{That's why I'm[br]
+thinking of cre-[br]
+ating a TV sta-[br]
+tion for the[br]
+
+purpose of show-[br]
+ing Erika, to[br]
+give her popula-[br]
+rity.
+
+[wait]
+
+// そのなも[br]
+// }ラブ・エリカ・チャンネル}[br]
+// Ｌ・Ｅ・Ｃよ　[br]
+// もう　きょかもとったし、じんこう[br]
+// えいせいの　ばいしゅうにも[br]
+// せいこうしたわ[br]
+// これから、テストほうそうが[br]
+// はじまるの　みんな、みてみる？」[wait]
+We'll call it[br]
+the *Love Erika[br]
+Channel' -- LEC[br]
+for short.[br]
+
+All the paper-[br]
+work is done,[br]
+and we even[br]
+bought our own[br]
+
+satellite for[br]
+broadcasting.[wait]
+
+The test broad-[br]
+cast will start[br]
+in a few mo-[br]
+ments. Let's[br]
+
+have a look.}
+
+[wait]
+
+// 
+[spkr]<$00>
+// ヤチヨはさっそく、テレビを[br]
+// つけた　すると　とつぜん……[end]
+Yachiyo turns on[br]
+the TV, when[br]
+suddenly...
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x2 (0x1136C)
+
+#END()
+
+// Script 0x1104C-0x3 (0x1136C)
+<$00>
+// カガミばりの　へやです[end]
+It's a room full[br]
+of mirrors.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x4 (0x11379)
+<$00>
+// エリカは　ナイフを[br]
+// とりあげようとした[end]
+Erika tries to[br]
+take the knife.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x5 (0x1138E)
+
+#END()
+
+// Script 0x1104C-0x6 (0x1138E)
+
+#END()
+
+// Script 0x1104C-0x7 (0x1138E)
+<$00>
+// 
+
+
+[fc]<$23>
+
+// しかし、けっかは　うらめにでた[br]
+// タジロのハリセンチョップを　うけ[br]
+// きぜつさせられて[br]
+// しまったのである[end]
+But it doesn't[br]
+go as intended.[br]
+Tajiro hits her[br]
+with a paper[br]
+
+fan, and Erika[br]
+loses conscious-[br]
+ness.
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x8 (0x113C4)
+<$00>
+// エリカは　スタンガンを[br]
+// おしつけようとした[end]
+Erika tries to[br]
+thrust the stun[br]
+gun forward.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x9 (0x113DB)
+
+#END()
+
+// Script 0x1104C-0xA (0x113DB)
+<$C4><$60>
+// 「ふははは　わがはいは　あんこく[br]
+// イロモノだいおうである！」[br]
+// なぜか　テレビには　イロモノ[br]
+// だいおうの　すがたが…[end]
+{Mwahahahah! It[br]
+is I, the Kooky[br]
+King!}[wait]
+
+For some reason,[br]
+the King is on[br]
+TV...
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB (0x11417)
+<$C4><$60>
+// 「エリカ・プロジェクトのしょくん[br]
+// わがはいは　しょくんらの　なかま[br]
+// ホシミを　あずかっておる[wait]
+{My friends from[br]
+the Erika Pro-[br]
+ject, your dear[br]
+Hoshimi is in[br]
+
+our custody.
+
+[wait]
+
+// かえしてほしくば、エリカひとりで[br]
+// Ｋけんは　ＡＳＯざんに　いちする[br]
+// あんこくイロモノじょうにこい　[br]
+// よいな！」[end]
+
+If you want her[br]
+back, Erika must[br]
+come to the Koo-[br]
+ky Kastle on[br]
+
+Mt. ASO in the[br]
+K Prefecture...[br]
+alone!}
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC (0x11480)
+<$22>
+// 「そういやあ　ホシミさんの[br]
+// すがたが　みえやせんぜ」[end]
+{Come to think[br]
+of it, I haven't[br]
+seen Hoshimi in[br]
+a while.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xD (0x1149C)
+<$05>
+// 「やっぱり　さらわれたんだ！[br]
+// わたし　たすけに　いってくる！」[end]
+{Then it's true![br]
+They kidnapped[br]
+her![wait]
+
+I have to save[br]
+her!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xE (0x114BD)
+<$18>
+// 「そんな　ひとりでは[br]
+// いかせられへんわ」[end]
+{Yer not really[br]
+thinkin' of go-[br]
+in' alone, are[br]
+ya?}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xF (0x114D3)
+<$05>
+// 「だいおうのねらいは　わたしに[br]
+// あるわ　もし、ほかのひとが[br]
+// ついてきたら　ホシミちゃんの[br]
+// いのちが　ないかも……」[end]
+{The King's tar-[br]
+get is me. If I[br]
+don't do as he[br]
+says, he might[br]
+
+actually hurt[br]
+Hoshimi...}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x10 (0x1150E)
+<$1D>
+// 「わかったわ、もう　とめないわ[br]
+// わたしたちも　きっと　あとから[br]
+// たすけに　いくからね」[end]
+{Very well. We[br]
+won't stop you.[wait]
+
+We'll figure out[br]
+some way to help[br]
+you.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x11 (0x1153B)
+<$05>
+// 「じゃあ、みんな[br]
+// いってくるわね！」[end]
+{Okay, I'm go-[br]
+ing. See you la-[br]
+ter!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x12 (0x1154F)
+<$00>
+// あっというまに　Ｋけんです[end]
+And just like[br]
+that, you're in[br]
+the K Prefec-[br]
+ture.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x13 (0x1155E)
+<$05>
+// 「これが　あんこくイロモノ[br]
+// じょうね　さすがに　サイケな[br]
+// つくりだわ」[end]
+{That must be[br]
+the Kooky Kast-[br]
+le. It sure[br]
+is...something.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x14 (0x11583)
+<$2A>
+// 「ふふふ　イロモノの　しんずいと[br]
+// いって　いただきたいわね」[br]
+// とつぜん　はいごからこえが……[wait]
+{Heh heh heh...[br]
+Soon you will[br]
+understand what[br]
+it means to be[br]
+
+Kooky.}[wait]
+
+You hear a voice[br]
+coming from be-[br]
+hind you...
+
+[wait]
+
+// ふりむくと　そこには　きみょうな[br]
+// ぬいぐるみを　かぶった[br]
+// おんなのこが　たっていた[end]
+When you turn[br]
+around, you see[br]
+a girl wearing a[br]
+weird furry[br]
+
+suit.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x15 (0x115DD)
+<$05>
+// 「あなたは　いったい……」[end]
+{Who are[br]
+you...?}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x16 (0x115EC)
+<$2A>
+// 「わたしは　ヤモリミユキ[br]
+// イロモノぐんだんの　いちいんよ」[end]
+{I'm Miyuki Ya-[br]
+mori, a member[br]
+of the Kooky[br]
+Kompany.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x17 (0x1160B)
+<$05>
+// 「アイドルだったのに　イロモノ[br]
+// タレントになって　せいこうした[br]
+// ひとね」[end]
+{You're one of[br]
+the idols who[br]
+became a Kooky[br]
+Komedian...}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x18 (0x11631)
+<$00>
+// エリカは　ミユキの　あとについて[br]
+// イロモノじょうのなかへ　はいった[br]
+// そこには、はやばやと　イロモノ[br]
+// だいおうが　まちかまえていた[end]
+Erika follows[br]
+Miyuki inside[br]
+the Kooky Kast-[br]
+le.[wait]
+
+Soon after, she[br]
+stands before[br]
+the Kooky King.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x19 (0x11673)
+<$0D>
+// 「ホシミちゃんを　かえして！」[end]
+{Let Hoshimi[br]
+go!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x1A (0x11684)
+<$44>
+// 「エリカ、わしはいま、せかい[br]
+// せいふくを　たくらんでおる[br]
+// このくさりきった　よのなかを[br]
+// わしの　イロモノ・パワーによって[wait]
+{Erika, I am go-[br]
+ing to conquer[br]
+the world. I[br]
+will use my
+
+[wait]
+
+// ばからしくも　ハッピーな[br]
+// よのなかに　かえてしまうのだ[wait]
+
+Kooky Power to[br]
+change this[br]
+world into a[br]
+silly, happy[br]
+
+place.
+
+[wait]
+
+// だいして、[br]
+// あんこくイロモノてんごくの　らん[br]
+// どうだエリカ　ちからをかさんか」[end]
+Won't you join[br]
+me in my noble[br]
+quest?}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x1B (0x11706)
+<$0D>
+// 「いやよ！　わたしは　うたで、[br]
+// せかいじゅうのひとを[br]
+// かんどうさせるのよ！」[end]
+{No! I told you[br]
+I want to move[br]
+the hearts of[br]
+everyone with my[br]
+
+songs!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x1C (0x1172E)
+<$44>
+// 「きさまのこころ　よくわかった」[wait]
+{I know your[br]
+true desire...}
+
+[wait]
+
+// 
+[spkr]<$00>
+// だいおうは　そういうなり[br]
+// いっぽんの　ヒモを　ひっぱった[wait]
+With that said,[br]
+the King pulls a[br]
+string.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x1D (0x11760)
+<$0D>
+// 「わたしを　どうするつもり！」[end]
+{What's the big[br]
+idea?!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x1E (0x11771)
+<$44>
+// 「そのちかには　わがぐんだんの[br]
+// さいこうかんぶ　イロモノ[br]
+// してんのうが、ひそんでおる　[wait]
+{The generals of[br]
+my army, the[br]
+Kooky Kuartet,[br]
+are down there[br]
+
+in the basement.
+
+[wait]
+
+// きさまが　してんのうを[br]
+// たおしたら、ホシミは　かえして[br]
+// やろう」[end]
+If you can de-[br]
+feat them all, I[br]
+will return Ho-[br]
+shimi to you.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x1F (0x117BF)
+<$00>
+// となりの　へやへの　いりぐちが[br]
+// あります　いりぐちのうえには、[br]
+// }げんぶのま}とかかれた　がくが[br]
+// あります[end]
+You see a door-[br]
+way leading to[br]
+another room.[wait]
+
+Above it is a[br]
+sign reading[br]
+{Tortoise's[br]
+Lair}.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x20 (0x117F6)
+<$00>
+// エリカは　}ほうおうのま}に[br]
+// はいりこんだ[end]
+Erika enters[br]
+{Phoenix's[br]
+Lair}.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x21 (0x1180D)
+<$00>
+// エリカは　}げんぶのま}に[br]
+// はいりこんだ[wait]
+Erika enters[br]
+{Tortoise's[br]
+Lair}.
+
+[wait]
+
+// すると……[wait]
+Just then...
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x22 (0x1182A)
+<$2F>
+// 「このさきはいかせませんよーだ」[br]
+// とつぜん　サングラスのおとこが[br]
+// あらわれて　とおせんぼした[wait]
+{You're not go-[br]
+ing any far-[br]
+ther.}[wait]
+
+A man wearing[br]
+sunglasses[br]
+blocks your way.
+
+[wait]
+
+// 「おれは　ミュージシャンから[br]
+// イロモノタレントになった[br]
+// タジロマサシだ！」[end]
+{I am the musi-[br]
+cian turned[br]
+Kooky Komedian,[br]
+Masashi Tajiro!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x23 (0x11880)
+<$2F>
+// 「おれは　ミュージシャンから[br]
+// イロモノタレントになった[br]
+// タジロマサシだ！」[end]
+{I am the musi-[br]
+cian turned[br]
+Kooky Komedian,[br]
+Masashi Tajiro!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x24 (0x118A7)
+<$00>
+// }すざくのま}と[br]
+// }せいりゅうのま}への[br]
+// いりぐちが　みえます[end]
+You see the en-[br]
+trances to[br]
+{Bird's Lair}[br]
+and {Dragon's[br]
+
+Lair}.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x25 (0x118C8)
+<$0A>
+// エリカの　ミラクル・ベイスが[br]
+// はつどうした[end]
+Erika displays[br]
+her Miracle[br]
+Voice.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x26 (0x118DF)
+<$2F>
+// 「みみせんしたから[br]
+// きこえないよーだ！」[end]
+{I'm wearing[br]
+earplugs. I[br]
+can't hear you!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x27 (0x118F5)
+<$11>
+// エリカは　すばらしいステップを[br]
+// ふんだ[end]
+Erika starts[br]
+dancing with[br]
+grace and ele-[br]
+gance.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x28 (0x1190A)
+<$2F>
+// 「いーぞ、ねーちゃん！」[wait]
+{Yeah! You go,[br]
+girl!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// タジロは　うれしそうにみています[end]
+Tajiro seems[br]
+happy.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x29 (0x1192B)
+<$0F>
+// あいてが　ずにのるだけですよ[end]
+You're going to[br]
+overdo it.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x2A (0x1193B)
+<$10>
+// 「エリカ、なんにもわかんなーい[br]
+// だからとおしてー」[end]
+{I don't get it![br]
+Just let me[br]
+through, okay?}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x2B (0x11956)
+<$2F>
+// 「そんなおとぼけ[br]
+// つうじないよーだ」[end]
+{Playing dumb[br]
+won't work with[br]
+me.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x2C (0x1196A)
+<$2F>
+// 「いかせないよー、イロモノ[br]
+// ハリセーン！」
+{Not going to[br]
+happen! Kooky[br]
+Paper Fan!}
+
+[fc]<$23>
+
+// [wait]
+
+
+[wait]
+
+// 
+[spkr]<$00>
+// おおさかめいぶつ　ハリセン[br]
+// チョップが　エリカを[br]
+// ちょくげきした[end]
+Erika is hit by[br]
+a traditional[br]
+Osaka paper fan.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x2D (0x119A6)
+<$00>
+// サングラスを　しています[end]
+He's wearing[br]
+sunglasses.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x2E (0x119B4)
+<$00>
+// てんじょうには　あかりが[br]
+// こうこうと　かがやいています[end]
+A chandelier on[br]
+the ceiling ill-[br]
+uminates the[br]
+room.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x2F (0x119D1)
+<$00>
+// とくに　かわったところは[br]
+// ありませんが……[end]
+There's nothing[br]
+particularly off[br]
+about it, but...
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x30 (0x119E8)
+<$0B>
+// 
+
+
+[fa]<$37>
+
+// 「サングラス？…」[fb]
+{Sunglasses...?}
+
+[fb]
+
+// 
+[spkr]<$05>
+// 「そうだわ！」[wait]
+{That's it!}
+
+[wait]
+
+// 「サングラスをしてるんだから[br]
+// くらやみでは[br]
+// めが　きかないはずだわ　[br]
+// でんきを　けしちゃいましょ！」[end]
+{If he's wearing[br]
+sunglasses, he[br]
+won't be able to[br]
+see anything in[br]
+
+the dark! I'll[br]
+turn off the[br]
+lights!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x31 (0x11A32)
+<$00>
+// とどきませんよーだ[end]
+You can't reach[br]
+there.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x32 (0x11A3D)
+<$00>
+// シャンデリアのスイッチがあります[end]
+You notice the[br]
+chandelier's[br]
+switch.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x33 (0x11A4F)
+<$00>
+// シャンデリアのスイッチを　きると[br]
+// あたりは　まっくらになった[wait]
+When you press[br]
+the switch, the[br]
+chandelier turns[br]
+off and the room[br]
+
+becomes dark.
+
+[wait]
+
+// 
+[spkr]<$2F>
+// 「おおー！めがみえないぞー」[br]
+// タジロの　あわてるこえが　きこえ[br]
+// ます[end]
+{Whoa! I can't[br]
+see!}[br]
+Tajiro yells[br]
+out, panicking.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x34 (0x11A94)
+<$05>
+// 「いまがチャンスだわ」[end]
+{Now's my[br]
+chance!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x35 (0x11AA1)
+<$00>
+// エリカは　}すざくのま}に[br]
+// はいりこんだ[end]
+Erika enters[br]
+{Bird's Lair.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x36 (0x11AB7)
+<$00>
+// トオルが　じゃましていて[br]
+// いどうできません[end]
+You can't go[br]
+there. Tooru is[br]
+in the way.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x37 (0x11ACE)
+<$00>
+// エリカは　}せいりゅうのま}に[br]
+// はいりこんだ[end]
+Erika enters[br]
+{Dragon's Lair}.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x38 (0x11AE6)
+<$3E>
+// 「いやあ[br]
+// きぐうでスナかけばばあ」[wait]
+{Oh my, what a[br]
+coincidence![wait]
+
+By the way, did[br]
+you know? There[br]
+are actually[br]
+thirteen items[br]
+
+in a baker's do-[br]
+zen.}
+
+[wait]
+
+// みなれた　へんなあたまのおとこが[br]
+// たっていた　ものしりコラムニスト[br]
+// の　やけにくわしです[end]
+You'd recognize[br]
+that weird hair-[br]
+do anywhere.[br]
+It's the most[br]
+
+informed colum-[br]
+nist, Kuwashi[br]
+Yakeni.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x39 (0x11B26)
+<$00>
+// みなれた　へんなあたまの[br]
+// おとこが　たっていた[end]
+You'd recognize[br]
+that weird hair-[br]
+do anywhere.
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x3A (0x11B3F)
+<$0C>
+// 「なぜイロモノぐんだんなんかに」[end]
+{Why are you[br]
+with the Kooky[br]
+Kompany??}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x3B (0x11B51)
+<$3E>
+// 「でたがりの　せいかくを[br]
+// かわれてね　だいおうの[br]
+// いうとおりに　したら[wait]
+{Because I can[br]
+be true to my-[br]
+self here.
+
+[wait]
+
+// たちまちスターに　なれタヨ……[br]
+// タヨリがないのは　げんきのしらせ[wait]
+I just had to[br]
+follow the[br]
+King's orders,[br]
+and he turned me[br]
+
+into a star...
+
+[wait]
+
+// きみも　はやく　なかまに[br]
+// おなリヨ…リヨジュンこうりゃく[br]
+// のぎしょうぐん」[end]
+You should do it[br]
+too. Join us![wait]
+
+By the way, did[br]
+you know? The[br]
+sailfish is the[br]
+fastest fish in[br]
+
+the ocean.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x3C (0x11BBD)
+<$3E>
+// 「いかせないヨ……ヨシのずいから[br]
+// てんじょう　のぞく　パーンチ！」
+{I can't let you[br]
+through...[wait]
+
+*The-Spanish-[br]
+Currency-is-[br]
+Called-Peseta'[br]
+Punch!}
+
+[fc]<$20>
+
+// [wait]
+
+
+[wait]
+
+// 
+[spkr]<$0C>
+// 「きゃー！」[br]
+// エリカのからだに　でんげきが[br]
+// はしった[end]
+{Eeek!}[br]
+Electricity runs[br]
+through Erika's[br]
+body.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x3D (0x11BE3)
+<$0C>
+// 「きゃー！」[br]
+// エリカのからだに　でんげきが[br]
+// はしった[end]
+{Eeek!}[br]
+Electricity runs[br]
+through Erika's[br]
+body.
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x3E (0x11BFF)
+<$3E>
+// 「スタンガンといって　でんげきを[br]
+// くらわせるぶきサ……サルも[br]
+// きからおちる[wait]
+{This is a stun[br]
+gun. As you've[br]
+seen, it gives[br]
+an electric[br]
+
+shock.}
+
+[wait]
+
+// ぼくは　いつも　さいせんたんの[br]
+// ものを　とりそろえているのヨ……[br]
+// …ヨシダけんこう　つれづれぐさ」[end]
+I've always been[br]
+interested in[br]
+the latest tech-[br]
+nologies.[wait]
+
+By the way, did[br]
+you know? Marie[br]
+Antoinette was[br]
+the last queen[br]
+
+of France.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x3F (0x11C58)
+<$3E>
+// 「にしドイツせいの　みみせんは[br]
+// よくきくネエ……ネエーデル[br]
+// ランドは　オランダだ」[end]
+{I can't hear[br]
+you. I'm wearing[br]
+German-made ear-[br]
+plugs.[wait]
+
+By the way, did[br]
+you know? The[br]
+Red Baron's real[br]
+name was Manfred[br]
+
+von Richthofen.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x40 (0x11C83)
+<$3E>
+// 「なかなか　おしゃれなステップ[br]
+// じゃん……ジャン・ジャック・[br]
+// ルソー」[end]
+{Hm-hmm. Such[br]
+lovely moves.[wait]
+
+By the way, did[br]
+you know? Claude[br]
+Monet started[br]
+the impression-[br]
+
+ist movement.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x41 (0x11CA8)
+<$10>
+// 「わたしただの　とおりがかりの[br]
+// ちょうにんよ　だから　とおして」[end]
+{I'm but a sim-[br]
+ple peasant.[br]
+Please let me[br]
+through, good[br]
+
+sir...}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x42 (0x11CCA)
+<$3E>
+// 「ずいぶん　ふるいギャグいうじゃ[br]
+// ナイ……ナイジェリア」[end]
+{My, what an[br]
+old-fashioned[br]
+joke...[wait]
+
+By the way, did[br]
+you know? The[br]
+U.S. Constitu-[br]
+tion was written[br]
+
+in 1787.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x43 (0x11CE8)
+<$00>
+// エリカは　しかたなく[br]
+// }げんぶのま}に[br]
+// にげこんだ[wait]
+Erika has no[br]
+choice but to[br]
+retreat to {Tor-[br]
+toise's Lair}.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x44 (0x11D04)
+<$00>
+// あたりは　まだくらく、タジロが[br]
+// あいかわらず　わめいています[end]
+The lights are[br]
+still off, and[br]
+Tajiro is still[br]
+yelling.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x45 (0x11D24)
+<$00>
+// すると　そこにはなぜか[br]
+// モモミがいた[end]
+For some reason,[br]
+Momomi is here.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x46 (0x11D38)
+<$0C>
+// 「モモミちゃん、どうして[br]
+// ここにいるの？」[end]
+{Momomi! What[br]
+are you doing[br]
+here??}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x47 (0x11D4F)
+<$27>
+// 「しんぱいだからついてきちゃった[br]
+// わたし　アイドルの　がくやに[br]
+// しのびこむの　とくいだったから[br]
+// これぐらい　あさめしまえよ」[end]
+{I was worried[br]
+about you! I'm[br]
+used to sneaking[br]
+into idols'[br]
+
+dressing rooms,[br]
+so this was a[br]
+piece of cake.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x48 (0x11D8F)
+<$05>
+// 「しかたないわねえ[br]
+// ついていらっしゃい」[end]
+{Oh well. Come[br]
+on, let's go!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x49 (0x11DA5)
+<$00>
+// エリカは　}げんぶのま}に[br]
+// はいりこんだ[wait]
+Erika enters[br]
+{Tortoise's[br]
+Lair}.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x4A (0x11DBC)
+<$00>
+// やけにくわしが　まちかまえていた[end]
+Kuwashi Yakeni[br]
+is waiting for[br]
+you.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x4B (0x11DCE)
+<$27>
+// 「やけにくわしは　へんなあたまを[br]
+// してるときしか　おちょうしもんに[br]
+// なれないのよ[br]
+// ざっしで　よんだことが　あるわ」[wait]
+{I read in a[br]
+magazine that[br]
+Kuwashi Yakeni[br]
+acts crazy only[br]
+
+when he has a[br]
+weird hairdo[br]
+on.}
+
+[wait]
+
+// 「あたまの　むすびめさえ、とれば[br]
+// ふつうの　ひとに、もどるかもよ」[wait]
+{If we untie[br]
+that topknot,[br]
+he'll act like a[br]
+normal guy.}
+
+[wait]
+
+// 
+[spkr]<$3E>
+// 「コレ！　むすめ！[br]
+// よけいなことを　ゆうでナイ！[br]
+// チンゲールは　おんなのこ[br]
+// ハハハ　これも　おもしろいや」[end]
+{Hey! Stop re-[br]
+vealing all of[br]
+my secrets![wait]
+
+By the way, did[br]
+you know? Humm-[br]
+ingbirds are the[br]
+only birds[br]
+
+capable of fly-[br]
+ing backwards.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x4C (0x11E63)
+<$00>
+// エリカは　くわしの　むすびめ[br]
+// めがけとびかかった[end]
+Erika tries to[br]
+reach out for[br]
+Kuwashi's top-[br]
+knot.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x4D (0x11E7D)
+<$3E>
+// 「あまいわ　こむすめどもが……[br]
+// ガルガンチュアとパンダグリュエル[br]
+// ものがたりパーンチ！」
+{Ah, so young[br]
+and so naive...[wait]
+
+*The-Aardvark-[br]
+is-Native-to-[br]
+Africa' Punch!}
+
+[fc]<$20>
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x4E (0x11EAD)
+<$3E>
+// 「しょうこりもなく　こむすめが[br]
+// くたばれ……レーガンは[br]
+// だい５０だい[br]
+// だいとうりょうパーンチ！」
+{Haven't you[br]
+learned your[br]
+lesson yet?[wait]
+
+{Reagan-is-the-[br]
+Fiftieth-U.S.-[br]
+President'[br]
+Punch!}
+
+[fc]<$20>
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x4F (0x11EE1)
+<$0D>
+// 「ちがうわよ！　レーガンは[br]
+// だい４０だい　だいとうりょうよ！[br]
+// このあいだ　がっこうで　ならった[br]
+// ばかりだから　まちがいないわ[wait]
+{You're wrong![br]
+Ronald Reagan is[br]
+actually the[br]
+FOURTIETH[br]
+
+president of the[br]
+United States!
+
+[wait]
+
+// 
+[spkr]<$05>
+// こうみえても　しゃかいか　とくい[br]
+// なのよ！」[wait]
+I'm good at soc-[br]
+ial studies, you[br]
+know.}
+
+[wait]
+
+// 
+[spkr]<$0D>
+// 「わかった？」[end]
+{Got it?}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x50 (0x11F44)
+<$3E>
+// 「どわわわー　こんな　こむすめに[br]
+// まちがいを、してきされてしまった[wait]
+{Oh my gosh! Did[br]
+a little girl[br]
+just correct me[br]
+in trivia?!
+
+[wait]
+
+// ものしりコラムニストと　しての[br]
+// プライドが、おれのそんざいりゆう[br]
+// レーゾンデートルが、ゲシュタルト[br]
+// ほうかい　していくー！」[end]
+My pride as the[br]
+most informed[br]
+columnist is in[br]
+crumbles![wait]
+
+My raison d'etre[br]
+is going through[br]
+Gestaltzerfall!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x51 (0x11FA6)
+<$00>
+// エリカは　このスキを　ついて[br]
+// くわしの　かみのむすびめをといた[br]
+// 　　　　
+Erika takes the[br]
+opportunity to[br]
+untie the knot[br]
+on Kuwashi's[br]
+
+head.
+
+[fa]<$79>
+
+// 
+
+
+[fc]<$15>
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x52 (0x11FD0)
+<$41>
+// 「はっ、わたしは　いままでなにを[br]
+// していたんだ」[wait]
+{...Ah! What[br]
+have I been do-[br]
+ing?}
+
+[wait]
+
+// くわしは　もとのクールな[br]
+// コラムニストに　もどったようです[br]
+// エリカは　これまでのことを[br]
+// はなしてきかせた[wait]
+Kuwashi is back[br]
+to being a cool[br]
+columnist. Erika[br]
+brings him up to[br]
+
+date.
+
+[wait]
+
+// 「わたしはいままで　そんなことを[br]
+// してたのか　こうなったら[br]
+// いちから　でなおすしかないな[wait]
+{I can hardly[br]
+believe this is[br]
+what I've been[br]
+doing...I'll[br]
+
+start back from[br]
+scratch.
+
+[wait]
+
+// よし　このスタンガンは[br]
+// きみに　あげよう」[end]
+Here, take the[br]
+stun gun with[br]
+you.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x53 (0x12062)
+<$00>
+// エリカは　スタンガンをうけとった[br]
+// こうして　クワシはこころを[br]
+// いれかえて　イロモノじょうから[br]
+// さっていった[wait]
+Erika receives[br]
+the stun gun.[br]
+Kuwashi, having[br]
+turned over a[br]
+
+new leaf, leaves[br]
+the Kooky Kast-[br]
+le.
+
+[wait]
+
+// 
+
+
+[fa]<$89>
+
+// そのころ…[wait]
+Meanwhile...
+
+[wait]
+
+// イロモノてんしゅかくでは[br]
+// イロモノだいおうと　ミユキが[br]
+// かくしカメラをとおして　エリカの[br]
+// たたかいぶりを　みまもっていた[end]
+From the Kooky[br]
+Tower, the Kooky[br]
+King and Miyuki[br]
+observe Erika's[br]
+
+struggles with a[br]
+series of hidden[br]
+cameras.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x54 (0x120DE)
+<$2A>
+// 「だいおうさま　なぜ、エリカの[br]
+// とどめを　さしてしまわれない[br]
+// のです」[end]
+{My King, why[br]
+won't you finish[br]
+her off?}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x55 (0x12103)
+<$44>
+// 「やつには　ひゃくねんにひとりの[br]
+// イロモノの　さいのうがある　[br]
+// あれを　りようしないてはない[wait]
+{She possesses a[br]
+Kookiness that[br]
+only appears[br]
+once every[br]
+
+hundred years.
+
+[wait]
+
+// みろ、やつは　してんのうとの[br]
+// たたかいで　しらずしらずのうちに[br]
+// おおぼけを　かましているでは[br]
+// ないか[wait]
+Look well. She's[br]
+turning sillier[br]
+and sillier as[br]
+she faces the[br]
+
+Kuartet.
+
+[wait]
+
+// あやつは　じぶんでも　きづかない[br]
+// うちに　イロモノに　そまりつつ[br]
+// あるのだ」[end]
+Before she rea-[br]
+lizes what's[br]
+happening,[br]
+she'll become a[br]
+
+true Kooky.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x56 (0x1218D)
+<$00>
+// たたかえば　たたかうほど[br]
+// イロモノに　ちかづいてしまうとは[br]
+// おそるべき　だいおうの　わるぢえ[wait]
+The more she[br]
+fights, the more[br]
+she turns into a[br]
+Kooky...[wait]
+
+Such is the[br]
+King's cunning[br]
+plan.
+
+[wait]
+
+// いっぽう、そんなことなどしらない[br]
+// エリカは……[end]
+Unaware of this[br]
+fact, Erika[br]
+is...
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x57 (0x121D5)
+<$00>
+// エリカは　}びゃっこのま}に[br]
+// はいりこんだ[wait]
+Erika enters[br]
+{Tiger's Lair}.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x58 (0x121ED)
+<$35>
+// 「ふふふふ、よくここまで　たどり[br]
+// ついたな」[wait]
+(chuckle)[br]
+{Well done com-[br]
+ing this far.}
+
+[wait]
+
+// 
+[spkr]<$00>
+// そこには、カエルのかっこうをした[br]
+// ふとったおとこが　たっていた[wait]
+A plump man in a[br]
+frog suit stands[br]
+before you.
+
+[wait]
+
+// 
+[spkr]<$35>
+// 「おれのなは　われなべトオル[br]
+// もとは　２まいめスターだったが[br]
+// いまでは　すっかりふとってしまい[br]
+// イロモノタレントのなかまいりだ」[end]
+{My name is Too-[br]
+ru Watanabe. I[br]
+was known for my[br]
+good looks once,[br]
+
+but I put on too[br]
+much weight.[br]
+That's why I be-[br]
+came a Kooky[br]
+
+Komedian.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x59 (0x1226A)
+<$35>
+// 「うたなんぞ　きいても、はらの[br]
+// たしに　ならんわ」[end]
+{Songs won't[br]
+satisfy my hun-[br]
+ger!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x5A (0x12285)
+<$00>
+// デブになって　にんげんらしい[br]
+// こころも　うしなって　しまった[br]
+// ようです[end]
+It appears that[br]
+gluttony made[br]
+him lose his hu-[br]
+man heart.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x5B (0x122AA)
+<$35>
+// 「おどりなんぞ　みても　はらの[br]
+// たしに　ならんわ」[end]
+{Watching you[br]
+dance just makes[br]
+me hungrier!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x5C (0x122C5)
+<$0F>
+// 「でも、わたし　ふとったひとって[br]
+// かんろくあるから　すきよ」[end]
+{I like chubby[br]
+guys. They have[br]
+a lot of pre-[br]
+sence.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x5D (0x122E5)
+<$35>
+// 「こころにもないこと[br]
+// いうんじゃない[br]
+// おれは　どーせ　デブだ！」[end]
+{Stop lying! I[br]
+know you just[br]
+think I'm fat!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x5E (0x12307)
+<$00>
+// いきなりつかうのは[br]
+// かんがえものですね[end]
+You can't use it[br]
+without a good[br]
+plan.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x5F (0x1231C)
+<$35>
+// 「これだけ　ふとってしまって[br]
+// ２まいめは　やってられない[br]
+// だろうが！」[wait]
+{Because I'm too[br]
+fat to get hired[br]
+as a *handsome'[br]
+man, that's[br]
+
+why!}
+
+[wait]
+
+// いきなり　トオルが　こうげきを[br]
+// しかけてきた[br]
+// 「でへへへへ　へのつっぱり[br]
+// つっぱり　つっぱり！」[wait]
+Tooru attacks[br]
+you without[br]
+warning.[wait]
+
+{I'm going to[br]
+slap you silly!}
+
+[wait]
+
+// 
+
+
+[fa]<$53>
+
+// すもうとりさながらの　つっぱりだ[end]
+It's a sumo-[br]
+level slapping[br]
+attack.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x60 (0x12385)
+<$00>
+// エリカは　スタンガンを　トオルに[br]
+// おしつけた
+Erika thrusts[br]
+the stun gun[br]
+towards Tooru.
+
+[fc]<$20>
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x61 (0x1239F)
+<$35>
+// 「ぐあああー」[br]
+// でんげきにおどろいた　トオルは[br]
+// こうげきのてを　ゆるめた[end]
+{ARGH!}[wait]
+
+Shocked in both[br]
+senses, Tooru's[br]
+attack slows[br]
+down.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x62 (0x123C5)
+<$00>
+// エリカたちは　トオルのこうげきに[br]
+// おされ、}せいりゅうのま}に[br]
+// にげこんだ[wait]
+Pushed back by[br]
+Tooru's attacks,[br]
+Erika is forced[br]
+to retreat to[br]
+
+{Dragon's Lair}.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x63 (0x123ED)
+<$35>
+// 「まてエリカ、にがさないぞ！」[br]
+// トオルがしつこく　おってきた[end]
+{Stop! You're[br]
+not running away[br]
+from me!}[wait]
+
+Tooru chases af-[br]
+ter you.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x64 (0x1240D)
+<$00>
+// エリカたちは　トオルのこうげきに[br]
+// おされ、}げんぶのま}に[br]
+// にげこんだ[end]
+Pushed back by[br]
+Tooru's attacks,[br]
+Erika is forced[br]
+to retreat to[br]
+
+{Tortoise's[br]
+Lair}.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x65 (0x12432)
+<$00>
+// それより　にげるのがさきでしょう[end]
+You should prob-[br]
+ably run away[br]
+first.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x66 (0x12444)
+<$00>
+// エリカたちは　トオルのこうげきに[br]
+// おされ、}すざくのま}に[br]
+// にげこんだ[wait]
+Pushed back by[br]
+Tooru's attacks,[br]
+Erika is forced[br]
+to retreat to[br]
+
+{Bird's Lair}.
+
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x67 (0x1246A)
+<$00>
+// いまつかうのは　かんがえものです[end]
+You can't use it[br]
+right now.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x68 (0x1247C)
+<$0D>
+// 「こうなったら、このいしどうろう[br]
+// を　ぶつけてやるわ」[wait]
+{That's enough![br]
+I'm going to hit[br]
+him with this[br]
+lantern!}
+
+[wait]
+
+// なんと　かじばの　ばかぢからか[br]
+// エリカは　いしどうろうを[br]
+// もちあげてしまった[wait]
+With a rush of[br]
+adrenaline, Eri-[br]
+ka manages to[br]
+lift the stone[br]
+
+lantern.
+
+[wait]
+
+// すると…[wait]
+Suddenly...
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x69 (0x124C6)
+<$00>
+// 「ゴゴゴゴゴゴゴゴォー」　かべが[br]
+// おとをたてて　くずれはじめ[br]
+// なんと！　　ひみつの　いりぐちが[br]
+// しゅつげんした[end]
+(gruuumble)[br]
+There is a noise[br]
+coming from the[br]
+nearby wall.[wait]
+
+Oh my! It's a[br]
+secret door!
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x6A (0x124FF)
+<$00>
+// エリカたちは　ひみつのへやに[br]
+// とびこんだ[end]
+Erika enters the[br]
+secret room.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x6B (0x12515)
+
+#END()
+
+// Script 0x1104C-0x6C (0x12515)
+<$00>
+// なかは　カガミばりとなっていた[wait]
+The room is full[br]
+of mirrors.
+
+
+[wait]
+
+// [br]
+// 
+[spkr]<$35>
+// 「ぐああー　こ、ここは……」[br]
+// とつぜん　トオルがひめいをあげた[end]
+{Aaah! T-This[br]
+is...!}[br]
+Tooru yells out[br]
+all of a sudden.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x6D (0x12549)
+<$00>
+// トオルは　カガミのまえで[br]
+// まっさおな　かおをしたまま、[br]
+// うごきません[end]
+Tooru is aghast[br]
+at the sight of[br]
+his reflection[br]
+in the mirrors.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x6E (0x1256D)
+<$35>
+// 「み、みにくい　このデブが[br]
+// おれなのか……」[wait]
+{I-Is that rea-[br]
+lly me...? I'm[br]
+so...ugly...}
+
+[wait]
+
+// 
+[spkr]<$00>
+// そのうち　トオルのからだから[br]
+// ものすごいりょうの　あせが[br]
+// ながれだしはじめた[end]
+Tooru starts[br]
+sweating like[br]
+crazy.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x6F (0x125AE)
+<$00>
+// エリカたちは、みうごきがとれない[br]
+// トオルを　のこして[br]
+// }すざくのま}に　にげだした[wait]
+Erika leaves[br]
+Tooru frozen in[br]
+place and re-[br]
+turns to[br]
+
+{Bird's Lair}.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x70 (0x125DA)
+<$00>
+// しかし　そこには　タジロマサシが[br]
+// まちかまえていた[wait]
+But Masashi Ta-[br]
+jiro was waiting[br]
+for her.
+
+[wait]
+
+// 
+[spkr]<$32>
+// 「しかたなくサングラスをはずした[br]
+// もう　にがさへんで」[wait]
+{I had to take[br]
+off my sunglass-[br]
+es! You're not[br]
+running away[br]
+this time!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// サングラスを　はずした　タジロの[br]
+// めは　キンキラキンにひかっていた[wait]
+You notice how[br]
+his eyes are all[br]
+glittery without[br]
+his sunglasses.
+
+[wait]
+
+// 
+[spkr]<$32>
+// 「この[br]
+// はずかしいめをかくすために[br]
+// サングラスをしとったんじゃい！[wait]
+{This is why I[br]
+wear sunglasses![br]
+I'm too embarr-[br]
+assed of my[br]
+
+eyes!
+
+[wait]
+
+// みられたからには、いかして[br]
+// かえすわけには　いかんな」[end]
+Now that you've[br]
+seen them, I[br]
+can't let you[br]
+walk away!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x71 (0x12677)
+<$32>
+// 「この　はずかしいめをかくすため[br]
+// に　サングラスをしとったんじゃい[br]
+// みられたからには、いかしてかえす[br]
+// わけにはいかんな」[end]
+{This is why I[br]
+wear sunglasses![br]
+I'm too embarr-[br]
+assed of my[br]
+
+eyes! Now that[br]
+you've seen[br]
+them, I can't[br]
+let you walk[br]
+
+away!}
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x72 (0x126B5)
+<$00>
+// タジロがじゃましています[end]
+Tajiro is block-[br]
+ing your way.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x73 (0x126C3)
+<$00>
+// むやみにちかづくと　きけんです[end]
+It's too danger-[br]
+out to get[br]
+close.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x74 (0x126D4)
+<$05>
+// 「わー、すごくカワイイおめめで[br]
+// とってもすてき」[end]
+{Wow! You have[br]
+such cute eyes![br]
+They're so[br]
+charming!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x75 (0x126EE)
+<$32>
+// 「そうかな　えへへ」[br]
+// いいきになった　タジロにすきが[br]
+// しょうじた[end]
+{I-Is that so?[br]
+Heheh!}[wait]
+
+Tajiro is full[br]
+of himself and[br]
+lowers his[br]
+guard.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x76 (0x12710)
+<$3D>
+// するとそこには　みなれぬおとこの[br]
+// ひとが　たおれていた[end]
+There is an un-[br]
+familiar man in-[br]
+side.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x77 (0x1272D)
+<$3D>
+// なかなかの２まいめです[end]
+He's pretty[br]
+handsome.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x78 (0x1273A)
+<$27>
+// 「あれれ？このひと　ふとるまえの[br]
+// われなべトオルだ」[end]
+{Hey, I know[br]
+him. This is[br]
+Tooru Warenabe[br]
+before he put on[br]
+
+weight.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x79 (0x12756)
+<$00>
+// あせを　ながしきったためか、[br]
+// トオルは　もとの　２まいめに、[br]
+// もどったようです[end]
+Apparently, he's[br]
+sweat so much[br]
+that he went[br]
+back to his[br]
+
+former shape.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x7A (0x1277F)
+<$0F>
+// 「よかったわねー」[br]
+// などと、のんきによろこんだのも[br]
+// つかのま、そこへ　タジロマサシが[br]
+// おいかけてきた[wait]
+{Good for him!}[wait]
+
+While you're[br]
+there acting[br]
+carefree, Masa-[br]
+shi Tajiro[br]
+
+chases after[br]
+you.
+
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x7B (0x127B4)
+<$32>
+// 「ほんとうにころす！」[br]
+// ぎゃくじょうしたタジロが　ナイフ[br]
+// をふりかざして　おそいかかる[wait]
+{I'll kill you![br]
+I'm serious!!}[wait]
+
+He's lost it,[br]
+and is brandish-[br]
+ing a knife.
+
+[wait]
+
+// エリカは　そのこうげきを[br]
+// かろうじてかわした[end]
+Erika barely[br]
+manages to avoid[br]
+getting stabbed.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x7C (0x127F8)
+<$00>
+// ぎゃくじょうしていて　はなしが[br]
+// つうじません[end]
+He's in a frenzy[br]
+and won't list-[br]
+en.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x7D (0x12810)
+<$00>
+// きぜつしていて　おきません[end]
+He's fainted and[br]
+won't wake up.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x7E (0x1281F)
+<$00>
+// そんなことを　してるうちに[br]
+// さされますよ[end]
+You'll get[br]
+stabbed if you[br]
+do that.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x7F (0x12835)
+<$00>
+// エリカは　ナイフをかいくぐり[br]
+// タジロにでんげきを　くらわせた[br]
+// タジロのこうげきのてが[br]
+// やすまった
+Erika dodges the[br]
+knife and pulls[br]
+the stun gun on[br]
+Tajiro.[wait]
+
+He stops attack-[br]
+ing you for now.
+
+[fc]<$20>
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x80 (0x12869)
+<$0A>
+// もう　おっきちゃっ　いかがっと[br]
+// カッコがなくー[musicnote][br]
+// トオルさん　さっさと　おきてー[end]
+Wakey-wakey,[br]
+  sleepyhead![musicnote][br]
+Rise and shine,[br]
+  Mr. Tooru!
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x81 (0x12893)
+<$00>
+// エリカの　すがすがしい　うたごえ[br]
+// を　きいて　トオルは　むっくりと[br]
+// おきあがった[end]
+After hearing[br]
+Erika's brisk[br]
+singing voice,[br]
+Tooru wakes up[br]
+
+immediately.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x82 (0x128BD)
+<$0C>
+// 「たすけてー」[end]
+{Help us!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x83 (0x128C6)
+<$38>
+// 「むっ、おんなのこのききだ！」[br]
+// ２まいめにもどった　トオルは[br]
+// とっさに　エリカのたてとなり[br]
+// ナイフで　さされてしまった
+{Hm? A damsel in[br]
+distress!}[wait]
+
+Back to his for-[br]
+mer glory, Tooru[br]
+jumps to protect[br]
+Erika, and gets[br]
+
+stabbed.
+
+[fc]<$04>
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x84 (0x12905)
+<$38>
+// 
+
+
+[fc]<$79>
+
+// 「きみのおかげで　もとにもどる[br]
+// ことができた　ぼくは　イロモノ[br]
+// だいおうによって、ふとらされて[br]
+// いたんだが……[wait]
+{Thank you for[br]
+returning me[br]
+back to my old[br]
+self.[wait]
+
+It was the Kooky[br]
+King who ordered[br]
+me to get fat...
+
+[wait]
+
+// かがみをみたとたんに　のろいが[br]
+// とけたようだ　しかし、もう[br]
+// たすかるまい　さいごに、きみの[br]
+// うたを　きかせてくれ……」[end]
+Looking at my-[br]
+self in the mi-[br]
+rror broke that[br]
+curse.[wait]
+
+It's too late[br]
+for me now...[br]
+Could you let me[br]
+hear you sing[br]
+
+again...?}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x85 (0x1297C)
+<$00>
+// なぜか　じっとしてます[end]
+Not moving...
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x86 (0x12989)
+<$0A>
+// あまいココアで　ひとやすみー[musicnote][end]
+Desserts are[br]
+  sure to give[br]
+  you[musicnote][wait]
+
+Smiles all day[br]
+  looong[musicnote]...
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x87 (0x1299A)
+<$38>
+// 「すばらしいうただ……ガクっ」[wait]
+{What a love-[br]
+ly...voice...}
+
+[wait]
+
+// 
+[spkr]<$3D>
+// トオルは　いしきをうしなった[end]
+Tooru loses con-[br]
+sciousness.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x88 (0x129BC)
+<$32>
+// 「おれに　さされるとわかりながら[br]
+// しにかけたトオルのために　うたを[br]
+// うたうなんて……[wait]
+{Even though I[br]
+could have[br]
+stabbed you, you[br]
+still granted[br]
+
+Tooru's wish to[br]
+sing for him...
+
+[wait]
+
+// まけたぜ、おじょうちゃん」[wait]
+You win, little[br]
+girl.}
+
+[wait]
+
+// 
+[spkr]<$00>
+// とつぜん　タジロが　かっこいい[br]
+// ことを　いいだしました[end]
+Tajiro is unex-[br]
+pectedly acting[br]
+cool.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x89 (0x12A14)
+<$32>
+// 「さっきトオルが　ながしたあせを[br]
+// このビンにあつめな　　そして[br]
+// やつの　きずぐちに　ぬるがいい[wait]
+{Gather some of[br]
+his sweat and[br]
+pour it over his[br]
+wound.
+
+[wait]
+
+// せいぶんは　ガマのあぶらと[br]
+// おなじだ　きっと、きずにも[br]
+// きくだろう」[end]
+Toad's oil is an[br]
+ancient natural[br]
+remedy. I'm sure[br]
+it'll work.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x8A (0x12A68)
+<$05>
+// 「タジロさん　ありがとう……」[end]
+{Thank you, Mr.[br]
+Tajiro...}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x8B (0x12A79)
+<$00>
+// エリカはビンをうけとった[end]
+Erika receives a[br]
+bottle.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x8C (0x12A87)
+<$00>
+// エリカはビンに　トオルのあせを[br]
+// あつめた[end]
+Erika gathers[br]
+Tooru's sweat in[br]
+the bottle.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x8D (0x12A9D)
+<$00>
+// エリカは　トオルのきずぐちに[br]
+// あせを　ぬりたくった　どうやら[br]
+// たすかりそうです[end]
+Erika pours the[br]
+sweat over Too-[br]
+ru's wound. It[br]
+seems to be[br]
+
+working.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x8E (0x12AC6)
+<$32>
+// 「ふっ、こんなまねをしちまったん[br]
+// じゃあ、もうイロモノしてんのう[br]
+// しっかくだな　あとは　じみちに[br]
+// やるしかねえぜ[wait]
+{Hmph. Guess[br]
+this makes me[br]
+unfit to be one[br]
+of the Kooky[br]
+
+Kuartet. I'd[br]
+better find an[br]
+honest job now.
+
+[wait]
+
+// あばよ！おじょうさん[br]
+// いいのど　し・て・た・ぜっ」[wait]
+Hasta la vista,[br]
+baby!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// こういってタジロは　さっていった[end]
+With that said,[br]
+Tajiro leaves.
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x8F (0x12B2D)
+<$0B>
+// 「トオルさんのことが　しんぱい[br]
+// だわ　モモミちゃん　ここに[br]
+// のこってあげて」[end]
+{I'm worried[br]
+about Tooru. Mo-[br]
+momi, could you[br]
+watch over him?}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x90 (0x12B55)
+<$27>
+// 「わかったわ」[end]
+{Okay.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x91 (0x12B5E)
+<$00>
+// そこには　ヤモリミユキが　まちか[br]
+// まえていた　[end]
+Miyuki Yamoro[br]
+was waiting for[br]
+her.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x92 (0x12B77)
+<$2A>
+// 「してんのうのうち、３にんまでも[br]
+// たおすとは　さすがねエリカさん！[wait]
+{You actually[br]
+managed to de-[br]
+feat three of[br]
+the Kuartet!
+
+[wait]
+
+// イロモノだいおうも　かんしんして[br]
+// おられたわ　さあ、てんしゅかくへ[br]
+// あんないします　ついてきて」[wait]
+The Kooky King[br]
+is very impress-[br]
+ed. He's waiting[br]
+for you in the[br]
+
+tower. Follow[br]
+me.}
+
+[wait]
+
+// 
+[spkr]<$00>
+// いよいよ　たんしん、てんしゅかく[br]
+// にのりこむことになった、エリカ[wait]
+Alone once[br]
+again, Erika[br]
+makes her way up[br]
+the Kooky[br]
+
+Tower...
+
+[wait]
+
+// はたして、そこには　いかなるワナ[br]
+// が　まちうけるのか……？[end]
+What evil traps[br]
+could be waiting[br]
+for her...?
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x93 (0x12C0C)
+<$2A>
+// 「そうよ　あなたのこと[br]
+// だいおうさまが　おまちなのよ　[br]
+// ついてきて」[end]
+{Yup. The King[br]
+is waiting for[br]
+you. Follow me.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x94 (0x12C30)
+<$00>
+// まじめそうなせいねんです[end]
+He looks like a[br]
+very serious[br]
+man.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x95 (0x12C3E)
+<$41>
+// 「うむ、きみなら　さいこう[br]
+// のアイドルになれるだろう」[end]
+{I think you'll[br]
+become one of[br]
+the greatest[br]
+idols of our[br]
+
+time.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x96 (0x12C5B)
+<$27>
+// 「はやく　ホシミちゃんを　みつけ[br]
+// ようね」[end]
+{We have to[br]
+hurry and find[br]
+Hoshimi.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x97 (0x12C72)
+<$27>
+// 「きゃ〜、なんかピンチみたい」[end]
+{Whoaaa! What a[br]
+predicament!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x98 (0x12C83)
+<$27>
+// 「エリカちゃんは　どうしたら[br]
+// いいとおもう？」[end]
+{What should we[br]
+do now, Erika?}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x99 (0x12C9C)
+<$27>
+// 「わ〜、かっこい〜」[end]
+{Wow! That was[br]
+cool!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x9A (0x12CA8)
+<$35>
+// 「おれのからだが　そんなに[br]
+// おかしいのか！」[end]
+{Do I look that[br]
+funny to you?!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x9B (0x12CC0)
+<$44>
+// 「また　うでをあげたようだな」[end]
+{I see you've[br]
+improved once[br]
+again.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x9C (0x12CD1)
+<$00>
+// エリカたちは　トオルのこうげきに[br]
+// おされ、}びゃっこのま}に　にげ[br]
+// もどった[wait]
+Pushed back by[br]
+Tooru's attacks,[br]
+Erika is forced[br]
+to return to[br]
+
+{Tiger's Lair}.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x9D (0x12CFA)
+<$00>
+// エリカたちは　トオルのこうげきに[br]
+// おされ、}ほうおうのま}に[br]
+// にげこんだ[wait]
+Pushed back by[br]
+Tooru's attacks,[br]
+Erika is forced[br]
+to return to[br]
+
+{Phoenix's[br]
+Lair}.
+
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x9E (0x12D21)
+<$00>
+// エリカは　いしどうろうを[br]
+// もちあげようとしたが　ムリだった[end]
+Erika is unable[br]
+to lift the[br]
+stone lantern.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0x9F (0x12D40)
+<$27>
+// 「ねえサインもらえないかな〜」[end]
+{Can I have your[br]
+autograph?}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xA0 (0x12D51)
+<$00>
+// うごかすと　とがしまってしまい[br]
+// ますよ[end]
+You'd better not[br]
+move right now.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xA1 (0x12D66)
+<$00>
+// とれません[end]
+You can't pick[br]
+that up.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xA2 (0x12D6D)
+<$00>
+// とくに　とるものはありません[end]
+There is nothing[br]
+to pick up here.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xA3 (0x12D7D)
+<$00>
+// ここでは　やくにたちません[end]
+That won't be[br]
+useful here.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xA4 (0x12D8C)
+<$00>
+// いまは　つかわないほうがいいで[br]
+// しょう[end]
+You shouldn't[br]
+use that here.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xA5 (0x12DA1)
+<$00>
+// だれもいません[end]
+There is nobody[br]
+here.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xA6 (0x12DAA)
+<$00>
+// しかし　なにもおこらなかった[end]
+But nothing[br]
+happened.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xA7 (0x12DBA)
+<$00>
+// きたばかりですよ[end]
+You just arri-[br]
+ved.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xA8 (0x12DC4)
+<$00>
+// だいじなところです　いどうしない[br]
+// ほうがいいでしょう[end]
+This is a cru-[br]
+cial moment. You[br]
+should stay here[br]
+for now.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xA9 (0x12DE0)
+<$00>
+// いってもむだでしょう[end]
+What's the point[br]
+of going there?
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xAA (0x12DEC)
+<$00>
+// エリカは　ひとりぼっちです[end]
+Erika is alone.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xAB (0x12DFB)
+<$00>
+// なにも　もってません[end]
+You're not carr-[br]
+ying anything.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xAC (0x12E07)
+<$10>
+// なにを　とぼけようというのですか[end]
+Why are you act-[br]
+ing dumb?
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xAD (0x12E19)
+<$00>
+// どこへ　いこうというのです[end]
+Where do you[br]
+think you're go-[br]
+ing?
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xAE (0x12E28)
+<$00>
+// そんなことしてるばあいじゃ[br]
+// ありませんよ[end]
+This is really[br]
+not the time.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xAF (0x12E3E)
+<$00>
+// やめておいたほうがいいでしょう[end]
+Don't even think[br]
+about it.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB0 (0x12E4F)
+<$00>
+// すもうでも　とりますか？[end]
+Are you going to[br]
+try wrestling?
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB1 (0x12E5D)
+<$0F>
+// いみもなくほほえんでも、むなしい[br]
+// だけです[end]
+Smiling for no[br]
+reason is not a[br]
+very effective[br]
+strategy.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB2 (0x12E74)
+<$10>
+// ここでとぼけても、しょうがないで[br]
+// すよ[end]
+There's not much[br]
+point in acting[br]
+dumb now, you[br]
+know.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB3 (0x12E89)
+<$0F>
+// かわいいほほえみですね[end]
+Yes, it's a nice[br]
+smile.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB4 (0x12E96)
+<$00>
+// トカゲのようなぬいぐるみを[br]
+// きています[end]
+She's wearing a[br]
+suit in the[br]
+shape of a liz-[br]
+ard.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB5 (0x12EAB)
+<$00>
+// ちょうイロモノてきそんざいです[end]
+He's the kooki-[br]
+est creature of[br]
+all.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB6 (0x12EBC)
+<$00>
+// イロモノだいおうが　うれしそうに[br]
+// おどっています[end]
+The Kooky King[br]
+is dancing joy-[br]
+fully.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB7 (0x12ED6)
+<$2A>
+// 「おとなしく　イロモノぐんだんに[br]
+// はいりなさい」[end]
+{Give up and[br]
+join the Kooky[br]
+Kompany.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB8 (0x12EF0)
+<$2F>
+// 「おめーには　イロモノのそしつが[br]
+// あんだから、なかまになれや」[end]
+{You have all[br]
+the qualities of[br]
+a Kooky Komedi-[br]
+an! Join us!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xB9 (0x12F11)
+<$00>
+// くらくて　あるくのがやっとです[end]
+You can barely[br]
+walk in this[br]
+darkness.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xBA (0x12F22)
+<$00>
+// }びゃっこのま}、[br]
+// }ほうおうのま}、[br]
+// }げんぶのま}への　いりぐちが[br]
+// あります[end]
+You see the en-[br]
+trances to[br]
+{Tiger's Lair},[br]
+{Phoenix's[br]
+
+Lair}, and {Tor-[br]
+toise's Lair}.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xBB (0x12F4C)
+<$00>
+// ものしりコラムニストの　やけにく[br]
+// わしです[end]
+It's the most[br]
+informed colum-[br]
+nist, Kuwashi[br]
+Yakeni.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xBC (0x12F63)
+<$00>
+// }せいりゅうのま}への[br]
+// いりぐちが　あります[end]
+You see the en-[br]
+trance to {Drag-[br]
+on's Lair}.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xBD (0x12F7B)
+<$00>
+// ガガワやヨルシオなみのデブです[end]
+He's about as[br]
+fat as Gagawa[br]
+and Yorushio.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xBE (0x12F8C)
+<$00>
+// あたりは　あせでいっぱいです[end]
+This place is[br]
+flooded with[br]
+sweat.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xBF (0x12F9C)
+<$00>
+// めが　キラキラひかっていて[br]
+// わらえます[end]
+His eyes are[br]
+glittering. It's[br]
+so funny.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC0 (0x12FB1)
+<$00>
+// ひやあせをダラダラながしています[end]
+He's covered in[br]
+cold sweat.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC1 (0x12FC3)
+<$2F>
+// 「くそー、どこにいるんだー」[end]
+{Where are you,[br]
+darn it?!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC2 (0x12FD3)
+<$3E>
+// 「ぼくは　タジロのようには[br]
+// いかんゾーリンゲンのカミソリ」[end]
+{It won't be as[br]
+simple as it was[br]
+with Tajiro.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC3 (0x12FF2)
+<$35>
+// 「みるなー！[br]
+// おれをみないでくれー」[end]
+{S-Stop it![br]
+Don't look at[br]
+meee!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC4 (0x13006)
+<$2A>
+// 「さすがね　わたしじゃしょうぶに[br]
+// ならないわ」[end]
+{Wow, you're[br]
+good. I'm no[br]
+match for you.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC5 (0x1301F)
+<$2A>
+// 「さすがね　でも、だいおうさま[br]
+// には　つうようしないわ」[end]
+{Impressive. But[br]
+that won't work[br]
+on the King.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC6 (0x1303D)
+<$00>
+// エリカが　サングラスを　とろうと[br]
+// とびかかると、タジロはひらりと[br]
+// よけた[end]
+Erika tries to[br]
+take Tajiro's[br]
+sunglasses off,[br]
+but he quickly[br]
+
+dodges.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC7 (0x13063)
+<$2F>
+// 「このこむすめが！[br]
+// おしおきじゃい　　そ〜れ！」
+{How dare you?![br]
+You deserve a[br]
+punishment!}
+
+[fc]<$23>
+
+// [wait]
+
+
+[wait]
+
+// タジロのハリセンが　エリカを[br]
+// ちょくげきした[end]
+Tajiro slaps[br]
+Erika with a pa-[br]
+per fan.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC8 (0x13096)
+<$00>
+// いつもの　へんなあたまに　くわえ[br]
+// フクロウのヌイグルミという[br]
+// へんなかっこうもしています[end]
+He's complement-[br]
+ing his weird[br]
+hairdo by wear-[br]
+ing a weird owl[br]
+
+suit.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xC9 (0x130C4)
+<$27>
+// 「わー　エリカちゃんじょうず！」[br]
+// モモミがはくしゅをした[end]
+{Wow! You're so[br]
+good, Erika!}[br]
+Momomi is clapp-[br]
+ing her hands.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xCA (0x130E2)
+<$00>
+// エリカは　タジロにスタンガンを[br]
+// おしつけようとした[br]
+// しかし、タジロはひらりとかわした[end]
+Erika tries to[br]
+hit Tajiro with[br]
+the stun gun,[br]
+but he easily[br]
+
+dodges her.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xCB (0x1310E)
+<$0B>
+// 「だめよ、うたってるヒマなんか[br]
+// ないわ」[br]
+// そういいのこすと、トオルは[br]
+// しずかにめをとじた　そのとき……[end]
+{No, this is not[br]
+the time to[br]
+sing...}[wait]
+
+Tooru quietly[br]
+closes his eyes.[br]
+And then...
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xCC (0x13143)
+<$00>
+// トオルのちをみて、さらに[br]
+// ぎゃくじょうしたタジロが[br]
+// つきすすんできた[br]
+// エリカは　きぜつさせられた[end]
+Between seeing[br]
+Tooru's blood,[br]
+and Tajiro's[br]
+frenzied[br]
+
+assault, Erika[br]
+passes out.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xCD (0x13175)
+<$00>
+// とりみだしています[end]
+He's flustered.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xCE (0x13180)
+<$27>
+// 「エリカちゃんファイト！」[end]
+{You can do it,[br]
+Erika!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xCF (0x1318F)
+<$00>
+// まっとうなあたまに　もどりました[end]
+He has a proper[br]
+hairdo now.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xD0 (0x131A1)
+<$0E>
+// 「きゃー！いたーい」[end]
+{Oww! That[br]
+hurt!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xD1 (0x131AD)
+<$2F>
+// 「だいおうの　めいれいだから[br]
+// きずつけは　しないよーん」[end]
+{I won't harm[br]
+you. King's or-[br]
+ders.}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xD2 (0x131CB)
+<$00>
+// そして、あんこくイロモノだいおう[br]
+// につかまり　せんのうをされ、[br]
+// あんこくイロモノじょおうになって[br]
+// しまったとさ[end]
+She's brought to[br]
+the Kooky King,[br]
+who brainwashes[br]
+her and turns[br]
+
+her into the[br]
+Kooky Kueen.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xD3 (0x13204)
+<$00>
+// エリカは　ひみつのへやに[br]
+// はいりこんだ[end]
+Erika enters the[br]
+secret room.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xD4 (0x13219)
+<$05>
+// 「いよいよつぎで[br]
+// クライマックスだけど[br]
+// いったいどうなるのかしら」[wait]
+{Looks like[br]
+we're almost at[br]
+the end. I won-[br]
+der what's[br]
+
+going to happ-[br]
+en?}
+
+[wait]
+
+// 
+[spkr]<$47>
+// 「イロモノだいおうなんか[br]
+// オレの　からてで　ノックアウトさ[br]
+// アチョ〜オチャオチャ[br]
+// オチャ〜！」[wait]
+{I could have[br]
+knocked that[br]
+kooky guy out[br]
+with my karate.}[wait]
+
+(sigh)[br]
+{I've been[br]
+around since Act[br]
+2 and I haven't[br]
+
+seen a single[br]
+punch...}
+
+[wait]
+
+// 
+[spkr]<$13>
+// 「はい　おちゃ」　　　　　　[br]
+// 　　　　　　　　　　　　　　[br]
+// 
+
+// original has no wait and just goes straight to
+// the next line, but the new joke takes up too much
+// room and won't show long enough to be readable even
+// after padding the box out :(
+
+{Here, I brought[br]
+some non-alco-[br]
+holic punch.}[wait]
+
+[spkr]<$0C>
+// 「ホエホエ〜」[end]
+(derp)
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xD5 (0x13298)
+<$00>
+// }げんぶのま}と　ひみつのへやの[br]
+// とびらがあります[end]
+There is a door[br]
+labeled {Tor-[br]
+toise's Lair}[br]
+and a secret[br]
+
+passage.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xD6 (0x132B3)
+<$00>
+// はなしもきかずに　にげるのは[br]
+// かんがえものです[end]
+Running away[br]
+without talking[br]
+won't be easy.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xD7 (0x132CC)
+<$38>
+// 「たのむ　うたを[br]
+// きかせてくれ……」[end]
+{Please, let me[br]
+hear you[br]
+sing...}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xD8 (0x132E0)
+
+#END()
+
+// Script 0x1104C-0xD9 (0x132E0)
+<$3E>
+// 「その　おこった　かおが[br]
+// カワイイじゃ　あ〜りませんか…[br]
+// せんかん　ヤマト　はっしん！[br]
+// ハハハ　こりゃあ　おもしろいや」[wait]
+{You need to[br]
+chill out. Did[br]
+you know? The[br]
+coldest town in[br]
+
+the world is Oy-[br]
+myakon.[wait]
+
+Get it? I told[br]
+you to chill[br]
+out, and I told[br]
+you a cold[br]
+
+trivia![br]
+Hahahah!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// じぶんの　ギャグに　うけてます[end]
+He's laughing at[br]
+his own joke.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xDA (0x13330)
+<$32>
+// 「みみせんしたから　きこえない[br]
+// よーだ！」[end]
+{That won't[br]
+work. I'm wear-[br]
+ing earplugs!}
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xDB (0x13347)
+<$00>
+// エリカたち　いがいには　だれも[br]
+// いません[end]
+There's nobody[br]
+else excluding[br]
+you girls.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xDC (0x1335D)
+<$00>
+// ぞうひょうどもが　せいぞろい[br]
+// しています[end]
+A bunch of goons[br]
+are lined up.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xDD (0x13373)
+<$00>
+// エリカは　}ほうおうのま}に[br]
+// はいりこんだ[wait]
+Erika enters[br]
+{Phoenix's[br]
+Lair}.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xDE (0x1338B)
+<$35>
+// 「まてエリカ、くってやる！」[br]
+// トオルがしつこく　おってきた[wait]
+{Hey! Stop runn-[br]
+ing!}[br]
+Tooru chases af-[br]
+ter you.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xDF (0x133AB)
+<$00>
+// エリカは　}すざくのま}に[br]
+// はいりこんだ[wait]
+Erika enters[br]
+{Bird's Lair}.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xE0 (0x133C2)
+<$00>
+// エリカたちは　ひみつのへやに[br]
+// とびこんだ[wait]
+Erika enters the[br]
+secret room.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xE1 (0x133D9)
+<$00>
+// ひっそりと　しずまりかえって[br]
+// います[end]
+The room is si-[br]
+lent now.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xE2 (0x133ED)
+<$0F>
+// 「エリカちゃんの　ほほえみ〜！」[wait]
+{Erika Smile!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// しかし　なにも　おこらなかった[end]
+It had no[br]
+effect.
+
+[end]
+
+#END()
+
+// Script 0x1104C-0xE3 (0x13411)
+<$00>
+// たちまち　あしもとのゆかがわれて[br]
+// エリカは　ちかにおとされて[br]
+// しまった[end]
+The floor sudd-[br]
+enly opens under[br]
+Erika's feet,[br]
+and she falls[br]
+
+to the basement.
+
+[end]
+
+#END()
+

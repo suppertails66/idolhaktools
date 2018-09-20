@@ -1,0 +1,4036 @@
+// Script 0x51B1-0x0 (0x538D)
+<$00>
+// [br]
+// 　[br]
+// 　[br]
+// 　[end]
+[br]
+ [br]
+ [br]
+ 
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x1 (0x5395)
+<$13>
+// 「おこたえいたします　とないで[br]
+// いちばん　たかいところに[br]
+// ヒントは　あります」[end]
+{I believe we[br]
+will find a hint[br]
+in the highest[br]
+part of the[br]
+city.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x2 (0x53BE)
+<$05>
+// 「たかいと　いえば[br]
+// ザンシャインビルね」[end]
+{The highest[br]
+building I know[br]
+is the Zanshine[br]
+Building.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x3 (0x53D4)
+<$00>
+// さっそく、ふたりは　ザンシャイン[br]
+// ビルへと　でかけていった[wait]
+And so the two[br]
+of them headed[br]
+for the Zanshine[br]
+Building.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x4 (0x53F4)
+<$00>
+// ザンシャインの[br]
+// さいじょうかいです[end]
+This is Zan-[br]
+shine's top[br]
+floor.
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x5 (0x5407)
+<$00>
+// なにか、イべントが[br]
+// ひらかれています[end]
+There seems to[br]
+be some kind of[br]
+event going on.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x6 (0x541B)
+<$05>
+// 「おととひかりの[br]
+// サイバー・ゴングショー[br]
+// わー　おもしろそー」[end]
+{The Cyber Gong[br]
+Show, with[br]
+lights and[br]
+sound?[br]
+Interesting!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x7 (0x543C)
+<$05>
+// 「みたいの　みたいの[br]
+// エリカちゃん」[end]
+{I wanna see it![br]
+I wanna see it!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x8 (0x54C6)
+<$2D>
+// 「オー、マドモアゼル[br]
+// ちょっとまって　チェルノブイリ[br]
+// ここからさきは、ウィズアウト[br]
+// チケットないひとノーサンキューね[wait]
+{Pleaze wait,[br]
+mademoiselle.[br]
+You can not en-[br]
+trer wizout a[br]
+
+tiquet.
+
+[wait]
+
+// このショーの　プロデュース[br]
+// ミス・ヤチヨ・チャバタケ[br]
+// ジャパン　ナンバーワンの[br]
+// プロデューサー[wait]
+Zis show haz[br]
+been produced by[br]
+Mademoiselle Ya-[br]
+chiyo Chabatake,
+
+[wait]
+
+// だから、チケットめったに[br]
+// ドントてに　はいらない」[end]
+Japon's number[br]
+one produceur.[wait]
+
+Non may entrer[br]
+wizout a ti-[br]
+quet.}
+
+[end]
+
+
+#END()
+
+// Script 0x51B1-0x9 (0x5450)
+<$00>
+// ザンシャインの[br]
+// さいじょうかいです[wait]
+Zanshine's top[br]
+floor.
+
+[wait]
+
+// 
+[spkr]<$13>
+// 「おこたえいたします　たしかに、[br]
+// この　かいじょうからは[br]
+// つよい「き」を　かんじます」[wait]
+{If I may speak[br]
+freely, I per-[br]
+ceive a powerful[br]
+*aura' in here.}
+
+[wait]
+
+// 
+[spkr]<$05>
+// 「はいって　みましょう」[wait]
+{Let's have a[br]
+look!}
+
+
+[wait]
+
+// 
+[spkr]<$00>
+// エリカが　ごういんに　はいろうと[br]
+// すると　けいびいんが[br]
+// でてきました[wait]
+Erika tried to[br]
+make her way in,[br]
+but she was[br]
+stopped by a[br]
+guard.
+
+[wait]
+
+// 
+[spkr]<$2D>
+// 「オー、マドモアゼル[br]
+// ちょっとまって　チェルノブイリ[br]
+// ここからさきは、ウィズアウト[br]
+// チケットないひとノーサンキューね[wait]
+{Pleaze wait,[br]
+mademoiselle.[br]
+You can not en-[br]
+trer wizout a[br]
+
+tiquet.
+
+[wait]
+
+// このショーの　プロデュース[br]
+// ミス・ヤチヨ・チャバタケ[br]
+// ジャパン　ナンバーワンの[br]
+// プロデューサー[wait]
+Zis show haz[br]
+been produced by[br]
+Mademoiselle Ya-[br]
+chiyo Chabatake,
+
+[wait]
+
+// だから、チケットめったに[br]
+// ドントてに　はいらない」[end]
+Japon's number[br]
+one produceur.[wait]
+
+Non may entrer[br]
+wizout a ti-[br]
+quet.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA (0x554C)
+<$00>
+// ロビーです　ばいてんがあります[end]
+This is the lo-[br]
+bby. There is a[br]
+kiosk nearby.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB (0x555D)
+<$00>
+// はいざらが　おいてあります[end]
+There is an ash-[br]
+tray here.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC (0x556C)
+<$05>
+// 「とないで、たかいところと[br]
+// いったら　ザンシャインの　ほかに[br]
+// どんなところが　あるでしょう？」[end]
+{What would you[br]
+say is the high-[br]
+est place in the[br]
+city, excluding[br]
+Zanshine?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD (0x559D)
+<$30>
+// 「これが、[br]
+// めいか}ザンシャインのビルかぜ}[br]
+// ですだっぴょ」[end]
+{This is the fa-[br]
+mous *Zanshine[br]
+Breeze'. It's[br]
+very popular.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE (0x55BD)
+<$13>
+// 「おこたえします　なにか[br]
+// かわないと、　こたえて[br]
+// くれないのです」[end]
+{If I may speak[br]
+freely, I be-[br]
+lieve you won't[br]
+get a straight[br]
+answer until you[br]
+buy something.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xF (0x55E0)
+<$05>
+// 「エリカ　かっちゃおーっと」[end]
+{I'll take[br]
+this!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x10 (0x55F0)
+<$30>
+// 「ありがとう　ごぜーますだ」[end]
+{Thanks a[br]
+bunch.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x11 (0x5600)
+<$30>
+// 「このしゅうかんし、きょう、[br]
+// でたばかりですだっぴょ」[end]
+{This weekly[br]
+newspaper just[br]
+came out.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x12 (0x561D)
+<$05>
+// 「エリカ、それも　かうわ」[end]
+{I'll buy this[br]
+too.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x13 (0x562C)
+<$0C>
+// 
+
+
+[fc]<$2F>
+
+// 「わー、じ　ばっかりで、めが[br]
+// くらくらするう」[end]
+{ARGH! So many[br]
+letters! My eyes[br]
+are spinning!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x14 (0x5647)
+<$05>
+// 「ホシミちゃん、みる？」[wait]
+{You wanna read[br]
+it, Hoshimi?}
+
+[wait]
+
+// 
+[spkr]<$00>
+// エリカは　ホシミに[br]
+// しゅうかんしを　わたした[end]
+Erika handed the[br]
+newspaper to Ho-[br]
+shimi.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x15 (0x566E)
+<$13>
+// 「おこたえします　ここに、とない[br]
+// でいちばん　ねだんの　たかい[br]
+// きっさてんの　きじがでています」[end]
+{If I may speak[br]
+freely, this ar-[br]
+ticle mentions[br]
+the highest-[br]
+*priced' cafe in[br]
+the city.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x16 (0x56A0)
+<$27>
+// とないでいちばん　たかいみせ[br]
+// }べらんめえ}…………………[br]
+// ……………………………………[br]
+// しゅざい　やけに　くわし[wait]
+The most expen-[br]
+sive shop in the[br]
+city: {The[br]
+Bloody Fool}...[br]
+  Written by:[br]
+ Kuwashi Yakeni
+
+[wait]
+
+// 
+[spkr]<$13>
+// 「なにか　かんけいが[br]
+// ありそうよ」[end]
+{I believe there[br]
+may be a connec-[br]
+tion.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x17 (0x56EF)
+<$00>
+// }べらんめえ}です[wait]
+This is the[br]
+{Bloody Fool}.
+
+[wait]
+
+// 
+[spkr]<$41>
+// 「へい！　いらっしゃい！」[end]
+{Welcome!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x18 (0x570A)
+<$00>
+// マスターと　おきゃくが[br]
+// ひとりいます[end]
+There is the[br]
+owner and a sin-[br]
+gle patron.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x19 (0x571E)
+<$27>
+// おやおや？[br]
+// みたことがあります　しゅうかんし[br]
+// にでていた、コラムニストの[br]
+// やけに　くわし　です[end]
+Hm?[br]
+I think I've[br]
+seen him before.[br]
+That's the col-[br]
+umnist from the[br]
+newspaper, Kuwa-[br]
+shi Yakeni.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x1A (0x574F)
+<$0F>
+// 「ラッピー、やけにくわしさん？」[end]
+{Hiiii! Are you[br]
+Kuwashi Yakeni?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x1B (0x5761)
+<$27>
+// 「オー、ぼくのことを　しっている[br]
+// とは　ありがタイヨーホエールズ[br]
+// なるほど　そのほんの　ぼくの[br]
+// きじをみて　ここに　きたんだね」[end]
+{You know about[br]
+me? That's so[br]
+nice.[wait]
+
+I see -- you[br]
+came here after[br]
+reading my ar-[br]
+ticle.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x1C (0x57A3)
+<$0F>
+// 「ラッピー、エリカでーす」[end]
+{Hiiii! I'm Eri-[br]
+ka!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x1D (0x57B2)
+<$27>
+// 「ジャイアント・ばばのしんちょう[br]
+// もたかいが、いまだったら[br]
+// ぎんざ３ちょうめの　わがしや[br]
+// }たましかや}だね[wait]
+{Well, anything[br]
+would feel[br]
+pretty high from[br]
+Giant Baba's[br]
+perspective...
+
+[wait]
+
+// あそこの　とちだいは　にほんいち[br]
+// たかい」[end]
+Otherwise, I'd[br]
+say it's the[br]
+confectionary[br]
+store *Tamashi-[br]
+kaya' in Ginza[br]
+3-chome.
+
+[wait]
+
+The land prices[br]
+there are the[br]
+highest in Ja-[br]
+pan.}
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x1E (0x5800)
+<$05>
+// 「コーヒーふたっつ」[wait]
+{Two coffees,[br]
+please!}
+
+[wait]
+
+// 
+[spkr]<$41>
+// 「まいど！　コーヒー２ちょうね」[wait]
+{Two coffees,[br]
+coming right[br]
+up!}
+
+[wait]
+
+// 「へい！　おまち！」[br]
+// 　　　　　　　　　　　　　　　　[br]
+// 　　　　　　　　　　　　　　　　[br]
+// 
+{Here you go!}[br]
+                [br]
+                [br]
+                
+[spkr]<$05>
+// 「はや〜い」[wait]
+{That was fast!}
+
+
+[wait]
+
+// 
+[spkr]<$41>
+// 「あたりめえよ！　うちは[br]
+// てぎわの　よさが　じまんでえ！」[end]
+{Of course it[br]
+was! I'm very e-[br]
+fficient!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x1F (0x5875)
+<$0C>
+// 
+
+
+[fc]<$2F>
+
+// 「キャーン！　にがい　エリカ[br]
+// コーヒーにがてなの…」[end]
+{Ewww! So bitt-[br]
+er! I don't like[br]
+coffee...}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x20 (0x5893)
+<$00>
+// たのんだコーヒーを、まだ　のんで[br]
+// いませんよ[end]
+You haven't had[br]
+the coffee[br]
+you've ordered[br]
+yet.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x21 (0x58AB)
+<$00>
+// むりはしないほうがいいのでは？[end]
+Maybe you[br]
+shouldn't force[br]
+yourself.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x22 (0x58BC)
+<$41>
+// 「うちのコーヒーのあじが[br]
+// わからないとは、おまえさんたちの[br]
+// したは　くつべらか？[br]
+// おとといきやがれ！」[end]
+{Why did you[br]
+come here if you[br]
+do not appreci-[br]
+ate the refined[br]
+
+taste of coff-[br]
+ee?![wait]
+
+Leave at once!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x23 (0x58F1)
+<$41>
+// マスターは、おこってしまいました[end]
+The owner is[br]
+mad.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x24 (0x5903)
+<$00>
+// よくみると、はいざらに[br]
+// すいがらが　いっぱい[end]
+On closer in-[br]
+spection, the[br]
+ashtray is full[br]
+of cigarette[br]
+butts and ashes.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x25 (0x591B)
+<$0D>
+// 「エリカ　きたないの　きらいなの[br]
+// プンプン！」[end]
+{This is so dir-[br]
+ty! I just HAVE[br]
+to clean this[br]
+up!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x26 (0x5934)
+<$3E>
+// 「よくきのつく　おじょうさんだね[br]
+// ごほうびに　プラネタリウムの[br]
+// チケットを　あげよう」[wait]
+{What a good[br]
+girl! Let me[br]
+give you a tick-[br]
+et to the plan-[br]
+etarium as a re-[br]
+ward.}
+
+[wait]
+
+// 「あっ……そうそう[br]
+// その　はいざらは　だいりせきで[br]
+// できているから　あしの　うえに[br]
+// おとさんようにな」[wait]
+{Oh, and careful[br]
+with that ash-[br]
+tray. It's made[br]
+of marble, so it[br]
+would really[br]
+hurt if it fell[br]
+on your foot.}
+
+[wait]
+
+// 
+[spkr]<$05>
+// 「わ〜い　ありがとう　おじさん」[wait]
+{Yay! Thank you,[br]
+sir!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// エリカは　チケットを　もらった[end]
+Erika has recei-[br]
+ved a ticket.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x27 (0x59BA)
+<$00>
+// }たましかや}です[end]
+This is {Tama-[br]
+shikaya}.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x28 (0x59C5)
+<$00>
+// どっしりした　みせがまえですが[br]
+// あまりひとは　はいっていません[end]
+It's an impress-[br]
+ive store, but[br]
+there're hardly[br]
+any customers.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x29 (0x59E6)
+<$05>
+// 「ラッピー、エリカでーす　ここに[br]
+// なにかの　とくぎをもった[br]
+// わたしくらいの　おんなのこが[br]
+// いるでしょう？」[end]
+{Hiiii! I'm Eri-[br]
+ka! Are there[br]
+any talented[br]
+girls about my[br]
+age around?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x2A (0x5A1D)
+<$47>
+// 「なんですか、あなたは？」[end]
+{Hm? Who are[br]
+you?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x2B (0x5A2C)
+<$00>
+// おみせのひとが[br]
+// けいかいしています[end]
+The shopkeeper[br]
+looks at you[br]
+carefully.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x2C (0x5A3F)
+<$00>
+// けいかいを　といてくれました[end]
+The shopkeeper[br]
+relaxes.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x2D (0x5A4F)
+<$47>
+// 「うちのヤヨイさんは　たった１７[br]
+// なのに、かぶの　すごいさいのうが[br]
+// あって、このあいだのそうぞくぜい[br]
+// もそれで　はらえたの」[end]
+{Our Yayoi is[br]
+only seventeen,[br]
+but she's a[br]
+stock trading[br]
+
+genius. She's[br]
+already fully[br]
+paid the shop's[br]
+inheritance[br]
+
+tax.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x2E (0x5A8F)
+<$05>
+// 「１７！そのこ、なかまになって[br]
+// くれないかなあ？」[end]
+{And she's only[br]
+seventeen? Wow![br]
+I wonder if[br]
+she's willing to[br]
+join me?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x2F (0x5AAA)
+<$18>
+// 「ただ　いまー！」[end]
+{I'm back!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x30 (0x5AB5)
+<$00>
+// ヤヨイが　かえってきました[end]
+Yayoi has come[br]
+back.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x31 (0x5AC4)
+<$05>
+// エリカは、ことの　いきさつを[br]
+// ヤヨイに　はなした[end]
+Erika tells Ya-[br]
+yoi about her[br]
+situation in de-[br]
+tail.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x32 (0x5ADE)
+<$18>
+// 「こういっては　なんだけど、[br]
+// わたしは、}たましかや}の[br]
+// のれんを　まもらなければ[br]
+// ならないのよ[wait]
+{I'll say this[br]
+much:[wait]
+
+I have to keep[br]
+up the good name[br]
+of *Tamashika-[br]
+ya'.
+
+[wait]
+
+// あなたたちの　どうらくに[br]
+// つきあって　いられるほど[br]
+// ヒマじゃないわ」[end]
+I just don't[br]
+have any time to[br]
+waste on your...[br]
+thing.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x33 (0x5B33)
+<$0A>
+// どーんと[musicnote][br]
+// かせごう〜[musicnote][br]
+// かせぎましょう〜〜[musicnote][wait]
+We're gonna[br]
+  make[musicnote][br]
+We're gonna[br]
+  make[musicnote][br]
+
+Tons of[br]
+  moneeeeyyy[musicnote]
+
+[wait]
+
+// 
+[spkr]<$18>
+// 「すばらしい　うたごえ！[br]
+// こういっては　なんだけど[br]
+// げいのうかいで　ビッグ・マネーを[br]
+// かせぎだすのも　わるくないわね」[end]
+{Wow, what a[br]
+voice![br]
+I'll say this[br]
+much:[wait]
+
+The world of[br]
+show business[br]
+is very lucra-[br]
+tive. I wouldn't[br]
+
+mind the chall-[br]
+enge.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x34 (0x5B8A)
+<$05>
+// 「そーよそーよ、どーんと[br]
+// かせぎましょ！」[end]
+{Yeah, that's[br]
+right! Let's[br]
+make tons of[br]
+money!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x35 (0x5BA1)
+<$18>
+// 「わかったわ　あなたにかけるわ」[end]
+{Very well. I'm[br]
+going to bet on[br]
+your horse!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x36 (0x5BB3)
+<$05>
+// 「それじゃあ　かんしゃの[br]
+// いみもこめて　なにか　おかしを[br]
+// かっていくね」[end]
+{Awesome! I[br]
+think I'm gonna[br]
+buy some candy[br]
+to celebrate!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x37 (0x5BD9)
+<$18>
+// 「だったら、たましかや　ひでんの[br]
+// みょうがまんじゅうを[br]
+// おすすめするわ」[wait]
+{In that case, I[br]
+recommend Tama-[br]
+shikaya's secret[br]
+dish, the Divine[br]
+Manju.}
+
+[wait]
+
+// 「これを　たべると　ものわすれが[br]
+// はげしくなるという　とんでもない[br]
+// おまんじゅうなの」[end]
+{It's said the[br]
+taste is so[br]
+strong you'll[br]
+even forget who[br]
+you are.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x38 (0x5C2B)
+<$00>
+// まだ　じょうえいじかんでは[br]
+// ありません[end]
+It is not yet[br]
+time for the[br]
+display.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x39 (0x5C40)
+<$00>
+// じょうえいがはじまりました[end]
+The display has[br]
+begun.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x3A (0x5C4F)
+<$13>
+// 「おこたえいたします　ほしに[br]
+// かこまれて　わたしの[br]
+// よちのうりょくは　ひやくてきに[br]
+// ぞうだいしました　くるみです」[end]
+{If I may speak[br]
+freely, being[br]
+surrounded by[br]
+stars increases[br]
+the power of my[br]
+foresight.[wait]
+
+We must find a[br]
+nut.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x3B (0x5C8A)
+<$05>
+// 「くるみって、あのくるみわり[br]
+// にんぎょうの　くるみ？」[end]
+{When you say[br]
+*nut', you mean[br]
+the thing you[br]
+crack open?[br]
+Like in *The[br]
+Nutcracker'?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x3C (0x5CA7)
+<$13>
+// 「そうです　そのくるみです」[end]
+{Indeed. A nut.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x3D (0x5CB7)
+<$00>
+// しずかに　してないと　みんなに[br]
+// めいわくが　かかりますよ[end]
+You have to be[br]
+quiet, or you'll[br]
+bother the oth-[br]
+ers.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x3E (0x5CD5)
+<$11>
+// ここでおどったら[br]
+// テーブルを　ひっくりかえして[br]
+// しまいますよ[end]
+You'll flip the[br]
+table over if[br]
+you dance here.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x3F (0x5CF5)
+<$41>
+// 「うちは　うたごえきっさ[br]
+// じゃねえ」[end]
+{This isn't a[br]
+karaoke cafe,[br]
+you know.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x40 (0x5D09)
+<$05>
+// 「このあたりで　くるみをうってる[br]
+// ところを　しりませんか？」[end]
+{Do you know[br]
+where I might[br]
+buy some nuts?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x41 (0x5D29)
+<$30>
+// 「うちじゃ、おみくじ　くるみなら[br]
+// うってますだっぴょ」[end]
+{Well, I sell[br]
+nut shells with[br]
+fortune slips[br]
+inside.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x42 (0x5D46)
+<$05>
+// 「くるみを　わって、なかから[br]
+// おみくじを　とるのね」[end]
+{I'll crack it[br]
+open and take[br]
+out the fortune[br]
+slip.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x43 (0x5D62)
+<$0B>
+// 「キャーン！　かたくて　われない[br]
+// おみくじ　とれない！」[end]
+{Agh! It's too[br]
+tough! I can't[br]
+open it!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x44 (0x5D80)
+<$05>
+// 「くるみわり　ありませんか？」[end]
+{Do you have a[br]
+nutcracker?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x45 (0x5D91)
+<$30>
+// 「すいぞくかんに　いってみると[br]
+// いいだっぴょ」[end]
+{Try going to[br]
+the aquarium.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x46 (0x5DAA)
+<$00>
+// すいぞくかんです[end]
+This is the[br]
+aquarium.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x47 (0x5DB4)
+<$00>
+// ラッコと、えづけショーの[br]
+// すいそうが　あります[end]
+It's the water[br]
+tank for the[br]
+feeding show,[br]
+containing a sea[br]
+
+otter.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x48 (0x5DCD)
+<$36>
+// ラッコが、かいを　わっています[wait]
+A sea otter is[br]
+cracking open a[br]
+seashell.
+
+[wait]
+
+// 
+[spkr]<$05>
+// 「わー　かわゆ〜い！」[end]
+{Awww, it's so[br]
+cuuute!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x49 (0x5DEC)
+<$0F>
+// 
+
+
+[fc]<$11>
+
+// 「ピンポーン　ラッコさんに[br]
+// くるみを　わってもらえば[br]
+// いいのよ」[end]
+{Eureka![br]
+I'll have the[br]
+otter crack that[br]
+nut open!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x4A (0x5E10)
+<$0B>
+// 「でも、どうやって　ラッコに[br]
+// たのめばいいの？」[end]
+{But how am I[br]
+gonna tell the[br]
+otter to do it?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x4B (0x5E2A)
+<$13>
+// 「おこたえします　うたをうたうの[br]
+// です」[end]
+{If I may speak[br]
+freely, I would[br]
+suggest sing-[br]
+ing.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x4C (0x5E40)
+<$05>
+// 「よーし　うたうしか　ないわ」[wait]
+{Okay, I guess[br]
+I'll try sing-[br]
+ing, then!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// ミュージックスタート
+MUSIC START!
+
+[fa]<$62>
+
+// [fb]
+
+
+[fb]
+
+// 
+[spkr]<$36>
+// 「？…」[fb]
+{...?}
+
+[fb]
+
+// orig:
+//
+// Mr. Otter
+// Please crack
+// This nut open
+// 
+// Use your awesome Otter Power
+// To crack it open
+// 
+// Punch it, smash it
+// Crack it, break it
+// Just bust it open
+//
+// I just know
+// You can do it
+// 'Cause you're a sea
+// otter!
+
+
+// edited:
+//
+// Oh, won't you please
+// Open this nut
+// Mr. Otter?
+//
+// I know you've got the guts
+// Mr. Otter
+//
+// Make it break
+// Do what it takes
+// Smash it into powder
+//
+// 'Cause you can
+// do anything
+// Surely you gotta concur,
+// sea otter!
+
+// 
+[spkr]<$0A>
+// おねがい[fb]
+Oh, won't you[br]
+  please
+
+[fb]
+
+// くるみを[fb]
+Open this nut
+
+[fb]
+
+// わってよね[fb]
+Mr. Otter?
+
+[fb]
+
+// ラッコの　パワーで[fb]
+I know you've[br]
+  got the guts
+
+[fb]
+
+// わってよね[fb]
+Mr. Otter
+
+[fb]
+
+// ぐしゃっ！と[fb]
+Make it break
+
+[fb]
+
+// くだいて[fb]
+Do what it takes
+
+[fb]
+
+// スプラッター[fb]
+Smash it into[br]
+  powder
+
+[fb]
+
+// そんな[fb]
+'Cause you can
+
+[fb]
+
+// あなたは[fb]
+Do anything
+
+[fb]
+
+// そんな　あなたは[fb]
+Surely you gotta[br]
+  concur,
+
+[fb]
+
+// ラッコさん[musicnote][fb]
+sea otter![musicnote]
+
+
+[fb]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x4D (0x5EB6)
+<$36>
+// ラッコが　ふじょうした　[br]
+// ラッコは、くるみをうけとった[end]
+The otter emer-[br]
+ges from the wa-[br]
+ter and takes[br]
+the nut.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x4E (0x5ED3)
+<$36>
+// しかし、ラッコは[br]
+// くるみを　われなかった[end]
+But the otter[br]
+was unable to[br]
+crack it open.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x4F (0x5EE9)
+<$13>
+// 「おこたえします　くるみより[br]
+// かたいものを　わたすのです」[end]
+{If I may speak[br]
+freely, I would[br]
+suggest giving[br]
+it something[br]
+even harder than[br]
+the nut.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x50 (0x5F08)
+<$18>
+// 「こういっては　なんだけど、[br]
+// さっきの　はいざらよ」[end]
+{I'll say this[br]
+much: That mar-[br]
+ble ashtray is a[br]
+good candidate.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x51 (0x5F24)
+<$00>
+// はいざらを　とりました[end]
+You take the[br]
+ashtray.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x52 (0x5F31)
+<$36>
+// ラッコに　はいざらを　わたすと、[br]
+// こんどは、ラッコは　みごとに[br]
+// くるみを　わった[end]
+You give the[br]
+ashtray to the[br]
+otter, who fina-[br]
+lly manages to[br]
+crack the nut[br]
+open.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x53 (0x5F5B)
+<$00>
+// しかし、くるみの　はへんとともに[br]
+// おみくじも　すいそうの　そこへ[br]
+// しずんでしまった[end]
+However, both[br]
+the nut frag-[br]
+ments and the[br]
+fortune slip[br]
+sink to the bo-[br]
+ttom of the[br]
+water tank.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x54 (0x5F86)
+<$36>
+// ラッコの　て　では、とれません[end]
+The otter can't[br]
+help you now.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x55 (0x5F97)
+<$00>
+// となりの　すいそうの[br]
+// えづけショーの　おねえさんを[br]
+// よびましょう[end]
+Let's call the[br]
+lady from the[br]
+otter feeding[br]
+show.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x56 (0x5FB9)
+<$00>
+// こえは　とどきません[end]
+Your voice won't[br]
+reach there.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x57 (0x5FC5)
+<$11>
+// 「おねえさん　クィッ[br]
+// こっちを　クィッ[br]
+// むいて　クィクィ[br]
+// きづいてクィッ」[wait]
+{Hey, miss!}[br]
+  (step)[br]
+{Could you}[br]
+  (step)[br]
+{please look}[br]
+  (step)[br]
+{over here?}[br]
+  (step)
+
+[wait]
+
+// おどりに　きづいたようです[end]
+She seems to[br]
+have noticed[br]
+your dancing.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x58 (0x5FFA)
+<$33>
+// 「なんのよう？」[end]
+{What do you[br]
+need?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x59 (0x6004)
+<$05>
+// 「おみくじをひろってほしいの」[end]
+{Could you pick[br]
+up my fortune[br]
+slip?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x5A (0x6015)
+<$33>
+// 「あたしの　しごとじゃないわ」[end]
+{That's not my[br]
+job.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x5B (0x6026)
+<$05>
+// 「おかしあげるから、おねがい」[end]
+{Come on! I'll[br]
+give you candy!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x5C (0x6037)
+<$33>
+// 「オーケー、まかしといて」[end]
+{Okay then!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x5D (0x6046)
+<$33>
+// おねえさんは、おみくじをひろって[br]
+// きてくれた[wait]
+The lady fetches[br]
+the fortune slip[br]
+for you.
+
+[wait]
+
+// 
+[spkr]<$0F>
+// 「ありがトーワチキ」[end]
+{Thanks!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x5E (0x606B)
+<$05>
+// 「なになに、　…コンピューターに[br]
+// くわしいひとと　おともだちに[br]
+// なれば　ハッピーまちがいなしよ…[br]
+// だって」[end]
+{It says,[br]
+*You will find[br]
+happiness if you[br]
+become friends[br]
+with a computer[br]
+expert.'}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x5F (0x60A2)
+<$13>
+// 「おこたえします　なかまに[br]
+// ハッカーを　いれろという[br]
+// ことでしょう」[end]
+{If I may speak[br]
+freely, I be-[br]
+lieve this means[br]
+we should add a[br]
+hacker to our[br]
+group.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x60 (0x60C6)
+<$00>
+// もう、ここにはようがありません[end]
+You don't have[br]
+any more reasons[br]
+to stay here.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x61 (0x60D7)
+<$18>
+// 「こういっては　なんだけど、[br]
+// わたしのともだちに、すごうでの[br]
+// パソコンマニアが　いるわ」[end]
+{I'll say this[br]
+much: One of my[br]
+friends is a[br]
+computer wiz.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x62 (0x6105)
+<$05>
+// 「どこにいけば　あえるの？」[end]
+{Where can I[br]
+meet this friend[br]
+of yours?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x63 (0x6115)
+<$18>
+// 「きょうは、さんごくいちの[br]
+// パソコンたいかいが　あるから[br]
+// あきはばらの　ハードっていう[br]
+// おみせに　いるはずよ」[end]
+{There's a com-[br]
+puter tournament[br]
+between Japan,[br]
+China and India[br]
+in a store[br]
+called *Hard' in[br]
+Akihabara.[wait]
+
+She's probably[br]
+there.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x64 (0x614E)
+<$00>
+// ハードに　やってきました[end]
+You enter the[br]
+store {Hard}.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x65 (0x615C)
+<$05>
+// 「たいかいは[br]
+// どこで　やっているので…」[wait]
+{Excuse me,[br]
+where is the...
+
+[wait]
+
+// 
+[spkr]<$18>
+// 「しょ〜」[wait]
+...tournament...
+
+[wait]
+
+// 
+[spkr]<$13>
+// 「か〜？」[wait]
+...being held?}
+
+
+[wait]
+
+// 
+[spkr]<$4F>
+// 「たいかいニャら　ちかだよ[br]
+// ニャ〜ロ〜　それより[wait]
+{The tourna-[br]
+ment's in the[br]
+basement, yeah!
+
+
+[wait]
+
+// オメーたち[br]
+// キャわゆ〜いじゃニェ〜か[br]
+// オレとケッコンしろ〜い[br]
+// ニャ〜ロ〜」[end]
+By the way,[br]
+you're awesome[br]
+cute, yeah! Will[br]
+you marry me?[br]
+Yeah!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x66 (0x61C3)
+<$00>
+// ハードのちか…[end]
+This is Hard's[br]
+basement.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x67 (0x61CC)
+<$00>
+// おとこと、おんなのこがひとりずつ[br]
+// むかいあってすわっています[end]
+A man and a wo-[br]
+man are sitting[br]
+in front of each[br]
+other.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x68 (0x61EC)
+<$00>
+// おや、かんきゃくのなかに[br]
+// みたことあるひとが…[end]
+Oh? You recog-[br]
+nize someone a-[br]
+mong the audi-[br]
+ence...
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x69 (0x6205)
+<$27>
+// コラムニストのやけにくわしです[end]
+It's Kuwashi Ya-[br]
+keni, the col-[br]
+umnist.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x6A (0x6216)
+<$05>
+// 「ハロー、くわしさーん！」[end]
+{Hello again,[br]
+Kuwashi!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x6B (0x6225)
+<$27>
+// 「やあ　きぐうだネエ……[br]
+// ネエヤは１５で　よめにいーきー」[end]
+{Oh my, what a[br]
+coincidence![wait]
+
+By the way, did[br]
+you know? There[br]
+are actually[br]
+thirteen items[br]
+in a baker's do-[br]
+zen.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x6C (0x6244)
+<$05>
+// 「どうして、こんなところに？」[end]
+{What are you[br]
+doing here?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x6D (0x6255)
+<$27>
+// 「さんごくいちのパソコンたいかい[br]
+// が　あるときいてね」[end]
+{I heard about[br]
+the computer[br]
+tournament, so I[br]
+came to check it[br]
+out.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x6E (0x6272)
+<$05>
+// 「ふたりは、どんなしょうぶをして[br]
+// いるんですか？」[end]
+{What are they[br]
+doing, exactly?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x6F (0x628D)
+<$27>
+// 「ふたりの　うでに、わっかが[br]
+// ついているだろう？あれは、[br]
+// あるパスワードでしか　あかない[br]
+// しくみになっていて[wait]
+{It's a bit of a[br]
+game. See the[br]
+rings around[br]
+their wrists?[wait]
+
+Those can't be[br]
+opened without[br]
+the right pass-[br]
+word.
+
+[wait]
+
+// さきにそれをさがして　うでわを[br]
+// はずしたほうが　かちっていう[br]
+// ゲームなのさ」[end]
+Whoever manages[br]
+to remove the[br]
+ring from their[br]
+wrist first[br]
+wins.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x70 (0x62EC)
+<$05>
+// 「おんなのこのほうが、あせを[br]
+// かいてるわ」[end]
+{The girl is[br]
+sweating hard.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x71 (0x6303)
+<$27>
+// 「おんなのこは、あおやまミサオ　[br]
+// おとこのほうは、べこいちめいじん[end]
+{The lady is Mi-[br]
+sao Aoyama, and[br]
+the man is Mas-[br]
+ter Bekoichi.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x72 (0x6326)
+<$27>
+// べこいちは、どうやらコネをきかせ[br]
+// いっぱんのユーザーにはてのとどか[br]
+// ないデータ・バンクにパスワードを[br]
+// セットしてしまったらしい」[end]
+Bekoichi has[br]
+used his connec-[br]
+tions to hide[br]
+the password in[br]
+a data bank in-[br]
+accessible to[br]
+common users.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x73 (0x6368)
+<$27>
+// 「きみたちが[br]
+// たすけてやらなければ、[br]
+// まず、かちめはないな」[end]
+{Unless you do[br]
+something to[br]
+help her, I[br]
+don't think[br]
+she's going to[br]
+win.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x74 (0x6388)
+<$05>
+// 「なんだかよくわからないけど[br]
+// とにかく　たすければいいのね？」[end]
+{I don't really[br]
+get it, but[br]
+let's see what[br]
+we can do!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x75 (0x63A9)
+<$0A>
+// エリカのうたに、まわりのひとが[br]
+// ちゅうもくしました[end]
+Erika's song[br]
+grabs the atten-[br]
+tion of the peo-[br]
+ple around.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x76 (0x63C4)
+<$05>
+// 「いまよ　ホシミちゃん、べこいち[br]
+// めいじんのくちに、[br]
+// みょうがまんじゅうをおしこむの」[end]
+{Now, Hoshimi![br]
+Cram the Divine[br]
+Manju in Master[br]
+Bekoichi's[br]
+mouth!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x77 (0x63F1)
+<$13>
+// 「おこたえします　まかせて[br]
+// ください」[end]
+{Of course. You[br]
+can count on[br]
+me.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x78 (0x6406)
+<$4A>
+// ホシミは、べこいちめいじんの[br]
+// くちに　みょうがまんじゅうを[br]
+// おしこんだ[end]
+Hoshimi crams[br]
+the manju into[br]
+Master Bekoi-[br]
+chi's mouth.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x79 (0x642B)
+<$4A>
+// べこいちめいじんは、たちまち[br]
+// ものわすれが　はげしくなって[br]
+// キーベードも　まともにたたけなく[br]
+// なってしまった[end]
+Overwhelmed by[br]
+the taste, Mas-[br]
+ter Bekoichi can[br]
+hardly remember[br]
+how to use the[br]
+keyboard proper-[br]
+ly.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x7A (0x6463)
+<$4A>
+// ミサオは、このきをのがさず[br]
+// てっぺきのガードをくぐりぬけ[br]
+// パスワードをひろいだした[end]
+Misao uses the[br]
+opportunity to[br]
+break through[br]
+his iron guard[br]
+and find the[br]
+password.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x7B (0x648E)
+<$05>
+// 
+
+
+[fa]<$69>
+
+// 
+
+
+[fc]<$15>
+
+// 「やったあ！」[end]
+{She did it!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x7C (0x649B)
+<$1D>
+// 「ありがとう　うちがかてたのも[br]
+// あんたらのおかげや　できることが[br]
+// あったら、なんでもいうてや」[end]
+{Thanks! I[br]
+wouldn'ta made[br]
+it without yer[br]
+help.[wait]
+
+If there's any-[br]
+thin' I kin do[br]
+ya fer, jest ask[br]
+away.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x7D (0x64CC)
+<$05>
+// 「だったら、なかまになって」[end]
+{How about you[br]
+join us?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x7E (0x64DC)
+<$05>
+// エリカは、いままでのいきさつを[br]
+// はなした[end]
+Erika explains[br]
+the situation in[br]
+detail.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x7F (0x64F2)
+<$1D>
+// 「おもしろそうやん？それやったら[br]
+// うちもまぜてもらうわ」[end]
+{Sounds right[br]
+int'restin' ta[br]
+me![br]
+Count me in!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x80 (0x6510)
+<$0F>
+// 「やりいー！」[end]
+{Woohoo!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x81 (0x6519)
+<$00>
+// サイバー・ゴング・ショーがひらか[br]
+// れています[end]
+The Cyber Gong[br]
+Show is open.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x82 (0x6531)
+<$2D>
+// 「おっと、マドモアゼル[br]
+// ワンスモア、ちょっとまって[br]
+// チェルノブイーリ　ここからさきは[br]
+// チケットないひと、たちいり[wait]
+{Oh, mademoi-[br]
+selle! I must[br]
+tell you encore[br]
+that you may not[br]
+
+entrer wizout a[br]
+tiquet.
+
+[wait]
+
+// ノーサンキューね」[end]
+Sorry.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x83 (0x6575)
+<$0A>
+// なんだろな〜[musicnote][br]
+// なんだろな〜[musicnote][wait]
+What's inside?[musicnote][br]
+What's inside?[musicnote]
+
+[wait]
+
+// みたいの[musicnote][br]
+// みたいの[musicnote][br]
+// エリカちゃん[musicnote][wait]
+I really really[musicnote][br]
+really really[musicnote][br]
+wanna see![musicnote]
+
+[wait]
+
+// 
+[spkr]<$2D>
+// 「オーマイガッ！どうしたことだ[br]
+// このリトルガールのいうとおりに[br]
+// アイウォンチュウ、したくなって[br]
+// きた　だが、アイハブしめいが…」[end]
+{Sacre bleu![br]
+I really should[br]
+not let this pe-[br]
+tit fille[br]
+
+entrer...I must[br]
+follow mes or-[br]
+dres...}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x84 (0x65DD)
+<$2D>
+// 「オー！アイキャント　もうさから[br]
+// えない！どうぞおとおりください」[end]
+{Oh! Forget mes[br]
+ordres! You may[br]
+go in, s'il-vous[br]
+plait.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x85 (0x6600)
+<$05>
+// 
+
+
+[fc]<$10>
+
+// 「やったね！」[wait]
+{Yay!}
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x86 (0x660C)
+<$00>
+// サイバー・ゴング・ショーの[br]
+// かいじょうです[end]
+This is the Cy-[br]
+ber Gong Show[br]
+venue.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x87 (0x6623)
+<$00>
+// じょうないは、そうぜんとして[br]
+// います　どうしたのでしょうか？[end]
+There seems to[br]
+be some kind of[br]
+commotion.[br]
+What's going on?
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x88 (0x6643)
+<$44>
+// ステージのうえに、ダイナマイト[br]
+// をからだじゅうまきつけたおとこが[br]
+// います[end]
+There is a man[br]
+on stage with[br]
+his body wrapped[br]
+in dynamite!
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x89 (0x6669)
+<$44>
+// 「うおー！おれはここでしんでやる[br]
+// んだ！」[end]
+{I'm gonna do[br]
+it! I'm gonna[br]
+die here!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x8A (0x6680)
+<$05>
+// 「どうして、こんなところでしのう[br]
+// としているの？」[end]
+{Why would you[br]
+want to die[br]
+here?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x8B (0x669B)
+<$44>
+// 「おれのじんせいは、あまりにも[br]
+// くらかった　だから、せめて[br]
+// はなやかなところで[br]
+// しんでやるんだ」[end]
+{I've always[br]
+lived in obscur-[br]
+ity. I want to[br]
+at least go out[br]
+with a bang!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x8C (0x66CD)
+<$05>
+// 「よーし　うたうしか　ないわ」[wait]
+{I guess I'll[br]
+have to sing!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// ミュージックスタート
+MUSIC START!
+
+[fa]<$5E>
+
+// [fb]
+
+// orig:
+// 
+// Why would you ever
+// Want to die?
+// There's so much good stuff
+// Worth living for!
+// 
+// Just sit down and relax
+// Get yourself something sweet
+// Like a strawberry cake
+// And hot chocolaaate!
+
+// edit:
+//
+// How could you ever say
+// "I don't want to live"
+// When there's so much good stuff
+// You could be doing?
+// 
+// Take a sec to have some cake
+// Maybe grab a sundae too
+// Desserts are sure to give you
+// Smiles all day long!
+
+[fb]
+
+// 
+[spkr]<$44>
+// 「？…」[fb]
+{...?}
+
+[fb]
+
+// 
+[spkr]<$0A>
+// なんで　なんで[fb]
+How could you[br]
+  ever say
+
+[fb]
+
+// しんじゃうの[fb]
+{I don't want to[br]
+  live}
+
+[fb]
+
+// たのしく　いきれば[fb]
+When there's so[br]
+  much good[br]
+  stuff
+
+[fb]
+
+// いいじゃない[fb]
+You could be do-[br]
+  ing?
+
+[fb]
+
+// いちごのケーキを[fb]
+Take a sec to[br]
+  have some cake
+
+[fb]
+
+// 
+[spkr]<$44>
+// 「？…」[fb]
+{...?}
+
+[fb]
+
+// 
+[spkr]<$0A>
+// おいしくたべて[fb]
+Maybe grab a[br]
+  sundae too
+
+[fb]
+
+// 
+[spkr]<$44>
+// 「？…」[fb]
+{...?}
+
+[fb]
+
+// 
+[spkr]<$0A>
+// あまい　ココアで[fb]
+Desserts are[br]
+  sure to give[br]
+  you
+
+[fb]
+
+// ひとやすみー[musicnote][fb]
+Smiles all day[br]
+  looong![musicnote]
+
+[fb]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x8D (0x674B)
+<$44>
+// 「ううう…なんて、こころにひびく[br]
+// うたごえなんだ　でも、おれはもう[br]
+// だめなんだー」[end]
+(sob)[br]
+{This song rea-[br]
+lly gets me...[br]
+But I can't stop[br]
+now! I'm fin-[br]
+ished already!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x8E (0x6776)
+<$44>
+// 「わー、いきるきぼうが[br]
+// わいてきたぞ！！」[end]
+{Wow! My will to[br]
+live has return-[br]
+ed!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x8F (0x678D)
+<$00>
+// おとこはじさつをとりやめた[end]
+The man is no[br]
+longer trying to[br]
+kill himself.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x90 (0x679C)
+<$22>
+// ほねぶとの　おんなが　でてきた[br]
+// ショーの　せきにんしゃのようです[end]
+A stout woman[br]
+steps forward.[wait]
+
+She seems to be[br]
+the person in[br]
+charge of the[br]
+show.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x91 (0x67BE)
+<$22>
+// 「すばらしい　さいのうを[br]
+// おもちのようね？」[end]
+{I must say, you[br]
+have incredible[br]
+talent. I'm im-[br]
+pressed.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x92 (0x67D6)
+<$05>
+// 「どなたですか？」[end]
+{Who might you[br]
+be?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x93 (0x67E1)
+<$22>
+// 「チャバタケ・ヤチヨ　[br]
+// このショーのプロデューサーよ」[end]
+{I am Yachiyo[br]
+Chabatake, the[br]
+producer of this[br]
+show.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x94 (0x67FE)
+<$05>
+// 「わー！じつは、わたしたち、[br]
+// なかまをさがしてるんですう」[end]
+{Oh, that's per-[br]
+fect! You see,[br]
+we're looking[br]
+for people to[br]
+join us...}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x95 (0x681D)
+<$00>
+// エリカたちは、これまでの[br]
+// いきさつを　はなした[end]
+Erika explains[br]
+her situation in[br]
+detail.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x96 (0x6836)
+<$22>
+// 「わかったわ　わたしが、これほど[br]
+// の　さいのうを　ほおっておくと[br]
+// おもって？[wait]
+{I see. Well, I[br]
+can't simply ig-[br]
+nore this kind[br]
+of talent, can[br]
+
+I? I will gladly[br]
+join you as your[br]
+advisor.}
+
+// よろこんで、さんぼうを[br]
+// つとめさせていただくわ」[end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x97 (0x6877)
+<$00>
+// ちょうどそのころ、とないぼうしょ[br]
+// やけに　くわしが　なぞのおとこと[br]
+// むかいあっていた[end]
+Meanwhile, in a[br]
+certain place in[br]
+the city, Kuwa-[br]
+shi Yakeni is[br]
+talking to a[br]
+mysterious man.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x98 (0x68A3)
+<$27>
+// 「あんこくイロモノだいおうさま、[br]
+// おおせのとおり、エリカたちの[br]
+// てだすけをしてまいりました」[end]
+{Kooky King,[br]
+great leader of[br]
+the Kooky Kom-[br]
+pany, I have[br]
+
+assisted Erika[br]
+and her comrades[br]
+as you have re-[br]
+quested.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x99 (0x68D3)
+<$00>
+// 「ごくろうであった　ひきつづき[br]
+// やつらのてだすけをしてやれい！」[end]
+{Good work. Keep[br]
+doing so. You[br]
+must keep assis-[br]
+ting them!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x9A (0x68F5)
+<$27>
+// 「なるほど、エリカののうりょくの[br]
+// しんの　かいかをまち、そのうえで[br]
+// わが　ぐんだんに　くわえる…[br]
+// いつもながらみごとな[wait]
+{First we shall[br]
+nurture Erika's[br]
+talent, and then[br]
+we'll add her to[br]
+our ranks...
+
+[wait]
+
+// さくせんじゃ　あーりませんか」[end]
+I must say, it[br]
+is a brilliant[br]
+plan.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x9B (0x6942)
+<$00>
+// 「エリカめ　わが　てのうちで[br]
+// おどらされているともしらずに[br]
+// かーわいいのおーフハハハハハ」[end]
+{She's unwitt-[br]
+ingly dancing in[br]
+the palm of my[br]
+hand...How cute[br]
+is that?[br]
+Mwahahahah!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x9C (0x6971)
+<$0F>
+// あらたに　なかまをくわえ、[br]
+// ちゃくちゃくとアイドルへのみちを[br]
+// あゆみはじめたエリカ…[br]
+// だが、そのまえにたちふさがる[wait]
+Erika is steadi-[br]
+ly finding new[br]
+comrades willing[br]
+to walk with her[br]
+the path to[br]
+stardom.
+
+[wait]
+
+// くろいかげ…[end]
+But now, a dark[br]
+shadow stands in[br]
+her way...
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x9D (0x69B3)
+<$00>
+// あんこくイロモノだいおうとは[br]
+// なにものなのか？[br]
+// そして、[br]
+// かれのやぼうとは？[wait]
+Who is this[br]
+Kooky King?[br]
+What does he[br]
+really want?
+
+[wait]
+
+// いま、きょだいな[br]
+// ぼうりゃくのうずが、[br]
+// エリカたちを[br]
+// のみこもうとしていた…[wait]
+Before long,[br]
+Erika and her[br]
+friends will be[br]
+involved in his[br]
+evil scheme...
+
+[wait]
+
+// しているんだったら！[end]
+Look, this is[br]
+serious, okay?!
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x9E (0x6A0D)
+<$00>
+// ミホが、ろうじんを[br]
+// つれてきました[end]
+Miho is here,[br]
+with an old man.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0x9F (0x6A20)
+<$3B>
+// 「げいのうかいの　いきじびき、[br]
+// アイドルおっかけの　ちょうろう、[br]
+// しんじつイチロウ　せんせいです」[end]
+{This is Master[br]
+Ichiro Shinji-[br]
+tsu, a veritable[br]
+walking encyclo-[br]
+
+pedia of the[br]
+world of show[br]
+business and an[br]
+expert on the[br]
+
+idol scene.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA0 (0x6A53)
+<$2A>
+// 「む！　そのめだ！[br]
+// キミこそ　くうぜんぜつごの[br]
+// アイドル・スターに　なれる[br]
+// そしつをもった　おんなのこだ」[end]
+{Ah-ha! Those[br]
+eyes! You are a[br]
+rare gem indeed![wait]
+
+You definitely[br]
+have the quali-[br]
+ties to become[br]
+an Idol Star!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA1 (0x6A8A)
+<$52>
+// ドラキュラににています[end]
+He bears a cer-[br]
+tain resemblance[br]
+to Dracula.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA2 (0x6A97)
+<$55>
+// ウーバールーパーじゃなくって[br]
+// うばのミホさんです[end]
+She's Miho, Eri-[br]
+ka's nanny.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA3 (0x6AB1)
+<$2A>
+// 「わしは　うらないも　するのじゃ[br]
+// そしてその　うらないが[br]
+// ことしこそ　にほんに[br]
+// しじょうさいだいの　アイドルが[wait]
+{I am a fortune[br]
+teller. Accor-[br]
+ding to my pre-[br]
+dictions,
+
+[wait]
+
+// うまれる　としであると[br]
+// つげておる　そのアイドルは[br]
+// キミだ！」[end]
+this year, Japan[br]
+will see the[br]
+birth of the[br]
+greatest idol in[br]
+all of history.[wait]
+
+And that idol[br]
+shall be...you!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA4 (0x6B0A)
+<$2A>
+// 「しかし、キミのさいのうを[br]
+// かいか　させるためには、[br]
+// あと７にんの　なかまを[br]
+// あつめねば　ならん」[end]
+{But for your[br]
+true talent to[br]
+bloom, you must[br]
+first gather[br]
+
+seven comrades.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA5 (0x6B3D)
+<$05>
+// 「わたしを　いれて、８にんか…」[end]
+{Counting me,[br]
+that makes it[br]
+eight people...}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA6 (0x6B4F)
+<$2A>
+// 「そのうちの　ひとりは、わしの[br]
+// まごむすめである　ホシミである[br]
+// ことも　わかっている」[end]
+{One of them is[br]
+my only grand-[br]
+daughter, Hoshi-[br]
+mi.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA7 (0x6B7C)
+<$00>
+// そういって　しんじつは、ひとりの[br]
+// むすめを　よびよせた[end]
+With that said,[br]
+Shinjitsu calls[br]
+a girl to his[br]
+side.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA8 (0x6B99)
+<$13>
+// 「おこたえいたします　わたしの[br]
+// よげんのちからで　のこり６にんを[br]
+// さがしましょう」[end]
+{If I may speak[br]
+freely, I shall[br]
+use my foresight[br]
+to find the[br]
+
+remaining six[br]
+individuals.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xA9 (0x6BC4)
+<$2A>
+// 「これからさきは、おまえたちの[br]
+// しごとじゃ　アディオス」[end]
+{The rest is up[br]
+to you. Adios!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xAA (0x6BE2)
+<$00>
+// などといって　しんじつは[br]
+// ミホと　ともにさっていった[end]
+And with that,[br]
+Shinjitsu leaves[br]
+with Mio.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xAB (0x6BFE)
+<$0B>
+// 「さあ、どうしようか？」[end]
+{So, what do we[br]
+do now?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xAC (0x6C0C)
+<$00>
+// とくに、とるものは、ありません[end]
+There is nothing[br]
+to pick up here.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xAD (0x6C1D)
+<$00>
+// つかえるものは、ありません[end]
+You have nothing[br]
+to use.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xAE (0x6C2C)
+<$00>
+// はなしかける　あいてがいません[end]
+There is nobody[br]
+to talk to.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xAF (0x6C3D)
+<$11>
+// いみもなく　おどらないでください[end]
+Please don't[br]
+dance for no[br]
+reason.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB0 (0x6C4F)
+<$30>
+// おばさんも　ほほえみかえしました[end]
+The old lady[br]
+smiles back.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB1 (0x6C61)
+<$0F>
+// とくに　ほほえみかけてゆうこうな[br]
+// あいては　いません[end]
+Nobody's going[br]
+to be impressed[br]
+by your smile[br]
+here.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB2 (0x6C7D)
+<$0A>
+// うたっても　むいみなようです[end]
+Singing now[br]
+won't do any-[br]
+thing.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB3 (0x6C8D)
+<$10>
+// なにを　とぼけるのですか[end]
+Why are you act-[br]
+ing dumb?
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB4 (0x6C9B)
+<$00>
+// 「？…」[end]
+{...?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB5 (0x6CA1)
+<$00>
+// いどうするには、まだ[br]
+// はやいようです[end]
+It's too early[br]
+to go somewhere[br]
+else.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB6 (0x6CB5)
+<$00>
+// かたそうな　だいりせきの[br]
+// はいざらです[br]
+// もっても　おもいだけです[br]
+// やめておきましょう[end]
+It's one of[br]
+those marble[br]
+ashtrays.[wait]
+
+It's way too[br]
+heavy to lug a-[br]
+round. Let's[br]
+just leave it[br]
+there.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB7 (0x6CE1)
+<$13>
+// 「なにか　うかんできました[br]
+// やはり　ヒントは　ザンシャインに[br]
+// あります」[end]
+{I've been[br]
+thinking about[br]
+it, and I still[br]
+believe we will[br]
+find a hint at[br]
+Zanshine.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB8 (0x6D07)
+<$13>
+// 「はいれないものは　しかた[br]
+// ありません　したのロビーにでも[br]
+// いきましょう」[wait]
+{There is no-[br]
+thing we can do[br]
+for now. Let us[br]
+return to the[br]
+lobby down-[br]
+stairs.}
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xB9 (0x6D2F)
+<$00>
+// もったいないので　まだ[br]
+// とっておきましょう[end]
+That would be a[br]
+waste. Let's[br]
+keep it for la-[br]
+ter.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xBA (0x6D46)
+<$13>
+// 「おこたえいたします　マスターを[br]
+// おこらせてしまったようです[br]
+// とりあえず　}たましかや}に[br]
+// いきましょう」[end]
+{It appears we[br]
+have angered the[br]
+owner.[wait]
+
+If I may speak[br]
+freely, I sug-[br]
+gest heading to[br]
+*Tamashikaya'.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xBB (0x6D7D)
+<$47>
+// 「なんだい　そのおかしは！[br]
+// うちのほうが　じょうひんで[br]
+// もっとおいしいよ」[end]
+{What's up with[br]
+that candy? Ours[br]
+are way more re-[br]
+fined, and tast-[br]
+ier as well!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xBC (0x6DA4)
+<$0F>
+// 
+
+
+[fa]<$69>
+
+// 
+
+
+[fc]<$11>
+
+// 「ニコッ　ニコニコッ」[end]
+(SMIIIILE)
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xBD (0x6DB5)
+<$0C>
+// 
+
+
+[fc]<$2F>
+
+// 「キャーンおみくじ！[br]
+// おみくじいいいいいいいいっっっ」[end]
+{OH NO! My for-[br]
+tune sliiiip!!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xBE (0x6DD4)
+<$13>
+// 「おこたえいたします　なにか[br]
+// うかんできました」[end]
+{If I may speak[br]
+freely, some-[br]
+thing came to my[br]
+mind.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xBF (0x6DEE)
+<$13>
+// 「おこたえいたします[wait]
+{If I may speak[br]
+freely...
+
+[wait]
+
+// なぜ　すいぞくかんにいけば[br]
+// クルミがわれるのか[br]
+// わたしにも、わかりませんが[wait]
+I do not under-[br]
+stand myself the[br]
+relation between[br]
+cracking the nut[br]
+
+open and the[br]
+aquarium,
+
+[wait]
+
+// とにかく　いってみましょう」[end]
+but I suggest[br]
+heading there to[br]
+find out.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC0 (0x6E2F)
+<$0B>
+// 「すいぞくかん？…」[end]
+{The...aquari-[br]
+um?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC1 (0x6E3B)
+<$30>
+// 「？…」[wait]
+{...?}
+
+[wait]
+
+// 
+[spkr]<$0B>
+// 「２つもかったのに[br]
+// おしえてくれないじゃない…」[wait]
+{I bought two[br]
+things, but[br]
+she's still not[br]
+answers...}
+
+[wait]
+
+// 
+[spkr]<$13>
+// 「おこたえいたします[br]
+// まあ　あせらずしゅうかんしでも[br]
+// よんで　やすみましょう」[end]
+{If I may speak[br]
+freely, I sug-[br]
+gest a short[br]
+break to read[br]
+that newspaper.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC2 (0x6E86)
+<$27>
+// 「ハハハ[br]
+// きみたちには、まだコーヒーの[br]
+// にがみが、きついのかもしれないネ[br]
+// …ネーデルランドはオランダだ」[end]
+{Hahahah, I[br]
+guess you're a[br]
+bit too young[br]
+for the bitter[br]
+taste of coff-[br]
+ee.[wait]
+
+By the way, did[br]
+you know? Brazil[br]
+is the largest[br]
+coffee producer[br]
+in the world.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC3 (0x6EBC)
+<$0F>
+// 
+
+
+[fa]<$6D>
+
+// 
+
+
+[fc]<$11>
+
+// 「ニコッ　ニコニコッ」[end]
+(SMIIIILE)
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC4 (0x6ECD)
+<$13>
+// 「おこたえいたします　[wait]
+{If I may speak[br]
+freely,
+
+[wait]
+
+// いま　あの　おとこを[br]
+// すくうことが　できるのは[br]
+// エリカさん！[br]
+// あなたしか　いません！[wait]
+the only person[br]
+who could poss-[br]
+ibly save that[br]
+man now is you,[br]
+Erika!
+
+[wait]
+
+// にげては　いけません」[end]
+You must not run[br]
+away!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC5 (0x6F11)
+<$13>
+// 「おこたえいたします　[br]
+// エリカさん！[br]
+// もう　ひといきです」[end]
+{If I may speak[br]
+freely, you've[br]
+almost done it,[br]
+Erika! You only[br]
+need one more[br]
+step!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC6 (0x6F30)
+<$4A>
+// 「もういちど　しょうぶだー」[wait]
+{I want a re-[br]
+match!}
+
+[wait]
+
+// 
+[spkr]<$1D>
+// 「ヤヨイちゃん[br]
+// みょうがまんじゅう　ある？」[wait]
+{Yayoi, ya woul-[br]
+dn't happenta[br]
+have another one[br]
+of them fancy[br]
+manju?}
+
+[wait]
+
+// 
+[spkr]<$18>
+// 「こういってはなんだけど[br]
+// あるわよ」[wait]
+{I do, actually.[br]
+Here you go.}
+
+[wait]
+
+// 
+[spkr]<$1D>
+// 「くらえ　とどめの[br]
+// まんじゅうこうげき」[wait]
+{Take this![br]
+Manju Attack!}
+
+[wait]
+
+// 
+[spkr]<$4A>
+// 「ここはどこ　わたしはだれ」[end]
+{Where am I?[br]
+Who am I?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC7 (0x6F96)
+<$00>
+// おばさんは　いそがしそうです[end]
+The old lady[br]
+looks busy.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC8 (0x6FA6)
+<$18>
+// 「こういってはなんだけど[br]
+// いっしょに　がんばりましょう」[end]
+{I'll say this[br]
+much: We'll do[br]
+great things to-[br]
+gether.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xC9 (0x6FC4)
+<$18>
+// 「こういってはなんだけど[br]
+// おかねもうけいがいは　だめなの」[end]
+{I'll say this[br]
+much: Don't ask[br]
+me anything be-[br]
+yond making[br]
+
+money.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xCA (0x6FE3)
+<$00>
+// よくかんがえてから[br]
+// かいましょう[end]
+You should prob-[br]
+ably buy that.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xCB (0x6FF5)
+<$1D>
+// 「さて、どないしょ」[end]
+{So, what's it[br]
+gonna be?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xCC (0x7001)
+<$13>
+// 「おこたえいたします　[br]
+// なかに　はいるには[br]
+// うたを　うたって　こころを[br]
+// うごかすのです」[end]
+{If I may speak[br]
+freely, I be-[br]
+lieve the way to[br]
+enter is to move[br]
+their hearts[br]
+with a song.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xCD (0x702F)
+<$0A>
+// なんだろな〜[musicnote][br]
+// なんだろな〜[musicnote][wait]
+What's inside?[musicnote][br]
+What's inside?[musicnote]
+
+[wait]
+
+// みたいの[musicnote][br]
+// みたいの[musicnote][br]
+// エリカちゃん[musicnote][wait]
+I really really[musicnote][br]
+really really[musicnote][br]
+wanna see![musicnote]
+
+[wait]
+
+// 
+[spkr]<$2D>
+// 「…………」[wait]
+{......}
+
+[wait]
+
+// 
+[spkr]<$0B>
+// 「だめだわ…」[wait]
+{No good,[br]
+huh...}
+
+[wait]
+
+// 
+[spkr]<$13>
+// 「おこたえいたします　[br]
+// まだ　けいけんが[br]
+// たりないようです」[end]
+{If I may speak[br]
+freely, I be-[br]
+lieve you still[br]
+lack experi-[br]
+
+ence.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xCE (0x7088)
+<$00>
+// ハードです[end]
+This is the com-[br]
+puter store[br]
+{Hard}.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xCF (0x708F)
+<$13>
+// 「おこたえいたします　まわりの[br]
+// ひとにきいてみましょう」[end]
+{If I may speak[br]
+freely, I sug-[br]
+gest talking to[br]
+the people[br]
+nearby.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD0 (0x70AD)
+<$00>
+// エリカのへやです[end]
+This is Erika's[br]
+room.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD1 (0x70B7)
+<$13>
+// 「おこたえいたします　なにも[br]
+// うかんできません」[end]
+{Forgive me, but[br]
+nothing specific[br]
+comes to mind.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD2 (0x70D1)
+<$00>
+// たくさんの　ほしが　ちりばめられ[br]
+// ほんとうの　よぞらのように[br]
+// みえます[wait]
+The ceiling is[br]
+bejeweled with[br]
+stars. It's al-[br]
+most like a real[br]
+night sky.
+
+[wait]
+
+// 
+[spkr]<$05>
+// 「いゃ〜　ナイスですね〜」[end]
+{Wow! It's so[br]
+beautiful!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD3 (0x7106)
+<$00>
+// エリカたち　いがいは[br]
+// だれもいません[end]
+There is nobody[br]
+else but you.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD4 (0x711A)
+<$13>
+// 「おこたえいたします[br]
+// まあ　あせらずしゅうかんしでも[br]
+// よんで　やすみましょう」[end]
+{If I may speak[br]
+freely, I sug-[br]
+gest a short[br]
+break to read[br]
+that newspaper.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD5 (0x7143)
+<$05>
+// 「わー　ヤヨイちゃん　すごい[br]
+// あたまいい　すてき！！[br]
+// そんけいしちゃう！！」[end]
+{Wow! Yayoi is[br]
+awesome! So cle-[br]
+ver![br]
+Total respect!}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD6 (0x716B)
+<$18>
+// 「こういってはなんだけど[br]
+// プラネタリウムに　いきましょう」[end]
+{I'll say this[br]
+much: We should[br]
+check out the[br]
+planetarium.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD7 (0x718A)
+<$13>
+// 「おこたえいたします[br]
+// くるみです[br]
+// まちがいありません」[end]
+{If I may speak[br]
+freely, we must[br]
+find a nut. I am[br]
+sure of it.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD8 (0x71A7)
+<$2D>
+// 「…………」[end]
+{......}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xD9 (0x71AF)
+<$18>
+// 「こういってはなんだけど[br]
+// はやく　おみくじを[br]
+// みましょう」[end]
+{I'll say this[br]
+much:[wait]
+
+You should prob-[br]
+ably read that[br]
+fortune slip.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xDA (0x71CE)
+<$00>
+// へんな　あたまのひとたちが[br]
+// います[end]
+There're a lot[br]
+of people with[br]
+weird heads.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xDB (0x71E1)
+<$18>
+// 「こういってはなんだけど[br]
+// ここは　おもしろい　ひとたちが[br]
+// たくさん　あつまる　みせなの[br]
+// きにしないで」[end]
+{I'll say this[br]
+much: Don't mind[br]
+them too much.[wait]
+
+The people here[br]
+are all very a-[br]
+greeable.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xDC (0x7216)
+<$4F>
+// 「オメー　なかなか　うたが[br]
+// うめーじゃニェ〜か[br]
+// オレとケッコンしろ〜い[br]
+// ニャ〜ロ〜」[wait]
+{Yo, your song's[br]
+awesome, yeah![br]
+Will you marry[br]
+me?[br]
+Yeah!}
+
+[wait]
+
+// 
+[spkr]<$18>
+// 「きにしない　きにしない」[end]
+{Don't worry[br]
+about him.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xDD (0x7252)
+<$1D>
+// 「えらいこっちゃ[br]
+// どないすんねん」[end]
+{Holy moly,[br]
+whatchu gonna[br]
+do?}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xDE (0x7265)
+<$00>
+// あつくて　のめません[end]
+It's too hot to[br]
+drink.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xDF (0x7271)
+<$00>
+// わらないと　つかえません[end]
+You can't use it[br]
+until you crack[br]
+it open.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE0 (0x727F)
+<$00>
+// こうふんしていて　はなせません[end]
+It's not possi-[br]
+ble to talk in[br]
+this situation.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE1 (0x7290)
+<$30>
+// 「うちは　プラネタリウムじゃ[br]
+// ないだっぴょ」[end]
+{This en't the[br]
+planetarium.}
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE2 (0x72A8)
+<$00>
+// みせいねんが　たばこを[br]
+// すっては　いけません！！[end]
+Minors must not[br]
+smoke ciga-[br]
+rettes!
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE3 (0x72C2)
+<$00>
+// エリカは　おかしを[br]
+// てにいれた[end]
+Erika has ob-[br]
+tained candy.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE4 (0x72D3)
+<$00>
+// エリカは　しゅうかんしを[br]
+// てにいれた[end]
+Erika has ob-[br]
+tained the week-[br]
+ly newspaper.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE5 (0x72E7)
+<$00>
+// エリカは　おまんじゅうを[br]
+// てにいれた[end]
+Erika has ob-[br]
+tained a manju.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE6 (0x72FB)
+<$0A>
+// いきなり　うたいださないで[br]
+// ください[end]
+Please don't[br]
+start singing[br]
+for no good rea-[br]
+son.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE7 (0x730F)
+<$05>
+// 「たかいと　いえば[br]
+// やはり　ザンシャインビルね」[wait]
+{The highest[br]
+building has to[br]
+be the Zanshine[br]
+Building.}
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE8 (0x732A)
+<$05>
+// 「じゃあ　あきはばらに　いって[br]
+// みましょう」[wait]
+{Okay, let's go[br]
+to Akihabara!}
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xE9 (0x7343)
+<$00>
+// どこで　たいかいが　ひらかれてい[br]
+// るのか　わかりません[end]
+You don't know[br]
+where the tour-[br]
+nament is being[br]
+held exactly.
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xEA (0x7360)
+<$05>
+// 「これから　なかまになってくれる[br]
+// ひとを　さがしにゆくの[br]
+// ヤヨイちゃんも　よかったら[br]
+// いっしょに　いきましょ」[wait]
+{We're going to[br]
+look for more[br]
+people to join[br]
+us. Are you com-[br]
+ing with us, Ya-[br]
+yoi?}
+
+[wait]
+
+// 
+[spkr]<$18>
+// 「こういってはなんだけど[br]
+// わかったわ　いきましょう」[wait]
+{Very well.[br]
+Let's go.}
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xEB (0x73B7)
+<$05>
+// 「さっそく　おほしさまを　みにゆ[br]
+// きましょう」[wait]
+{Let's go see[br]
+the stars!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// エリカたちは　チケットをつかって[br]
+// プラネタリウムに　はいった[wait]
+Erika and her[br]
+friends used the[br]
+ticket and en-[br]
+tered the plane-[br]
+tarium.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xEC (0x73F2)
+<$05>
+// 「じゃあ　その}たましかや}に[br]
+// いきましょ」[wait]
+{Okay, let's go[br]
+to *Tamashika-[br]
+ya'.}
+
+[wait]
+
+// 「ありがとう　くわしさん[br]
+// またね」[wait]
+{Thank you, Ku-[br]
+washi. Bye-bye!}
+
+[wait]
+
+// 
+[spkr]<$00>
+// エリカたちは　ぎんざに　むかった[wait]
+Erika and Hoshi-[br]
+mi headed to[br]
+Ginza.
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
+// Script 0x51B1-0xED (0x7430)
+<$05>
+// 「そうね　ザンシャインいがいにも[br]
+// たかいところは　あるもんね[br]
+// そこへ　いってみましょ」[wait]
+{I guess that[br]
+also counts as[br]
+*highest', huh?[br]
+Alright, let's[br]
+go there.}
+
+[wait]
+
+// [end]
+
+
+[end]
+
+#END()
+
